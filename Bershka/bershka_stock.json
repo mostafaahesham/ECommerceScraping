@@ -136,7 +136,7 @@
                 "color_code": "250",
                 "sizes": {
                     "XS": true,
-                    "S": true,
+                    "S": false,
                     "M": true,
                     "L": true,
                     "XL": false
@@ -403,6 +403,122 @@
         "item_brand": "Bershka",
         "item_section": "Men",
         "item_category": "T-Shirts",
+        "item_id": 117617725,
+        "item_name": "Extra-loose short-sleeve T-shirt with print",
+        "item_on_sale": false,
+        "item_old_price": 649,
+        "item_new_price": 649,
+        "item_discount": 0,
+        "item_link": "https://www.bershka.com/eg/en/extraloose-shortsleeve-tshirt-with-print-l08188922",
+        "item_options": [
+            {
+                "color": "Grey",
+                "color_code": "802",
+                "sizes": {
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
+                },
+                "images": [
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/8307037facd5ca0360a7174cab193755-8188922802_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/0a0dd2d3a6616b5148c98facb06ff004-8188922802_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/56825dccdacf533a6b82135875957c09-8188922802_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/b9200f28de3b1aa2c446c18df3a1365b-8188922802_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/317d4d8fb5ec158a62b34e1aa61335c3-8188922802_2_5_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/94003a6263c9d40ac4e0378fc29d9cf4-8188922802_2_13_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/4c53697bc027576d1e8e0b5d93a192b7-8188922802_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/4c53697bc027576d1e8e0b5d93a192b7-8188922802_1_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/d3b7db58cbb469e584bcce872167ddba-8188922802_3_1_0.jpg"
+                ]
+            },
+            {
+                "color": "Camel",
+                "color_code": "707",
+                "sizes": {
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
+                },
+                "images": [
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/f7add1c574911169aeb416643573ab0e-8188922707_2_13_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/ff627baf6d2bf26722e7afce9512ff79-8188922707_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/1d19cdc0d0f5718069a980d624967565-8188922707_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/4b0584dd13f9ee7e5df9c8f115f7e883-8188922707_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/50a4126eb7abfba7cab780b13e110a14-8188922707_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/aa56a16aab9b7cd9e9471953af73e37f-8188922707_2_5_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/4993806b1d921a56322abe369d3622b7-8188922707_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/4993806b1d921a56322abe369d3622b7-8188922707_1_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/3c38ff6fc028ea5e0b1debf3ade50db2-8188922707_3_1_0.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "item_brand": "Bershka",
+        "item_section": "Men",
+        "item_category": "T-Shirts",
+        "item_id": 117617724,
+        "item_name": "Extra-loose short-sleeve T-shirt with print",
+        "item_on_sale": false,
+        "item_old_price": 649,
+        "item_new_price": 649,
+        "item_discount": 0,
+        "item_link": "https://www.bershka.com/eg/en/extraloose-shortsleeve-tshirt-with-print-l08188922",
+        "item_options": [
+            {
+                "color": "Grey",
+                "color_code": "802",
+                "sizes": {
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
+                },
+                "images": [
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/8307037facd5ca0360a7174cab193755-8188922802_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/0a0dd2d3a6616b5148c98facb06ff004-8188922802_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/56825dccdacf533a6b82135875957c09-8188922802_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/b9200f28de3b1aa2c446c18df3a1365b-8188922802_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/317d4d8fb5ec158a62b34e1aa61335c3-8188922802_2_5_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/94003a6263c9d40ac4e0378fc29d9cf4-8188922802_2_13_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/4c53697bc027576d1e8e0b5d93a192b7-8188922802_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/4c53697bc027576d1e8e0b5d93a192b7-8188922802_1_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/802/d3b7db58cbb469e584bcce872167ddba-8188922802_3_1_0.jpg"
+                ]
+            },
+            {
+                "color": "Camel",
+                "color_code": "707",
+                "sizes": {
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
+                },
+                "images": [
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/f7add1c574911169aeb416643573ab0e-8188922707_2_13_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/ff627baf6d2bf26722e7afce9512ff79-8188922707_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/1d19cdc0d0f5718069a980d624967565-8188922707_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/4b0584dd13f9ee7e5df9c8f115f7e883-8188922707_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/50a4126eb7abfba7cab780b13e110a14-8188922707_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/aa56a16aab9b7cd9e9471953af73e37f-8188922707_2_5_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/4993806b1d921a56322abe369d3622b7-8188922707_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/4993806b1d921a56322abe369d3622b7-8188922707_1_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8188/922/707/3c38ff6fc028ea5e0b1debf3ade50db2-8188922707_3_1_0.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "item_brand": "Bershka",
+        "item_section": "Men",
+        "item_category": "T-Shirts",
         "item_id": 116922134,
         "item_name": "Oversize boxy fit short sleeve T-shirt with Jujutsu print",
         "item_on_sale": false,
@@ -570,7 +686,7 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": false,
+                    "L": true,
                     "XL": true
                 },
                 "images": [
@@ -592,7 +708,7 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": true,
+                    "L": false,
                     "XL": true
                 },
                 "images": [
@@ -1011,12 +1127,12 @@
                 "color": "Violet",
                 "color_code": "611",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true,
-                    "XXL": true
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false,
+                    "XXL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/2692/880/611/6b45bc5a3cbdaf8b9b2dd592dd4aad68-2692880611_2_2_0.jpg",
@@ -1042,12 +1158,12 @@
                 "color": "Violet",
                 "color_code": "611",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true,
-                    "XXL": true
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false,
+                    "XXL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/2692/880/611/6b45bc5a3cbdaf8b9b2dd592dd4aad68-2692880611_2_2_0.jpg",
@@ -1140,12 +1256,12 @@
                 "color": "Yellow",
                 "color_code": "300",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
-                    "L": false,
-                    "XL": false,
-                    "XXL": false
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true,
+                    "XXL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/2692/880/300/03d18959fe440c8287fa928c1d9f2f97-2692880300_2_2_0.jpg",
@@ -1718,6 +1834,43 @@
         "item_brand": "Bershka",
         "item_section": "Men",
         "item_category": "T-Shirts",
+        "item_id": 115738455,
+        "item_name": "Striped short sleeve boxy fit bear print T-shirt",
+        "item_on_sale": false,
+        "item_old_price": 549,
+        "item_new_price": 549,
+        "item_discount": 0,
+        "item_link": "https://www.bershka.com/eg/en/striped-short-sleeve-boxy-fit-bear-print-tshirt-l08159461",
+        "item_options": [
+            {
+                "color": "Blue",
+                "color_code": "045",
+                "sizes": {
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
+                },
+                "images": [
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8159/461/045/249eff5fcfeb5b5bfd6511306264379d-8159461045_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8159/461/045/52fde67b4c4571b1d5a8bbf8f4beff75-8159461045_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8159/461/045/ede6c8b029a9d823b5e482840bb6f859-8159461045_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8159/461/045/9b90e2f860dcf381ce20c5c88906037c-8159461045_2_5_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8159/461/045/d7d5048072e4020f8b6dd30f88719af1-8159461045_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8159/461/045/4e51afd4a87c6fde68c153b909715c18-8159461045_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8159/461/045/8bb0fdee01d4ec9ca01613e67d2f6bed-8159461045_2_7_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8159/461/045/b2d188a55df8be4468d5327803c67e18-8159461045_3_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8159/461/045/17c075b6ab26c73e5136b65124fac872-8159461045_1_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/8159/461/045/d7d5048072e4020f8b6dd30f88719af1-8159461045_1_2_0.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "item_brand": "Bershka",
+        "item_section": "Men",
+        "item_category": "T-Shirts",
         "item_id": 114207367,
         "item_name": "Slim fit short sleeve mock neck T-shirt",
         "item_on_sale": false,
@@ -2180,9 +2333,9 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": true,
                     "XL": true
                 },
@@ -2201,11 +2354,11 @@
                 "color": "Grey",
                 "color_code": "812",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
-                    "L": false,
-                    "XL": false
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/812/7e4a648b8dc3805a8bf7f8f5b72914e9-3386987812_2_2_0.jpg",
@@ -2223,10 +2376,10 @@
                 "color_code": "250",
                 "sizes": {
                     "XS": false,
-                    "S": true,
+                    "S": false,
                     "M": false,
-                    "L": true,
-                    "XL": true
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/250/8dce4bf79170868f3f2ae9a9631c1ba4-3386987250_2_2_0.jpg",
@@ -2320,11 +2473,11 @@
                 "color": "Grey",
                 "color_code": "812",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
-                    "L": false,
-                    "XL": false
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/812/7e4a648b8dc3805a8bf7f8f5b72914e9-3386987812_2_2_0.jpg",
@@ -2341,11 +2494,11 @@
                 "color": "White",
                 "color_code": "250",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/250/8dce4bf79170868f3f2ae9a9631c1ba4-3386987250_2_2_0.jpg",
@@ -2397,9 +2550,9 @@
                 "color": "Red",
                 "color_code": "600",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": true,
                     "XL": true
                 },
@@ -2418,11 +2571,11 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
-                    "L": false,
-                    "XL": false
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/800/1066d9213f03b1132cfb4f83dd65b790-3386987800_2_2_0.jpg",
@@ -2439,9 +2592,9 @@
                 "color": "Grey",
                 "color_code": "812",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": true,
-                    "M": false,
+                    "M": true,
                     "L": true,
                     "XL": true
                 },
@@ -2460,11 +2613,11 @@
                 "color": "White",
                 "color_code": "250",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/250/8dce4bf79170868f3f2ae9a9631c1ba4-3386987250_2_2_0.jpg",
@@ -2538,10 +2691,10 @@
                 "color_code": "800",
                 "sizes": {
                     "XS": false,
-                    "S": false,
+                    "S": true,
                     "M": false,
-                    "L": false,
-                    "XL": false
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/800/1066d9213f03b1132cfb4f83dd65b790-3386987800_2_2_0.jpg",
@@ -2558,9 +2711,9 @@
                 "color": "Grey",
                 "color_code": "812",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": true,
-                    "M": false,
+                    "M": true,
                     "L": true,
                     "XL": true
                 },
@@ -2579,11 +2732,11 @@
                 "color": "White",
                 "color_code": "250",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/250/8dce4bf79170868f3f2ae9a9631c1ba4-3386987250_2_2_0.jpg",
@@ -2923,7 +3076,7 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": false,
+                    "L": true,
                     "XL": true
                 },
                 "images": [
@@ -2945,7 +3098,7 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": true,
+                    "L": false,
                     "XL": true
                 },
                 "images": [
@@ -3048,7 +3201,7 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": false,
+                    "L": true,
                     "XL": true
                 },
                 "images": [
@@ -3070,7 +3223,7 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": true,
+                    "L": false,
                     "XL": true
                 },
                 "images": [
@@ -3401,11 +3554,11 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
+                    "XS": true,
+                    "S": true,
                     "M": true,
                     "L": true,
-                    "XL": false
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/2700/988/800/5390b60ffa91c83772d5efd3773c8d2b-2700988800_2_2_0.jpg",
@@ -3427,8 +3580,8 @@
                 "sizes": {
                     "XS": false,
                     "S": false,
-                    "M": false,
-                    "L": false,
+                    "M": true,
+                    "L": true,
                     "XL": false
                 },
                 "images": [
@@ -3446,11 +3599,11 @@
                 "color": "Off white",
                 "color_code": "251",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/2700/988/251/607074d3cf595f26351888331cdbb2ed-2700988251_2_2_0.jpg",
@@ -3506,11 +3659,11 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
+                    "XS": false,
+                    "S": false,
                     "M": true,
                     "L": true,
-                    "XL": true
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/2700/988/800/5390b60ffa91c83772d5efd3773c8d2b-2700988800_2_2_0.jpg",
@@ -3532,8 +3685,8 @@
                 "sizes": {
                     "XS": false,
                     "S": false,
-                    "M": true,
-                    "L": true,
+                    "M": false,
+                    "L": false,
                     "XL": false
                 },
                 "images": [
@@ -3551,11 +3704,11 @@
                 "color": "Off white",
                 "color_code": "251",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
-                    "L": false,
-                    "XL": false
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/2700/988/251/607074d3cf595f26351888331cdbb2ed-2700988251_2_2_0.jpg",
@@ -3973,10 +4126,10 @@
                 "color": "Grey",
                 "color_code": "205",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": true,
-                    "M": true,
-                    "L": true,
+                    "M": false,
+                    "L": false,
                     "XL": false
                 },
                 "images": [
@@ -3996,10 +4149,10 @@
                 "color": "Pink",
                 "color_code": "627",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": true,
                     "M": true,
-                    "L": false,
+                    "L": true,
                     "XL": false
                 },
                 "images": [
@@ -4034,7 +4187,7 @@
                 "sizes": {
                     "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": false,
                     "XL": false
                 },
@@ -4137,7 +4290,7 @@
                 "sizes": {
                     "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": false,
                     "XL": false
                 },
@@ -4197,7 +4350,7 @@
                     "XS": false,
                     "S": false,
                     "M": true,
-                    "L": true,
+                    "L": false,
                     "XL": false
                 },
                 "images": [
@@ -4387,8 +4540,8 @@
                 "color": "Violet",
                 "color_code": "612",
                 "sizes": {
-                    "M-L": true,
-                    "XS-S": false
+                    "XS-S": true,
+                    "M-L": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/1/p/7324/686/612/1744c0cb86f36d3bf26be47b80e6e935-7324686612_2_1_0.jpg",
@@ -4405,8 +4558,8 @@
                 "color": "Sand",
                 "color_code": "711",
                 "sizes": {
-                    "M-L": true,
-                    "XS-S": false
+                    "XS-S": false,
+                    "M-L": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/1/p/7324/686/711/e02ffad7dda5c5e5acca3b2494093bbd-7324686711_2_1_0.jpg",
@@ -4417,47 +4570,6 @@
                     "https://static.bershka.net/4/photos2/2022/I/0/1/p/7324/686/711/3a00a8b1f5b2386d8ebb98903fa84346-7324686711_1_1_0.jpg",
                     "https://static.bershka.net/4/photos2/2022/I/0/1/p/7324/686/711/3a00a8b1f5b2386d8ebb98903fa84346-7324686711_1_2_0.jpg",
                     "https://static.bershka.net/4/photos2/2022/I/0/1/p/7324/686/711/93a35f9c81b7540d233c5ce434593007-7324686711_3_1_0.jpg"
-                ]
-            }
-        ]
-    },
-    {
-        "item_brand": "Bershka",
-        "item_section": "Men",
-        "item_category": "Sweatshirts",
-        "item_id": 121880420,
-        "item_name": "Crew neck sweatshirt",
-        "item_on_sale": false,
-        "item_old_price": 649,
-        "item_new_price": 649,
-        "item_discount": 0,
-        "item_link": "https://www.bershka.com/eg/en/crew-neck-sweatshirt-l07324498",
-        "item_options": [
-            {
-                "color": "Blue",
-                "color_code": "400",
-                "sizes": {
-                    "XXS": false,
-                    "XS": false,
-                    "S": true,
-                    "M": false,
-                    "L": false,
-                    "XL": false
-                },
-                "images": [
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/b9004b09d59596bdf235302fd6ee8e07-7324498400_2_19_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/fa0305b93b6d12d18ab55f51c9b1609f-7324498400_2_17_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/ec2af4d7454c82c8b1d3f49a66e8c4e3-7324498400_2_18_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/3a32507f707b08c671ca566f62ae4015-7324498400_2_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/1eacf96f2de6c8c13475b08c1fe4ef82-7324498400_2_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/8baa2b7080367f3ab0df394c67022b3c-7324498400_2_3_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/de9069ac61f6f99da0defd9148870879-7324498400_2_4_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/984968184d6221cc63b42a81c2f7fedc-7324498400_2_5_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/9f54bac73b5892d56967722a6d0438be-7324498400_2_7_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/6d6455106831cda0a97ddbfe3c7f54de-7324498400_3_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/2c7dcf1da7faeb6244b057e296555c66-7324498400_1_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/2c7dcf1da7faeb6244b057e296555c66-7324498400_1_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/7324/498/400/a3384c20c5c1c45917242baeae658c7f-7324498400_2_6_0.jpg"
                 ]
             }
         ]
@@ -5055,9 +5167,9 @@
                 "color_code": "428",
                 "sizes": {
                     "34": true,
-                    "36": true,
+                    "36": false,
                     "38": false,
-                    "40": true,
+                    "40": false,
                     "42": false,
                     "44": false,
                     "46": false,
@@ -5079,9 +5191,9 @@
                 "color_code": "800",
                 "sizes": {
                     "34": true,
-                    "36": false,
+                    "36": true,
                     "38": false,
-                    "40": false,
+                    "40": true,
                     "42": false,
                     "44": false,
                     "46": false,
@@ -5137,7 +5249,7 @@
                 "color": "Blue",
                 "color_code": "400",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": false,
                     "M": false,
                     "L": false,
@@ -5202,7 +5314,7 @@
                 "color": "Green",
                 "color_code": "537",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": false,
                     "M": false,
                     "L": false,
@@ -5279,10 +5391,10 @@
                 "color": "Blue",
                 "color_code": "400",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": false,
-                    "M": true,
-                    "L": true,
+                    "M": false,
+                    "L": false,
                     "XL": false
                 },
                 "images": [
@@ -5323,10 +5435,10 @@
                 "color": "Pink",
                 "color_code": "902",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": false,
-                    "M": false,
-                    "L": false,
+                    "M": true,
+                    "L": true,
                     "XL": false
                 },
                 "images": [
@@ -5443,10 +5555,10 @@
                 "color_code": "800",
                 "sizes": {
                     "XS": false,
-                    "S": false,
+                    "S": true,
                     "M": false,
-                    "L": false,
-                    "XL": false
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/800/1066d9213f03b1132cfb4f83dd65b790-3386987800_2_2_0.jpg",
@@ -5463,9 +5575,9 @@
                 "color": "Grey",
                 "color_code": "812",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": true,
-                    "M": false,
+                    "M": true,
                     "L": true,
                     "XL": true
                 },
@@ -5484,11 +5596,11 @@
                 "color": "White",
                 "color_code": "250",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/250/8dce4bf79170868f3f2ae9a9631c1ba4-3386987250_2_2_0.jpg",
@@ -5561,9 +5673,9 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": true,
                     "XL": true
                 },
@@ -5582,11 +5694,11 @@
                 "color": "Grey",
                 "color_code": "812",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
-                    "L": false,
-                    "XL": false
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/812/7e4a648b8dc3805a8bf7f8f5b72914e9-3386987812_2_2_0.jpg",
@@ -5604,10 +5716,10 @@
                 "color_code": "250",
                 "sizes": {
                     "XS": false,
-                    "S": true,
+                    "S": false,
                     "M": false,
-                    "L": true,
-                    "XL": true
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/250/8dce4bf79170868f3f2ae9a9631c1ba4-3386987250_2_2_0.jpg",
@@ -5701,11 +5813,11 @@
                 "color": "Grey",
                 "color_code": "812",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
-                    "L": false,
-                    "XL": false
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/812/7e4a648b8dc3805a8bf7f8f5b72914e9-3386987812_2_2_0.jpg",
@@ -5722,11 +5834,11 @@
                 "color": "White",
                 "color_code": "250",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/250/8dce4bf79170868f3f2ae9a9631c1ba4-3386987250_2_2_0.jpg",
@@ -5778,9 +5890,9 @@
                 "color": "Red",
                 "color_code": "600",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": true,
                     "XL": true
                 },
@@ -5799,11 +5911,11 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
-                    "L": false,
-                    "XL": false
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/800/1066d9213f03b1132cfb4f83dd65b790-3386987800_2_2_0.jpg",
@@ -5820,9 +5932,9 @@
                 "color": "Grey",
                 "color_code": "812",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": true,
-                    "M": false,
+                    "M": true,
                     "L": true,
                     "XL": true
                 },
@@ -5841,11 +5953,11 @@
                 "color": "White",
                 "color_code": "250",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3386/987/250/8dce4bf79170868f3f2ae9a9631c1ba4-3386987250_2_2_0.jpg",
@@ -6216,10 +6328,10 @@
                 "color_code": "711",
                 "sizes": {
                     "XS": true,
-                    "S": false,
-                    "M": false,
+                    "S": true,
+                    "M": true,
                     "L": false,
-                    "XL": false
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3227/478/711/972988569f66f36f19227d62b9222fe3-3227478711_2_1_0.jpg",
@@ -6237,10 +6349,10 @@
                 "color_code": "717",
                 "sizes": {
                     "XS": true,
-                    "S": true,
-                    "M": true,
+                    "S": false,
+                    "M": false,
                     "L": false,
-                    "XL": true
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3227/478/717/667e6e242c78eee33c00a58d3edfd70b-3227478717_2_1_0.jpg",
@@ -6314,9 +6426,9 @@
                 "color_code": "711",
                 "sizes": {
                     "XS": true,
-                    "S": false,
-                    "M": false,
-                    "L": false,
+                    "S": true,
+                    "M": true,
+                    "L": true,
                     "XL": false
                 },
                 "images": [
@@ -6335,9 +6447,9 @@
                 "color_code": "717",
                 "sizes": {
                     "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
+                    "S": false,
+                    "M": false,
+                    "L": false,
                     "XL": false
                 },
                 "images": [
@@ -6424,9 +6536,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
+                    "44": true,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/433/064f680748f08bfb0854f07650dedc11-0527211433_2_1_0.jpg",
@@ -6472,9 +6584,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
+                    "44": false,
                     "46": true,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/809/e41c8e49387aa9a3ac1ae23764716b67-0527211809_2_1_0.jpg",
@@ -6584,9 +6696,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
+                    "44": true,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/800/7a49951beebefae17302f304ef332bb4-0527211800_2_1_0.jpg",
@@ -6608,9 +6720,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
+                    "44": false,
                     "46": true,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/809/e41c8e49387aa9a3ac1ae23764716b67-0527211809_2_1_0.jpg",
@@ -6672,9 +6784,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
+                    "44": true,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/428/1fc5e5e441c3cd538709cde91524c748-0527211428_2_1_0.jpg",
@@ -6744,9 +6856,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
+                    "44": false,
                     "46": true,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/809/e41c8e49387aa9a3ac1ae23764716b67-0527211809_2_1_0.jpg",
@@ -6832,9 +6944,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
+                    "44": true,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/433/064f680748f08bfb0854f07650dedc11-0527211433_2_1_0.jpg",
@@ -6856,9 +6968,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
+                    "44": false,
                     "46": true,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/800/7a49951beebefae17302f304ef332bb4-0527211800_2_1_0.jpg",
@@ -6968,9 +7080,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
+                    "44": true,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/433/064f680748f08bfb0854f07650dedc11-0527211433_2_1_0.jpg",
@@ -7016,9 +7128,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
+                    "44": false,
                     "46": true,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/809/e41c8e49387aa9a3ac1ae23764716b67-0527211809_2_1_0.jpg",
@@ -7270,7 +7382,7 @@
                     "S": true,
                     "M": false,
                     "L": false,
-                    "XL": true,
+                    "XL": false,
                     "XXL": false
                 },
                 "images": [
@@ -7376,7 +7488,7 @@
                     "S": true,
                     "M": false,
                     "L": false,
-                    "XL": true,
+                    "XL": false,
                     "XXL": false
                 },
                 "images": [
@@ -7460,7 +7572,7 @@
                     "S": true,
                     "M": false,
                     "L": false,
-                    "XL": true,
+                    "XL": false,
                     "XXL": false
                 },
                 "images": [
@@ -7478,12 +7590,12 @@
                 "color": "Light blue",
                 "color_code": "428",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": true,
                     "M": true,
-                    "L": false,
-                    "XL": false,
-                    "XXL": false
+                    "L": true,
+                    "XL": true,
+                    "XXL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0534/179/428/3fd2b39050560dc9b4b2892e7681549a-0534179428_2_1_0.jpg",
@@ -7500,12 +7612,12 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": true,
                     "M": true,
-                    "L": true,
-                    "XL": true,
-                    "XXL": true
+                    "L": false,
+                    "XL": false,
+                    "XXL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0534/179/800/0becab65a6012606e5eea031213fbc6a-0534179800_2_1_0.jpg",
@@ -7588,7 +7700,7 @@
                     "S": true,
                     "M": false,
                     "L": false,
-                    "XL": true,
+                    "XL": false,
                     "XXL": false
                 },
                 "images": [
@@ -7606,12 +7718,12 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": true,
                     "M": true,
-                    "L": false,
-                    "XL": false,
-                    "XXL": false
+                    "L": true,
+                    "XL": true,
+                    "XXL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0534/179/800/0becab65a6012606e5eea031213fbc6a-0534179800_2_1_0.jpg",
@@ -7631,12 +7743,12 @@
                 "color": "Light blue",
                 "color_code": "433",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": true,
                     "M": true,
-                    "L": true,
-                    "XL": true,
-                    "XXL": true
+                    "L": false,
+                    "XL": false,
+                    "XXL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0534/179/433/3213ec8509ce65366139b44110878ac5-0534179433_2_1_0.jpg",
@@ -7716,14 +7828,14 @@
                 "color": "Light blue",
                 "color_code": "433",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": true,
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
-                    "46": false,
-                    "48": false
+                    "44": true,
+                    "46": true,
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3165/969/433/7bd5a864a3d3763ad25956b7e2962901-3165969433_2_4_0.jpg",
@@ -7740,14 +7852,14 @@
                 "color": "Grey",
                 "color_code": "811",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": true,
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
-                    "46": true,
-                    "48": true
+                    "44": false,
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3165/969/811/7c60b2ca2e3d7a7a0cac0fa612e4dd81-3165969811_2_4_0.jpg",
@@ -7936,14 +8048,14 @@
                 "color": "Light blue",
                 "color_code": "433",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": true,
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
-                    "46": false,
-                    "48": false
+                    "44": true,
+                    "46": true,
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3165/969/433/7bd5a864a3d3763ad25956b7e2962901-3165969433_2_4_0.jpg",
@@ -7960,14 +8072,14 @@
                 "color": "Grey",
                 "color_code": "811",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": true,
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
-                    "46": true,
-                    "48": true
+                    "44": false,
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3165/969/811/7c60b2ca2e3d7a7a0cac0fa612e4dd81-3165969811_2_4_0.jpg",
@@ -8595,7 +8707,7 @@
                 "sizes": {
                     "34": false,
                     "36": false,
-                    "38": false,
+                    "38": true,
                     "40": false,
                     "42": false,
                     "44": false,
@@ -8617,13 +8729,13 @@
                 "color": "Light blue",
                 "color_code": "433",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": false,
                     "38": false,
-                    "40": true,
+                    "40": false,
                     "42": false,
-                    "44": false,
-                    "46": false,
+                    "44": true,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -8643,7 +8755,7 @@
                 "sizes": {
                     "34": false,
                     "36": false,
-                    "38": true,
+                    "38": false,
                     "40": false,
                     "42": false,
                     "44": false,
@@ -8665,13 +8777,13 @@
                 "color": "Grey",
                 "color_code": "809",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": false,
                     "38": false,
-                    "40": false,
+                    "40": true,
                     "42": false,
-                    "44": true,
-                    "46": true,
+                    "44": false,
+                    "46": false,
                     "48": false
                 },
                 "images": [
@@ -8752,7 +8864,7 @@
                 "color_code": "428",
                 "sizes": {
                     "34": false,
-                    "36": false,
+                    "36": true,
                     "38": false,
                     "40": false,
                     "42": false,
@@ -8776,12 +8888,12 @@
                 "color_code": "433",
                 "sizes": {
                     "34": false,
-                    "36": true,
+                    "36": false,
                     "38": false,
                     "40": false,
                     "42": false,
-                    "44": false,
-                    "46": false,
+                    "44": true,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -8799,10 +8911,10 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": false,
                     "38": false,
-                    "40": true,
+                    "40": false,
                     "42": false,
                     "44": false,
                     "46": false,
@@ -8823,13 +8935,13 @@
                 "color": "Grey",
                 "color_code": "809",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": false,
                     "38": false,
-                    "40": false,
+                    "40": true,
                     "42": false,
-                    "44": true,
-                    "46": true,
+                    "44": false,
+                    "46": false,
                     "48": false
                 },
                 "images": [
@@ -8911,7 +9023,7 @@
                 "sizes": {
                     "34": false,
                     "36": false,
-                    "38": false,
+                    "38": true,
                     "40": false,
                     "42": false,
                     "44": false,
@@ -8957,10 +9069,10 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": false,
                     "38": false,
-                    "40": true,
+                    "40": false,
                     "42": false,
                     "44": false,
                     "46": false,
@@ -8981,10 +9093,10 @@
                 "color": "Grey",
                 "color_code": "809",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": false,
-                    "38": true,
-                    "40": false,
+                    "38": false,
+                    "40": true,
                     "42": false,
                     "44": false,
                     "46": false,
@@ -9069,7 +9181,7 @@
                 "sizes": {
                     "34": false,
                     "36": false,
-                    "38": false,
+                    "38": true,
                     "40": false,
                     "42": false,
                     "44": false,
@@ -9117,11 +9229,11 @@
                 "sizes": {
                     "34": false,
                     "36": false,
-                    "38": true,
+                    "38": false,
                     "40": false,
                     "42": false,
-                    "44": false,
-                    "46": false,
+                    "44": true,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -9144,8 +9256,8 @@
                     "38": false,
                     "40": false,
                     "42": false,
-                    "44": true,
-                    "46": true,
+                    "44": false,
+                    "46": false,
                     "48": false
                 },
                 "images": [
@@ -9603,14 +9715,14 @@
                 "color": "Light blue",
                 "color_code": "428",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": false,
-                    "38": true,
-                    "40": false,
-                    "42": false,
-                    "44": false,
+                    "38": false,
+                    "40": true,
+                    "42": true,
+                    "44": true,
                     "46": false,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0548/388/428/47978acb84aaac36f5d0f8591e3e12a7-0548388428_2_1_0.jpg",
@@ -9627,14 +9739,14 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": false,
-                    "38": false,
-                    "40": true,
-                    "42": true,
-                    "44": true,
+                    "38": true,
+                    "40": false,
+                    "42": false,
+                    "44": false,
                     "46": false,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0548/388/800/274010ed530eb9a06135be63c95dd966-0548388800_2_1_0.jpg",
@@ -9827,10 +9939,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": false,
-                    "44": false,
-                    "46": true,
-                    "48": true
+                    "42": true,
+                    "44": true,
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/809/94f86c2043bb79fb15c973d05edb5000-3164534809_2_4_0.jpg",
@@ -9851,8 +9963,8 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": true,
-                    "44": true,
+                    "42": false,
+                    "44": false,
                     "46": false,
                     "48": false
                 },
@@ -9875,9 +9987,9 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": false,
-                    "44": false,
-                    "46": false,
+                    "42": true,
+                    "44": true,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -9899,10 +10011,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": true,
-                    "44": true,
+                    "42": false,
+                    "44": false,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/428/20c9d599c1d12ce08648d943aa8c8ba6-3164534428_2_4_0.jpg",
@@ -9985,10 +10097,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": false,
-                    "44": false,
-                    "46": true,
-                    "48": true
+                    "42": true,
+                    "44": true,
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/400/49e1cc818ab499ceebe8f719dc0e0042-3164534400_2_4_0.jpg",
@@ -10011,7 +10123,7 @@
                     "40": true,
                     "42": true,
                     "44": true,
-                    "46": false,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -10033,10 +10145,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": true,
-                    "44": true,
+                    "42": false,
+                    "44": false,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/428/20c9d599c1d12ce08648d943aa8c8ba6-3164534428_2_4_0.jpg",
@@ -10119,10 +10231,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": false,
-                    "44": false,
-                    "46": true,
-                    "48": true
+                    "42": true,
+                    "44": true,
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/400/49e1cc818ab499ceebe8f719dc0e0042-3164534400_2_4_0.jpg",
@@ -10143,8 +10255,8 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": true,
-                    "44": true,
+                    "42": false,
+                    "44": false,
                     "46": false,
                     "48": false
                 },
@@ -10169,8 +10281,8 @@
                     "40": true,
                     "42": false,
                     "44": false,
-                    "46": false,
-                    "48": false
+                    "46": true,
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/428/20c9d599c1d12ce08648d943aa8c8ba6-3164534428_2_4_0.jpg",
@@ -10255,8 +10367,8 @@
                     "40": true,
                     "42": false,
                     "44": false,
-                    "46": true,
-                    "48": true
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/400/49e1cc818ab499ceebe8f719dc0e0042-3164534400_2_4_0.jpg",
@@ -10277,9 +10389,9 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": false,
-                    "44": false,
-                    "46": false,
+                    "42": true,
+                    "44": true,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -10301,10 +10413,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": true,
-                    "44": true,
+                    "42": false,
+                    "44": false,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/428/20c9d599c1d12ce08648d943aa8c8ba6-3164534428_2_4_0.jpg",
@@ -10315,6 +10427,75 @@
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/428/02d1b94293ac273b345cf278efe7bf5e-3164534428_1_2_0.jpg",
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/428/1a7688ab3daa8b3d218fd639ba472152-3164534428_3_1_0.jpg",
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/428/b850c382dd84400fa5d7ce9b7c5a9126-3164534428_2_3_0.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "item_brand": "Bershka",
+        "item_section": "Men",
+        "item_category": "Jackets",
+        "item_id": 116912750,
+        "item_name": "Balloon fit jeans",
+        "item_on_sale": false,
+        "item_old_price": 1299,
+        "item_new_price": 1299,
+        "item_discount": 0,
+        "item_link": "https://www.bershka.com/eg/en/balloon-fit-jeans-l05424847",
+        "item_options": [
+            {
+                "color": "Blue",
+                "color_code": "400",
+                "sizes": {
+                    "34": false,
+                    "36": false,
+                    "38": true,
+                    "40": false,
+                    "42": false,
+                    "44": false,
+                    "46": false,
+                    "48": false
+                },
+                "images": [
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/cb5f2756f75eaa603bd122db32f03b8a-5424847400_2_19_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/a0eed81bce7fc355ef8643b4745e4583-5424847400_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/16b240508c7a5e25a50c6f30ef1e2a1d-5424847400_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/c631d8547af9e0164fd9629458f350c8-5424847400_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/ee1776a491c1983be7c5c1c96e44f2ed-5424847400_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/c1aacd64420b2800bca33f53339b9177-5424847400_2_5_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/f280ffc852db8867ee5caa1fadd772d5-5424847400_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/cb5f2756f75eaa603bd122db32f03b8a-5424847400_2_7_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/6748c8ab16643097a4dab6178ccd72dc-5424847400_3_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/f280ffc852db8867ee5caa1fadd772d5-5424847400_1_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/fb6fe7d7343f9a97328eee804bb321a1-5424847400_2_6_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/0da22948fc81f104dc3759af784a8fc7-5424847400_6_2_0.jpg"
+                ]
+            },
+            {
+                "color": "Light blue",
+                "color_code": "433",
+                "sizes": {
+                    "34": false,
+                    "36": true,
+                    "38": false,
+                    "40": false,
+                    "42": false,
+                    "44": false,
+                    "46": false,
+                    "48": false
+                },
+                "images": [
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/001b8f6491f05d696709ccf946040f40-5424847433_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/b7ab5597fc62e7b5dfa10f3dfcffd0b5-5424847433_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/0e943d051ec84ba5c052558ecbb427d6-5424847433_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/78ea8bb55609bddf0b2c1dffc236f01f-5424847433_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/554b98a9759f0506b436d4270572d6c5-5424847433_2_5_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/b2edb93eeb398213d033b5b5f27041f6-5424847433_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/c1451a767983f405fdf97aeaf998d6ec-5424847433_2_19_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/c1451a767983f405fdf97aeaf998d6ec-5424847433_2_7_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/106534e64a5db530c8c0cdd595781a53-5424847433_3_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/fb6fe7d7343f9a97328eee804bb321a1-5424847433_2_6_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/b2edb93eeb398213d033b5b5f27041f6-5424847433_1_2_0.jpg"
                 ]
             }
         ]
@@ -10365,7 +10546,7 @@
                 "sizes": {
                     "34": false,
                     "36": false,
-                    "38": false,
+                    "38": true,
                     "40": false,
                     "42": false,
                     "44": false,
@@ -11000,8 +11181,8 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": false,
-                    "XL": false
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0689/498/812/78b707414303a8275ca8c6d263c6a5b5-0689498812_2_1_0.jpg",
@@ -11097,8 +11278,8 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": false,
-                    "XL": false
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0689/498/812/78b707414303a8275ca8c6d263c6a5b5-0689498812_2_1_0.jpg",
@@ -11120,8 +11301,8 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": true,
-                    "XL": true
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0689/498/800/7a71bdaf8424f02b5851b0e3ebe61128-0689498800_2_1_0.jpg",
@@ -11383,7 +11564,7 @@
                 "color": "Blue",
                 "color_code": "400",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": false,
                     "M": false,
                     "L": false,
@@ -11427,7 +11608,7 @@
                 "color": "Grey",
                 "color_code": "802",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": false,
                     "M": false,
                     "L": false,
@@ -11810,9 +11991,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
-                    "46": false,
-                    "48": true
+                    "44": false,
+                    "46": true,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/5457/665/428/1800acf8ac4262cdd91d92fc1b54a72d-5457665428_2_1_0.jpg",
@@ -11834,9 +12015,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
-                    "46": true,
-                    "48": false
+                    "44": true,
+                    "46": false,
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/5457/665/800/0c99c3fced11a2960f515de3f96fc702-5457665800_2_1_0.jpg",
@@ -11889,11 +12070,11 @@
                 "color": "Khaki",
                 "color_code": "548",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": false,
-                    "M": false,
+                    "M": true,
                     "L": false,
-                    "XL": false,
+                    "XL": true,
                     "XXL": false
                 },
                 "images": [
@@ -11913,7 +12094,7 @@
                 "color": "garnet",
                 "color_code": "605",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": false,
                     "M": true,
                     "L": false,
@@ -11937,7 +12118,7 @@
                 "sizes": {
                     "XS": false,
                     "S": false,
-                    "M": true,
+                    "M": false,
                     "L": false,
                     "XL": false,
                     "XXL": false
@@ -11995,11 +12176,11 @@
                 "color": "Khaki",
                 "color_code": "548",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": false,
-                    "M": false,
+                    "M": true,
                     "L": false,
-                    "XL": false,
+                    "XL": true,
                     "XXL": false
                 },
                 "images": [
@@ -12020,10 +12201,10 @@
                 "color_code": "605",
                 "sizes": {
                     "XS": true,
-                    "S": false,
+                    "S": true,
                     "M": true,
-                    "L": false,
-                    "XL": false,
+                    "L": true,
+                    "XL": true,
                     "XXL": false
                 },
                 "images": [
@@ -12041,11 +12222,11 @@
                 "color": "Off white",
                 "color_code": "251",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true,
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false,
                     "XXL": false
                 },
                 "images": [
@@ -12083,7 +12264,7 @@
                     "S": false,
                     "M": true,
                     "L": false,
-                    "XL": false,
+                    "XL": true,
                     "XXL": false
                 },
                 "images": [
@@ -12103,7 +12284,7 @@
                 "sizes": {
                     "XS": false,
                     "S": false,
-                    "M": false,
+                    "M": true,
                     "L": false,
                     "XL": false,
                     "XXL": false
@@ -12125,11 +12306,11 @@
                 "color": "garnet",
                 "color_code": "605",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
+                    "XS": true,
+                    "S": true,
                     "M": true,
-                    "L": false,
-                    "XL": false,
+                    "L": true,
+                    "XL": true,
                     "XXL": false
                 },
                 "images": [
@@ -12147,11 +12328,11 @@
                 "color": "Off white",
                 "color_code": "251",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true,
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false,
                     "XXL": false
                 },
                 "images": [
@@ -12289,9 +12470,9 @@
                 "color_code": "711",
                 "sizes": {
                     "XS": true,
-                    "S": false,
-                    "M": false,
-                    "L": false,
+                    "S": true,
+                    "M": true,
+                    "L": true,
                     "XL": false
                 },
                 "images": [
@@ -12312,9 +12493,9 @@
                 "color_code": "742",
                 "sizes": {
                     "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
+                    "S": false,
+                    "M": false,
+                    "L": false,
                     "XL": false
                 },
                 "images": [
@@ -12572,7 +12753,7 @@
                 "sizes": {
                     "XS": true,
                     "S": false,
-                    "M": true,
+                    "M": false,
                     "L": false,
                     "XL": false
                 },
@@ -12715,11 +12896,11 @@
                 "color": "Green",
                 "color_code": "982",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
-                    "L": false,
-                    "XL": false
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/5529/388/982/0ef460ff983af4ceb43b7953308e2c32-5529388982_2_2_0.jpg",
@@ -12736,11 +12917,11 @@
                 "color": "Camel",
                 "color_code": "742",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/5529/388/742/b12942fa0627a413210effa159c37363-5529388742_2_1_0.jpg",
@@ -12813,7 +12994,7 @@
                 "color": "Green",
                 "color_code": "982",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": false,
                     "M": false,
                     "L": false,
@@ -12834,7 +13015,7 @@
                 "color": "Camel",
                 "color_code": "742",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": false,
                     "M": false,
                     "L": false,
@@ -12892,7 +13073,7 @@
                 "sizes": {
                     "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": false,
                     "XL": false
                 },
@@ -12948,7 +13129,7 @@
                 "sizes": {
                     "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": false,
                     "XL": false
                 },
@@ -12967,7 +13148,7 @@
                 "color": "Camel",
                 "color_code": "707",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": true,
                     "M": true,
                     "L": true,
@@ -12988,7 +13169,7 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": true,
                     "M": true,
                     "L": true,
@@ -13046,7 +13227,7 @@
                 "sizes": {
                     "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": false,
                     "XL": false
                 },
@@ -13246,68 +13427,9 @@
                     "XS": false,
                     "S": false,
                     "M": false,
-                    "L": true,
-                    "XL": false,
-                    "XXL": false
-                },
-                "images": [
-                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/3859/335/800/bd31b07a2915e0618c5af31334687e5a-3859335800_2_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/3859/335/800/5298f3e21eb7928226e6332eda4990d5-3859335800_2_5_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/3859/335/800/357942e0485cb7fff0b1715b54f404ab-3859335800_3_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/3859/335/800/1606e9e7fd75e7c3ae926c58947bb7d3-3859335800_2_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/3859/335/800/85c029ffc5b302676248cd0fc6ecf8eb-3859335800_2_3_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/3859/335/800/bb46131187e976e07c542fe85f0a855c-3859335800_1_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/3859/335/800/bb46131187e976e07c542fe85f0a855c-3859335800_1_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/0/2/p/3859/335/800/e154a5902493a7b2ce5576a6cedd33db-3859335800_2_4_0.jpg"
-                ]
-            }
-        ]
-    },
-    {
-        "item_brand": "Bershka",
-        "item_section": "Men",
-        "item_category": "Jackets",
-        "item_id": 116912868,
-        "item_name": "Oversized denim jacket",
-        "item_on_sale": false,
-        "item_old_price": 1299,
-        "item_new_price": 1299,
-        "item_discount": 0,
-        "item_link": "https://www.bershka.com/eg/en/oversized-denim-jacket-l03859335",
-        "item_options": [
-            {
-                "color": "Light blue",
-                "color_code": "433",
-                "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
-                    "L": true,
-                    "XL": false,
-                    "XXL": false
-                },
-                "images": [
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/3859/335/433/894360384de4ae10108a5c8c4426606f-3859335433_2_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/3859/335/433/bca66da63e1dce0f43d32d9716dba19a-3859335433_2_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/3859/335/433/5a6a12876a25bdbd03b64e9575a0438b-3859335433_2_3_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/3859/335/433/6aff51e42967d475b90c55eaf356c1d8-3859335433_2_4_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/3859/335/433/be9549c58cbb8a4c594477559070690c-3859335433_2_5_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/3859/335/433/1351f6d094c9a379c2cb8729236bcbf7-3859335433_1_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/3859/335/433/1351f6d094c9a379c2cb8729236bcbf7-3859335433_1_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/3859/335/433/4e6e46aa50d7c55833fc34ff4e465fe5-3859335433_3_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/3859/335/433/37f686fcbd967fb5ae29a9ff9971a0dd-3859335433_1_3_0.jpg"
-                ]
-            },
-            {
-                "color": "Black",
-                "color_code": "800",
-                "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
                     "L": false,
                     "XL": false,
-                    "XXL": true
+                    "XXL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3859/335/800/bd31b07a2915e0618c5af31334687e5a-3859335800_2_2_0.jpg",
@@ -13814,8 +13936,8 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": false,
-                    "XL": false
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0689/498/812/78b707414303a8275ca8c6d263c6a5b5-0689498812_2_1_0.jpg",
@@ -13911,8 +14033,8 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": false,
-                    "XL": false
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0689/498/812/78b707414303a8275ca8c6d263c6a5b5-0689498812_2_1_0.jpg",
@@ -13934,8 +14056,8 @@
                     "XS": true,
                     "S": true,
                     "M": true,
-                    "L": true,
-                    "XL": true
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0689/498/800/7a71bdaf8424f02b5851b0e3ebe61128-0689498800_2_1_0.jpg",
@@ -14376,9 +14498,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
-                    "46": false,
-                    "48": true
+                    "44": false,
+                    "46": true,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/5457/665/428/1800acf8ac4262cdd91d92fc1b54a72d-5457665428_2_1_0.jpg",
@@ -14400,9 +14522,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
-                    "46": true,
-                    "48": false
+                    "44": true,
+                    "46": false,
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/5457/665/800/0c99c3fced11a2960f515de3f96fc702-5457665800_2_1_0.jpg",
@@ -14455,9 +14577,9 @@
                 "color_code": "711",
                 "sizes": {
                     "XS": true,
-                    "S": false,
-                    "M": false,
-                    "L": false,
+                    "S": true,
+                    "M": true,
+                    "L": true,
                     "XL": false
                 },
                 "images": [
@@ -14478,9 +14600,9 @@
                 "color_code": "742",
                 "sizes": {
                     "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
+                    "S": false,
+                    "M": false,
+                    "L": false,
                     "XL": false
                 },
                 "images": [
@@ -14738,7 +14860,7 @@
                 "sizes": {
                     "XS": true,
                     "S": false,
-                    "M": true,
+                    "M": false,
                     "L": false,
                     "XL": false
                 },
@@ -14881,11 +15003,11 @@
                 "color": "Green",
                 "color_code": "982",
                 "sizes": {
-                    "XS": false,
-                    "S": false,
-                    "M": false,
-                    "L": false,
-                    "XL": false
+                    "XS": true,
+                    "S": true,
+                    "M": true,
+                    "L": true,
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/5529/388/982/0ef460ff983af4ceb43b7953308e2c32-5529388982_2_2_0.jpg",
@@ -14902,11 +15024,11 @@
                 "color": "Camel",
                 "color_code": "742",
                 "sizes": {
-                    "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
-                    "XL": true
+                    "XS": false,
+                    "S": false,
+                    "M": false,
+                    "L": false,
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/5529/388/742/b12942fa0627a413210effa159c37363-5529388742_2_1_0.jpg",
@@ -14979,7 +15101,7 @@
                 "color": "Green",
                 "color_code": "982",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": false,
                     "M": false,
                     "L": false,
@@ -15000,7 +15122,7 @@
                 "color": "Camel",
                 "color_code": "742",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": false,
                     "M": false,
                     "L": false,
@@ -15058,7 +15180,7 @@
                 "sizes": {
                     "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": false,
                     "XL": false
                 },
@@ -15114,7 +15236,7 @@
                 "sizes": {
                     "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": false,
                     "XL": false
                 },
@@ -15133,7 +15255,7 @@
                 "color": "Camel",
                 "color_code": "707",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": true,
                     "M": true,
                     "L": true,
@@ -15154,7 +15276,7 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": true,
                     "M": true,
                     "L": true,
@@ -15212,7 +15334,7 @@
                 "sizes": {
                     "XS": false,
                     "S": true,
-                    "M": true,
+                    "M": false,
                     "L": false,
                     "XL": false
                 },
@@ -15296,6 +15418,75 @@
                 "sizes": {
                     "34": false,
                     "36": false,
+                    "38": true,
+                    "40": false,
+                    "42": false,
+                    "44": false,
+                    "46": false,
+                    "48": false
+                },
+                "images": [
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/001b8f6491f05d696709ccf946040f40-5424847433_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/b7ab5597fc62e7b5dfa10f3dfcffd0b5-5424847433_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/0e943d051ec84ba5c052558ecbb427d6-5424847433_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/78ea8bb55609bddf0b2c1dffc236f01f-5424847433_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/554b98a9759f0506b436d4270572d6c5-5424847433_2_5_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/b2edb93eeb398213d033b5b5f27041f6-5424847433_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/c1451a767983f405fdf97aeaf998d6ec-5424847433_2_19_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/c1451a767983f405fdf97aeaf998d6ec-5424847433_2_7_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/106534e64a5db530c8c0cdd595781a53-5424847433_3_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/fb6fe7d7343f9a97328eee804bb321a1-5424847433_2_6_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/433/b2edb93eeb398213d033b5b5f27041f6-5424847433_1_2_0.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "item_brand": "Bershka",
+        "item_section": "Men",
+        "item_category": "Trousers",
+        "item_id": 116912750,
+        "item_name": "Balloon fit jeans",
+        "item_on_sale": false,
+        "item_old_price": 1299,
+        "item_new_price": 1299,
+        "item_discount": 0,
+        "item_link": "https://www.bershka.com/eg/en/balloon-fit-jeans-l05424847",
+        "item_options": [
+            {
+                "color": "Blue",
+                "color_code": "400",
+                "sizes": {
+                    "34": false,
+                    "36": false,
+                    "38": true,
+                    "40": false,
+                    "42": false,
+                    "44": false,
+                    "46": false,
+                    "48": false
+                },
+                "images": [
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/cb5f2756f75eaa603bd122db32f03b8a-5424847400_2_19_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/a0eed81bce7fc355ef8643b4745e4583-5424847400_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/16b240508c7a5e25a50c6f30ef1e2a1d-5424847400_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/c631d8547af9e0164fd9629458f350c8-5424847400_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/ee1776a491c1983be7c5c1c96e44f2ed-5424847400_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/c1aacd64420b2800bca33f53339b9177-5424847400_2_5_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/f280ffc852db8867ee5caa1fadd772d5-5424847400_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/cb5f2756f75eaa603bd122db32f03b8a-5424847400_2_7_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/6748c8ab16643097a4dab6178ccd72dc-5424847400_3_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/f280ffc852db8867ee5caa1fadd772d5-5424847400_1_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/fb6fe7d7343f9a97328eee804bb321a1-5424847400_2_6_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/V/0/2/p/5424/847/400/0da22948fc81f104dc3759af784a8fc7-5424847400_6_2_0.jpg"
+                ]
+            },
+            {
+                "color": "Light blue",
+                "color_code": "433",
+                "sizes": {
+                    "34": false,
+                    "36": true,
                     "38": false,
                     "40": false,
                     "42": false,
@@ -15335,10 +15526,10 @@
                 "color": "White",
                 "color_code": "250",
                 "sizes": {
-                    "34": true,
-                    "36": true,
+                    "34": false,
+                    "36": false,
                     "38": false,
-                    "40": true,
+                    "40": false,
                     "42": false,
                     "44": false,
                     "46": false,
@@ -15384,8 +15575,8 @@
                 "color_code": "428",
                 "sizes": {
                     "34": false,
-                    "36": false,
-                    "38": false,
+                    "36": true,
+                    "38": true,
                     "40": false,
                     "42": false,
                     "44": false,
@@ -15408,11 +15599,11 @@
                 "color_code": "433",
                 "sizes": {
                     "34": true,
-                    "36": false,
-                    "38": false,
-                    "40": false,
-                    "42": false,
-                    "44": false,
+                    "36": true,
+                    "38": true,
+                    "40": true,
+                    "42": true,
+                    "44": true,
                     "46": false,
                     "48": false
                 },
@@ -15431,13 +15622,14 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "34": false,
-                    "36": false,
-                    "38": false,
-                    "40": false,
-                    "42": false,
-                    "44": false,
-                    "46": false
+                    "34": true,
+                    "36": true,
+                    "38": true,
+                    "40": true,
+                    "42": true,
+                    "44": true,
+                    "46": true,
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0305/534/800/92cf62dd6ad79958974f28a32f81b1d2-0305534800_2_1_0.jpg",
@@ -15455,11 +15647,11 @@
                 "color_code": "809",
                 "sizes": {
                     "34": true,
-                    "36": true,
-                    "38": true,
-                    "40": true,
-                    "42": true,
-                    "44": true,
+                    "36": false,
+                    "38": false,
+                    "40": false,
+                    "42": false,
+                    "44": false,
                     "46": false,
                     "48": false
                 },
@@ -15479,13 +15671,12 @@
                 "color_code": "811",
                 "sizes": {
                     "34": false,
-                    "36": true,
-                    "38": true,
+                    "36": false,
+                    "38": false,
                     "40": false,
-                    "42": true,
+                    "42": false,
                     "44": false,
-                    "46": false,
-                    "48": false
+                    "46": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0305/534/811/451fd03a92d422965fd211ff188b1d7f-0305534811_2_1_0.jpg",
@@ -15502,14 +15693,14 @@
                 "color": "Navy",
                 "color_code": "401",
                 "sizes": {
-                    "34": true,
-                    "36": true,
-                    "38": true,
-                    "40": true,
-                    "42": true,
-                    "44": true,
-                    "46": true,
-                    "48": true
+                    "34": false,
+                    "36": false,
+                    "38": false,
+                    "40": false,
+                    "42": false,
+                    "44": false,
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0305/534/401/c11e9e56fa2d6f5cd319810b72dc8f57-0305534401_2_1_0.jpg",
@@ -15561,7 +15752,7 @@
                 "color": "Blue",
                 "color_code": "400",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": false,
                     "M": false,
                     "L": false,
@@ -15626,7 +15817,7 @@
                 "color": "Green",
                 "color_code": "537",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": false,
                     "M": false,
                     "L": false,
@@ -15703,10 +15894,10 @@
                 "color": "Blue",
                 "color_code": "400",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": false,
-                    "M": true,
-                    "L": true,
+                    "M": false,
+                    "L": false,
                     "XL": false
                 },
                 "images": [
@@ -15747,10 +15938,10 @@
                 "color": "Pink",
                 "color_code": "902",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": false,
-                    "M": false,
-                    "L": false,
+                    "M": true,
+                    "L": true,
                     "XL": false
                 },
                 "images": [
@@ -15965,10 +16156,10 @@
                 "color_code": "711",
                 "sizes": {
                     "XS": true,
-                    "S": false,
-                    "M": false,
+                    "S": true,
+                    "M": true,
                     "L": false,
-                    "XL": false
+                    "XL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3227/478/711/972988569f66f36f19227d62b9222fe3-3227478711_2_1_0.jpg",
@@ -15986,10 +16177,10 @@
                 "color_code": "717",
                 "sizes": {
                     "XS": true,
-                    "S": true,
-                    "M": true,
+                    "S": false,
+                    "M": false,
                     "L": false,
-                    "XL": true
+                    "XL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3227/478/717/667e6e242c78eee33c00a58d3edfd70b-3227478717_2_1_0.jpg",
@@ -16063,9 +16254,9 @@
                 "color_code": "711",
                 "sizes": {
                     "XS": true,
-                    "S": false,
-                    "M": false,
-                    "L": false,
+                    "S": true,
+                    "M": true,
+                    "L": true,
                     "XL": false
                 },
                 "images": [
@@ -16084,9 +16275,9 @@
                 "color_code": "717",
                 "sizes": {
                     "XS": true,
-                    "S": true,
-                    "M": true,
-                    "L": true,
+                    "S": false,
+                    "M": false,
+                    "L": false,
                     "XL": false
                 },
                 "images": [
@@ -16510,14 +16701,14 @@
                 "color": "Light blue",
                 "color_code": "433",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": true,
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
-                    "46": false,
-                    "48": false
+                    "44": true,
+                    "46": true,
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3165/969/433/7bd5a864a3d3763ad25956b7e2962901-3165969433_2_4_0.jpg",
@@ -16534,14 +16725,14 @@
                 "color": "Grey",
                 "color_code": "811",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": true,
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
-                    "46": true,
-                    "48": true
+                    "44": false,
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3165/969/811/7c60b2ca2e3d7a7a0cac0fa612e4dd81-3165969811_2_4_0.jpg",
@@ -16730,14 +16921,14 @@
                 "color": "Light blue",
                 "color_code": "433",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": true,
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
-                    "46": false,
-                    "48": false
+                    "44": true,
+                    "46": true,
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3165/969/433/7bd5a864a3d3763ad25956b7e2962901-3165969433_2_4_0.jpg",
@@ -16754,14 +16945,14 @@
                 "color": "Grey",
                 "color_code": "811",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": true,
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
-                    "46": true,
-                    "48": true
+                    "44": false,
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3165/969/811/7c60b2ca2e3d7a7a0cac0fa612e4dd81-3165969811_2_4_0.jpg",
@@ -16846,8 +17037,8 @@
                     "40": true,
                     "42": false,
                     "44": false,
-                    "46": true,
-                    "48": true
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/400/49e1cc818ab499ceebe8f719dc0e0042-3164534400_2_4_0.jpg",
@@ -16868,9 +17059,9 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": false,
-                    "44": false,
-                    "46": false,
+                    "42": true,
+                    "44": true,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -16892,10 +17083,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": true,
-                    "44": true,
+                    "42": false,
+                    "44": false,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/428/20c9d599c1d12ce08648d943aa8c8ba6-3164534428_2_4_0.jpg",
@@ -16954,10 +17145,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": false,
-                    "44": false,
-                    "46": true,
-                    "48": true
+                    "42": true,
+                    "44": true,
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/809/94f86c2043bb79fb15c973d05edb5000-3164534809_2_4_0.jpg",
@@ -16978,8 +17169,8 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": true,
-                    "44": true,
+                    "42": false,
+                    "44": false,
                     "46": false,
                     "48": false
                 },
@@ -17002,9 +17193,9 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": false,
-                    "44": false,
-                    "46": false,
+                    "42": true,
+                    "44": true,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -17026,10 +17217,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": true,
-                    "44": true,
+                    "42": false,
+                    "44": false,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/428/20c9d599c1d12ce08648d943aa8c8ba6-3164534428_2_4_0.jpg",
@@ -17112,10 +17303,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": false,
-                    "44": false,
-                    "46": true,
-                    "48": true
+                    "42": true,
+                    "44": true,
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/400/49e1cc818ab499ceebe8f719dc0e0042-3164534400_2_4_0.jpg",
@@ -17136,8 +17327,8 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": true,
-                    "44": true,
+                    "42": false,
+                    "44": false,
                     "46": false,
                     "48": false
                 },
@@ -17162,8 +17353,8 @@
                     "40": true,
                     "42": false,
                     "44": false,
-                    "46": false,
-                    "48": false
+                    "46": true,
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/428/20c9d599c1d12ce08648d943aa8c8ba6-3164534428_2_4_0.jpg",
@@ -17380,10 +17571,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": false,
-                    "44": false,
-                    "46": true,
-                    "48": true
+                    "42": true,
+                    "44": true,
+                    "46": false,
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/400/49e1cc818ab499ceebe8f719dc0e0042-3164534400_2_4_0.jpg",
@@ -17406,7 +17597,7 @@
                     "40": true,
                     "42": true,
                     "44": true,
-                    "46": false,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -17428,10 +17619,10 @@
                     "36": true,
                     "38": true,
                     "40": true,
-                    "42": true,
-                    "44": true,
+                    "42": false,
+                    "44": false,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/3164/534/428/20c9d599c1d12ce08648d943aa8c8ba6-3164534428_2_4_0.jpg",
@@ -17512,7 +17703,7 @@
                 "sizes": {
                     "34": false,
                     "36": false,
-                    "38": false,
+                    "38": true,
                     "40": false,
                     "42": false,
                     "44": false,
@@ -17560,11 +17751,11 @@
                 "sizes": {
                     "34": false,
                     "36": false,
-                    "38": true,
+                    "38": false,
                     "40": false,
                     "42": false,
-                    "44": false,
-                    "46": false,
+                    "44": true,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -17587,8 +17778,8 @@
                     "38": false,
                     "40": false,
                     "42": false,
-                    "44": true,
-                    "46": true,
+                    "44": false,
+                    "46": false,
                     "48": false
                 },
                 "images": [
@@ -17670,7 +17861,7 @@
                 "sizes": {
                     "34": false,
                     "36": false,
-                    "38": false,
+                    "38": true,
                     "40": false,
                     "42": false,
                     "44": false,
@@ -17716,10 +17907,10 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": false,
                     "38": false,
-                    "40": true,
+                    "40": false,
                     "42": false,
                     "44": false,
                     "46": false,
@@ -17740,10 +17931,10 @@
                 "color": "Grey",
                 "color_code": "809",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": false,
-                    "38": true,
-                    "40": false,
+                    "38": false,
+                    "40": true,
                     "42": false,
                     "44": false,
                     "46": false,
@@ -17828,7 +18019,7 @@
                 "sizes": {
                     "34": false,
                     "36": false,
-                    "38": false,
+                    "38": true,
                     "40": false,
                     "42": false,
                     "44": false,
@@ -17850,13 +18041,13 @@
                 "color": "Light blue",
                 "color_code": "433",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": false,
                     "38": false,
-                    "40": true,
+                    "40": false,
                     "42": false,
-                    "44": false,
-                    "46": false,
+                    "44": true,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -17876,7 +18067,7 @@
                 "sizes": {
                     "34": false,
                     "36": false,
-                    "38": true,
+                    "38": false,
                     "40": false,
                     "42": false,
                     "44": false,
@@ -17898,13 +18089,13 @@
                 "color": "Grey",
                 "color_code": "809",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": false,
                     "38": false,
-                    "40": false,
+                    "40": true,
                     "42": false,
-                    "44": true,
-                    "46": true,
+                    "44": false,
+                    "46": false,
                     "48": false
                 },
                 "images": [
@@ -17985,7 +18176,7 @@
                 "color_code": "428",
                 "sizes": {
                     "34": false,
-                    "36": false,
+                    "36": true,
                     "38": false,
                     "40": false,
                     "42": false,
@@ -18009,12 +18200,12 @@
                 "color_code": "433",
                 "sizes": {
                     "34": false,
-                    "36": true,
+                    "36": false,
                     "38": false,
                     "40": false,
                     "42": false,
-                    "44": false,
-                    "46": false,
+                    "44": true,
+                    "46": true,
                     "48": false
                 },
                 "images": [
@@ -18032,10 +18223,10 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": false,
                     "38": false,
-                    "40": true,
+                    "40": false,
                     "42": false,
                     "44": false,
                     "46": false,
@@ -18056,13 +18247,13 @@
                 "color": "Grey",
                 "color_code": "809",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": false,
                     "38": false,
-                    "40": false,
+                    "40": true,
                     "42": false,
-                    "44": true,
-                    "46": true,
+                    "44": false,
+                    "46": false,
                     "48": false
                 },
                 "images": [
@@ -18325,14 +18516,14 @@
                 "color": "Light blue",
                 "color_code": "428",
                 "sizes": {
-                    "34": true,
+                    "34": false,
                     "36": false,
-                    "38": true,
-                    "40": false,
-                    "42": false,
-                    "44": false,
+                    "38": false,
+                    "40": true,
+                    "42": true,
+                    "44": true,
                     "46": false,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0548/388/428/47978acb84aaac36f5d0f8591e3e12a7-0548388428_2_1_0.jpg",
@@ -18349,14 +18540,14 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "34": false,
+                    "34": true,
                     "36": false,
-                    "38": false,
-                    "40": true,
-                    "42": true,
-                    "44": true,
+                    "38": true,
+                    "40": false,
+                    "42": false,
+                    "44": false,
                     "46": false,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0548/388/800/274010ed530eb9a06135be63c95dd966-0548388800_2_1_0.jpg",
@@ -18579,7 +18770,7 @@
                     "S": true,
                     "M": false,
                     "L": false,
-                    "XL": true,
+                    "XL": false,
                     "XXL": false
                 },
                 "images": [
@@ -18685,7 +18876,7 @@
                     "S": true,
                     "M": false,
                     "L": false,
-                    "XL": true,
+                    "XL": false,
                     "XXL": false
                 },
                 "images": [
@@ -18703,12 +18894,12 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": true,
                     "M": true,
-                    "L": false,
-                    "XL": false,
-                    "XXL": false
+                    "L": true,
+                    "XL": true,
+                    "XXL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0534/179/800/0becab65a6012606e5eea031213fbc6a-0534179800_2_1_0.jpg",
@@ -18728,12 +18919,12 @@
                 "color": "Light blue",
                 "color_code": "433",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": true,
                     "M": true,
-                    "L": true,
-                    "XL": true,
-                    "XXL": true
+                    "L": false,
+                    "XL": false,
+                    "XXL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0534/179/433/3213ec8509ce65366139b44110878ac5-0534179433_2_1_0.jpg",
@@ -18791,7 +18982,7 @@
                     "S": true,
                     "M": false,
                     "L": false,
-                    "XL": true,
+                    "XL": false,
                     "XXL": false
                 },
                 "images": [
@@ -18875,7 +19066,7 @@
                     "S": true,
                     "M": false,
                     "L": false,
-                    "XL": true,
+                    "XL": false,
                     "XXL": false
                 },
                 "images": [
@@ -18893,12 +19084,12 @@
                 "color": "Light blue",
                 "color_code": "428",
                 "sizes": {
-                    "XS": true,
+                    "XS": false,
                     "S": true,
                     "M": true,
-                    "L": false,
-                    "XL": false,
-                    "XXL": false
+                    "L": true,
+                    "XL": true,
+                    "XXL": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0534/179/428/3fd2b39050560dc9b4b2892e7681549a-0534179428_2_1_0.jpg",
@@ -18915,12 +19106,12 @@
                 "color": "Black",
                 "color_code": "800",
                 "sizes": {
-                    "XS": false,
+                    "XS": true,
                     "S": true,
                     "M": true,
-                    "L": true,
-                    "XL": true,
-                    "XXL": true
+                    "L": false,
+                    "XL": false,
+                    "XXL": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0534/179/800/0becab65a6012606e5eea031213fbc6a-0534179800_2_1_0.jpg",
@@ -19882,9 +20073,9 @@
                 "color_code": "428",
                 "sizes": {
                     "34": true,
-                    "36": true,
+                    "36": false,
                     "38": false,
-                    "40": true,
+                    "40": false,
                     "42": false,
                     "44": false,
                     "46": false,
@@ -19906,9 +20097,9 @@
                 "color_code": "800",
                 "sizes": {
                     "34": true,
-                    "36": false,
+                    "36": true,
                     "38": false,
-                    "40": false,
+                    "40": true,
                     "42": false,
                     "44": false,
                     "46": false,
@@ -19998,9 +20189,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
+                    "44": true,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/433/064f680748f08bfb0854f07650dedc11-0527211433_2_1_0.jpg",
@@ -20046,9 +20237,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
+                    "44": false,
                     "46": true,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/809/e41c8e49387aa9a3ac1ae23764716b67-0527211809_2_1_0.jpg",
@@ -20158,9 +20349,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
+                    "44": true,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/800/7a49951beebefae17302f304ef332bb4-0527211800_2_1_0.jpg",
@@ -20182,9 +20373,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
+                    "44": false,
                     "46": true,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/809/e41c8e49387aa9a3ac1ae23764716b67-0527211809_2_1_0.jpg",
@@ -20270,9 +20461,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
+                    "44": true,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/433/064f680748f08bfb0854f07650dedc11-0527211433_2_1_0.jpg",
@@ -20294,9 +20485,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
+                    "44": false,
                     "46": true,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/800/7a49951beebefae17302f304ef332bb4-0527211800_2_1_0.jpg",
@@ -20406,9 +20597,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
+                    "44": true,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/433/064f680748f08bfb0854f07650dedc11-0527211433_2_1_0.jpg",
@@ -20454,9 +20645,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
+                    "44": false,
                     "46": true,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/809/e41c8e49387aa9a3ac1ae23764716b67-0527211809_2_1_0.jpg",
@@ -20518,9 +20709,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": false,
+                    "44": true,
                     "46": true,
-                    "48": false
+                    "48": true
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/428/1fc5e5e441c3cd538709cde91524c748-0527211428_2_1_0.jpg",
@@ -20590,9 +20781,9 @@
                     "38": true,
                     "40": true,
                     "42": true,
-                    "44": true,
+                    "44": false,
                     "46": true,
-                    "48": true
+                    "48": false
                 },
                 "images": [
                     "https://static.bershka.net/4/photos2/2022/I/0/2/p/0527/211/809/e41c8e49387aa9a3ac1ae23764716b67-0527211809_2_1_0.jpg",
@@ -20641,6 +20832,84 @@
                     "https://static.bershka.net/4/photos2/2022/I/1/2/p/2418/961/040/9af68045fc1c9b9fcd1434f4243cfad7-2418961040_1_2_0.jpg",
                     "https://static.bershka.net/4/photos2/2022/I/1/2/p/2418/961/040/02667b6c968fcd37ecdb495fded48519-2418961040_3_1_0.jpg",
                     "https://static.bershka.net/4/photos2/2022/I/1/2/p/2418/961/040/374c6c04af76e86d6facf0874a9c3d76-2418961040_2_16_0.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "item_brand": "Bershka",
+        "item_section": "Men",
+        "item_category": "Shoes",
+        "item_id": 117520179,
+        "item_name": "Men's contrast mesh trainers",
+        "item_on_sale": false,
+        "item_old_price": 1499,
+        "item_new_price": 1499,
+        "item_discount": 0,
+        "item_link": "https://www.bershka.com/eg/en/mens-contrast-mesh-trainers-l12302961",
+        "item_options": [
+            {
+                "color": "Multicolored",
+                "color_code": "202",
+                "sizes": {
+                    "39": false,
+                    "40": true,
+                    "41": true,
+                    "42": true,
+                    "43": true,
+                    "44": true,
+                    "45": true
+                },
+                "images": [
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/dada9ce9ae495cbf17f8cf6a6f48b453-2302961202_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/57a5595ce061e877840242c4062abbd1-2302961202_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/858fadc3f37abfd15eec82fdbe3afa69-2302961202_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/1dda822e6698feef22365d4e2e6ad36b-2302961202_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/6946ec38cfb987eaecd602c8f713e3f8-2302961202_2_14_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/c0093200c2fd4d8a9db7a2d7918f2e41-2302961202_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/c0093200c2fd4d8a9db7a2d7918f2e41-2302961202_1_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/072c26b2f40b58e18b7bef9cd496b408-2302961202_3_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/6946ec38cfb987eaecd602c8f713e3f8-2302961202_1_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/714f137c2ea5954c89507220d4e9647f-2302961202_2_16_0.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "item_brand": "Bershka",
+        "item_section": "Men",
+        "item_category": "Shoes",
+        "item_id": 114207701,
+        "item_name": "Men's contrast mesh trainers",
+        "item_on_sale": false,
+        "item_old_price": 1499,
+        "item_new_price": 1499,
+        "item_discount": 0,
+        "item_link": "https://www.bershka.com/eg/en/mens-contrast-mesh-trainers-l12302961",
+        "item_options": [
+            {
+                "color": "Multicolored",
+                "color_code": "202",
+                "sizes": {
+                    "39": false,
+                    "40": true,
+                    "41": true,
+                    "42": true,
+                    "43": true,
+                    "44": true,
+                    "45": true
+                },
+                "images": [
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/dada9ce9ae495cbf17f8cf6a6f48b453-2302961202_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/57a5595ce061e877840242c4062abbd1-2302961202_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/858fadc3f37abfd15eec82fdbe3afa69-2302961202_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/1dda822e6698feef22365d4e2e6ad36b-2302961202_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/6946ec38cfb987eaecd602c8f713e3f8-2302961202_2_14_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/c0093200c2fd4d8a9db7a2d7918f2e41-2302961202_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/c0093200c2fd4d8a9db7a2d7918f2e41-2302961202_1_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/072c26b2f40b58e18b7bef9cd496b408-2302961202_3_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/6946ec38cfb987eaecd602c8f713e3f8-2302961202_1_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/714f137c2ea5954c89507220d4e9647f-2302961202_2_16_0.jpg"
                 ]
             }
         ]
@@ -20764,17 +21033,17 @@
         "item_brand": "Bershka",
         "item_section": "Men",
         "item_category": "Shoes",
-        "item_id": 117520179,
+        "item_id": 116356322,
         "item_name": "Men's contrast mesh trainers",
         "item_on_sale": false,
-        "item_old_price": 1499,
-        "item_new_price": 1499,
+        "item_old_price": 1699,
+        "item_new_price": 1699,
         "item_discount": 0,
-        "item_link": "https://www.bershka.com/eg/en/mens-contrast-mesh-trainers-l12302961",
+        "item_link": "https://www.bershka.com/eg/en/mens-contrast-mesh-trainers-l12310960",
         "item_options": [
             {
-                "color": "Multicolored",
-                "color_code": "202",
+                "color": "WHITE",
+                "color_code": "001",
                 "sizes": {
                     "39": false,
                     "40": true,
@@ -20782,58 +21051,19 @@
                     "42": true,
                     "43": true,
                     "44": true,
-                    "45": true
+                    "45": false,
+                    "46": false
                 },
                 "images": [
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/dada9ce9ae495cbf17f8cf6a6f48b453-2302961202_2_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/57a5595ce061e877840242c4062abbd1-2302961202_2_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/858fadc3f37abfd15eec82fdbe3afa69-2302961202_2_3_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/1dda822e6698feef22365d4e2e6ad36b-2302961202_2_4_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/6946ec38cfb987eaecd602c8f713e3f8-2302961202_2_14_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/c0093200c2fd4d8a9db7a2d7918f2e41-2302961202_1_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/c0093200c2fd4d8a9db7a2d7918f2e41-2302961202_1_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/072c26b2f40b58e18b7bef9cd496b408-2302961202_3_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/6946ec38cfb987eaecd602c8f713e3f8-2302961202_1_3_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/714f137c2ea5954c89507220d4e9647f-2302961202_2_16_0.jpg"
-                ]
-            }
-        ]
-    },
-    {
-        "item_brand": "Bershka",
-        "item_section": "Men",
-        "item_category": "Shoes",
-        "item_id": 114207701,
-        "item_name": "Men's contrast mesh trainers",
-        "item_on_sale": false,
-        "item_old_price": 1499,
-        "item_new_price": 1499,
-        "item_discount": 0,
-        "item_link": "https://www.bershka.com/eg/en/mens-contrast-mesh-trainers-l12302961",
-        "item_options": [
-            {
-                "color": "Multicolored",
-                "color_code": "202",
-                "sizes": {
-                    "39": false,
-                    "40": true,
-                    "41": true,
-                    "42": true,
-                    "43": true,
-                    "44": true,
-                    "45": true
-                },
-                "images": [
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/dada9ce9ae495cbf17f8cf6a6f48b453-2302961202_2_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/57a5595ce061e877840242c4062abbd1-2302961202_2_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/858fadc3f37abfd15eec82fdbe3afa69-2302961202_2_3_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/1dda822e6698feef22365d4e2e6ad36b-2302961202_2_4_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/6946ec38cfb987eaecd602c8f713e3f8-2302961202_2_14_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/c0093200c2fd4d8a9db7a2d7918f2e41-2302961202_1_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/c0093200c2fd4d8a9db7a2d7918f2e41-2302961202_1_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/072c26b2f40b58e18b7bef9cd496b408-2302961202_3_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/6946ec38cfb987eaecd602c8f713e3f8-2302961202_1_3_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2302/961/202/714f137c2ea5954c89507220d4e9647f-2302961202_2_16_0.jpg"
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/718cfc120230f2dc08b0acf28bce2724-2310960001_2_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/2251f35936b683c935f7d4ab82930e82-2310960001_2_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/fcb940e08488c3ae64da1b1774cd7b6d-2310960001_2_3_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/0428114d0fc0637e8060a575152b2f07-2310960001_2_4_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/a96e50966f4ff3ad07439feafb181deb-2310960001_1_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/a96e50966f4ff3ad07439feafb181deb-2310960001_1_2_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/5b932a5f2233cfb61ad9ae8567c5fdfb-2310960001_3_1_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/c6120a1bc343e7823e69e7ae4372904c-2310960001_2_14_0.jpg",
+                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/fc8a072ca497e1099d0b7a860c203a68-2310960001_2_16_0.jpg"
                 ]
             }
         ]
@@ -20908,45 +21138,6 @@
                     "https://static.bershka.net/4/photos2/2022/I/1/2/p/2410/061/001/714dd21c432c5a0afbf23326bb2a792e-2410061001_1_2_0.jpg",
                     "https://static.bershka.net/4/photos2/2022/I/1/2/p/2410/061/001/f2282eb8bdc9701333a1d1996cb46fd3-2410061001_3_1_0.jpg",
                     "https://static.bershka.net/4/photos2/2022/I/1/2/p/2410/061/001/5bc68ff5a44fc5d09ff9270041ca3353-2410061001_2_2_0.jpg"
-                ]
-            }
-        ]
-    },
-    {
-        "item_brand": "Bershka",
-        "item_section": "Men",
-        "item_category": "Shoes",
-        "item_id": 116356322,
-        "item_name": "Men's contrast mesh trainers",
-        "item_on_sale": false,
-        "item_old_price": 1699,
-        "item_new_price": 1699,
-        "item_discount": 0,
-        "item_link": "https://www.bershka.com/eg/en/mens-contrast-mesh-trainers-l12310960",
-        "item_options": [
-            {
-                "color": "WHITE",
-                "color_code": "001",
-                "sizes": {
-                    "39": false,
-                    "40": true,
-                    "41": true,
-                    "42": true,
-                    "43": true,
-                    "44": true,
-                    "45": false,
-                    "46": false
-                },
-                "images": [
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/718cfc120230f2dc08b0acf28bce2724-2310960001_2_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/2251f35936b683c935f7d4ab82930e82-2310960001_2_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/fcb940e08488c3ae64da1b1774cd7b6d-2310960001_2_3_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/0428114d0fc0637e8060a575152b2f07-2310960001_2_4_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/a96e50966f4ff3ad07439feafb181deb-2310960001_1_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/a96e50966f4ff3ad07439feafb181deb-2310960001_1_2_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/5b932a5f2233cfb61ad9ae8567c5fdfb-2310960001_3_1_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/c6120a1bc343e7823e69e7ae4372904c-2310960001_2_14_0.jpg",
-                    "https://static.bershka.net/4/photos2/2022/I/1/2/p/2310/960/001/fc8a072ca497e1099d0b7a860c203a68-2310960001_2_16_0.jpg"
                 ]
             }
         ]
