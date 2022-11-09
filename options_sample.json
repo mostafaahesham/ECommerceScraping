@@ -1,0 +1,325 @@
+{
+        "sizes": [
+            {
+                "sku": 115596991,
+                "name": "39",
+                "description": null,
+                "partnumber": "1231096100139-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "39",
+                "position": 1,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SOLD_OUT",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 116347964,
+                "name": "39",
+                "description": null,
+                "partnumber": "1231096000139-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "39",
+                "position": 1,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SOLD_OUT",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 116347965,
+                "name": "40",
+                "description": null,
+                "partnumber": "1231096000140-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "40",
+                "position": 2,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SOLD_OUT",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 115596992,
+                "name": "40",
+                "description": null,
+                "partnumber": "1231096100140-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "40",
+                "position": 2,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 115596987,
+                "name": "41",
+                "description": null,
+                "partnumber": "1231096100141-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "41",
+                "position": 3,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 116347960,
+                "name": "41",
+                "description": null,
+                "partnumber": "1231096000141-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "41",
+                "position": 3,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 116347961,
+                "name": "42",
+                "description": null,
+                "partnumber": "1231096000142-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "42",
+                "position": 4,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 115596988,
+                "name": "42",
+                "description": null,
+                "partnumber": "1231096100142-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "42",
+                "position": 4,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 116347962,
+                "name": "43",
+                "description": null,
+                "partnumber": "1231096000143-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "43",
+                "position": 5,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SOLD_OUT",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 115596989,
+                "name": "43",
+                "description": null,
+                "partnumber": "1231096100143-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "43",
+                "position": 5,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 115596990,
+                "name": "44",
+                "description": null,
+                "partnumber": "1231096100144-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "44",
+                "position": 6,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 116347963,
+                "name": "44",
+                "description": null,
+                "partnumber": "1231096000144-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "44",
+                "position": 6,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SOLD_OUT",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 115596986,
+                "name": "45",
+                "description": null,
+                "partnumber": "1231096100145-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "45",
+                "position": 7,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SOLD_OUT",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 116347959,
+                "name": "45",
+                "description": null,
+                "partnumber": "1231096000145-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "45",
+                "position": 7,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SOLD_OUT",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 115596985,
+                "name": "46",
+                "description": null,
+                "partnumber": "1231096100146-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "46",
+                "position": 8,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SOLD_OUT",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "sku": 116347958,
+                "name": "46",
+                "description": null,
+                "partnumber": "1231096000146-I2022",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "46",
+                "position": 8,
+                "price": "169900",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SOLD_OUT",
+                "attributes": [
+                    {
+                        "name": "UNKNOWN"
+                    }
+                ]
+            }
+        ]
+        
+}
