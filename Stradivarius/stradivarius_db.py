@@ -97,9 +97,12 @@ for section in sections:
                                 for media_item in media['xmediaItems']:
                                     if media_item['set'] == 0:
                                         for m_item in media_item['medias']:
-                                            choice['images'].append(images_url + media['path'] + 
-                                                                    '/' + 
-                                                                    m_item['idMedia'] + '2.jpg') if m_item['clazz'] != 10 and m_item['clazz'] != 3 else print("")
+                                            if m_item['clazz'] != 10 and m_item['clazz'] != 3:
+                                                choice['images'].append(images_url + media['path'] + 
+                                                '/' + 
+                                                m_item['idMedia'] + '2.jpg')
+                                            else:
+                                                pass
                                     else:
                                         pass
                                 
