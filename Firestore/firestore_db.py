@@ -10,7 +10,7 @@ app = firebase_admin.initialize_app(cred)
 
 items_db = firestore.client()
 
-file  = open('Bershka/bershka_stock.json')
+file  = open('Stradivarius/stradivarius_stock.json')
 
 item_stock = json.load(file)
 
@@ -33,6 +33,7 @@ def items_update():
                             "default_size": item['default_size'],
                             "default_image": item['default_image'],
                             })
+            print("updating : {}".format(item['item_id']))
         except Exception as e:print(e)
 
 items_update()

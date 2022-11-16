@@ -15,9 +15,9 @@ sample_file_name = 'stradivarius_sample.json'
 
 main_path = os.path.dirname(os.path.realpath(__file__))
 
-links_file_path = os.getcwd() + "\\" + links_file_name
-db_file_path = main_path + "\\" + db_file_name
-sample_file_path = main_path + "\\" + sample_file_name
+links_file_path = os.getcwd() + "/" + links_file_name
+db_file_path = main_path + "/" + db_file_name
+sample_file_path = main_path + "/" + sample_file_name
 
 availability_aliases = {
     "BACK_SOON":False,
@@ -75,18 +75,24 @@ for section in sections:
                             colors[str(color['id'])] = str(color['name'])
         
                         options = []
-                        for color,media in zip(choices,medias['xmedia']):
-                            if media['colorCode'] in colors.keys():
-                                choice = {
-                                    "color": colors[media['colorCode']],
-                                    "color_code": str(media['colorCode']),
-                                    "color_image":[],
-                                    "main_image":None,
-                                    "images":[],
-                                    "sizes": {},
-                                    
-                                }
-
+                        
+                        for color in choices:
+                            choice = {
+                                "color": color['name'],
+                                "color_code": color['id'],
+                                "color_image":[],
+                                "images":[],
+                                "sizes": [],
+                            }
+                            
+                            for size in color['sizes']:
+                                choice['sizes'].append(
+                                {
+                                    "name": size['name'],
+                                    "availability": availability_aliases[size['visibilityValue']]
+                                }   
+                                )
+                                
                             for media in medias['xmedia']:
                                 for media_item in media['xmediaItems']:
                                     if media_item['set'] == 0:
@@ -94,15 +100,8 @@ for section in sections:
                                             choice['images'].append(images_url + media['path'] + 
                                                                     '/' + 
                                                                     m_item['idMedia'] + '2.jpg') if m_item['clazz'] != 10 and m_item['clazz'] != 3 else print("")
-                                        break
                                     else:
                                         pass
-                                
-                            for size in color['sizes']:
-                                if size['name'] not in choice['sizes'].keys():
-                                    choice["sizes"][size['name']] = availability_aliases[size['visibilityValue']]
-                                else:
-                                    choice["sizes"][size['name']] |= availability_aliases[size['visibilityValue']]
                                 
                             options.append(choice)
                                 
@@ -135,11 +134,33 @@ for item in stock:
             if "/{}/".format(option['color_code']) in image:
                 new_images.append(image) if image not in new_images else print("dup")
         option['images'] = new_images
-        option['main_image'] = new_images[0]
         
-        for color_image in option['color_image']:
-            if "/{}/".format(option['color_code']) in color_image:
-                option['color_image'] = color_image
+        # for color_image in option['color_image']:
+        #     if "/{}/".format(option['color_code']) in color_image:
+        #         option['color_image'] = color_image
+        sizes = {}
+        for size in option['sizes']:
+            sizes[size['name']] = False
+
+        size_options = []
+
+        for size_name in sizes.keys():
+            dict ={
+                    "name": size_name,
+                    "availability": False
+                }
+            for size in option['sizes']:
+                if size['name'] == size_name:
+                    dict['availability'] |= size['availability']
+            size_options.append(dict)        
+            
+        option['sizes'] = size_options
+    try:
+        item['default_color'] = item['item_options'][0]['color']
+        item['default_size'] = item['item_options'][0]['sizes'][0]
+        item['default_image'] = item['item_options'][0]['images'][0]
+    except:
+        print(item['item_id'])
     
                         
 with open(db_file_path, 'w') as f:

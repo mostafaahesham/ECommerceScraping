@@ -14,10 +14,10 @@
         "Women":
         {
             "Shirts & Blouses_1": "1010587167",
-            "Dresses & Jumpsuits_1": "1010587172",
-            "Shorts & Skirts_1": "1010587171",
             "Sweatshirts & Knitwear_1": "1010587168",
             "Trousers & Jeans_1": "1010586677",
+            "Dresses & Jumpsuits_1": "1010587172",
+            "Shorts & Skirts_1": "1010587171",
             "Jackets & Blazers_1": "1010587170"
         }
     },
@@ -25,7 +25,11 @@
     {
         "Women":
         {
-            "Shirts & Blouses_1": "1718502"
+            "Shirts & Blouses_1": "1718502",
+            "Sweatshirts & Knitwear_1": "1718524",
+            "Sweatshirts & Knitwear_2": "1718564",
+            "Trousers & Jeans_1": "1718557",
+            "Trousers & Jeans_2": "1718516"
         }
     },
     "American Eagle":
