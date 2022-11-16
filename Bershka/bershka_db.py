@@ -2,7 +2,6 @@ import os
 import json
 import requests
 from math import ceil
-import random
 
 brand_name = "Bershka"
 
@@ -17,9 +16,9 @@ sample_file_name = 'bershka_sample.json'
 
 main_path = os.path.dirname(os.path.realpath(__file__))
 
-links_file_path = os.getcwd() + "\\" + links_file_name
-db_file_path = main_path + "\\" + db_file_name
-sample_file_path = main_path + "\\" + sample_file_name
+links_file_path = os.getcwd() + "/" + links_file_name
+db_file_path = main_path + "/" + db_file_name
+sample_file_path = main_path + "/" + sample_file_name
     
 availability_aliases = {
     "BACK_SOON":False,
@@ -168,23 +167,19 @@ for item in stock:
                 option['color_image'] = color_image
         sizes = {}
         for size in option['sizes']:
-            sizes[size['name']] = None
+            sizes[size['name']] = False
 
         size_options = []
-        single_sizes_count = len(sizes.keys())
-        dup_sizes_count = len(option['sizes'])
-        step = ceil(dup_sizes_count/single_sizes_count)
 
         for size_name in sizes.keys():
-            availability = False
-            for i in range(step):
-                availability |= option['sizes'][i]['availability']
-            size_options.append(
-                {
+            dict ={
                     "name": size_name,
-                    "availability": availability
+                    "availability": False
                 }
-            )
+            for size in option['sizes']:
+                if size['name'] == size_name:
+                    dict['availability'] |= size['availability']
+            size_options.append(dict)        
             
         option['sizes'] = size_options
     try:
