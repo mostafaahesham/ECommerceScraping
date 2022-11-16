@@ -1,4 +1,33 @@
 {
+    "Bershka":
+    {
+        "Men":
+        {
+            "T-Shirts_1": "1010587173",
+            "Shirts_1": "1010586678",
+            "Sweatshirts_1": "1010586679",
+            "Jackets_1": "1010586680",
+            "Trousers_1": "1010587174",
+            "Shoes_1": "1010586172",
+            "Accessories_1": "1010586173"
+        },
+        "Women":
+        {
+            "Shirts & Blouses_1": "1010587167",
+            "Dresses & Jumpsuits_1": "1010587172",
+            "Shorts & Skirts_1": "1010587171",
+            "Sweatshirts & Knitwear_1": "1010587168",
+            "Trousers & Jeans_1": "1010586677",
+            "Jackets & Blazers_1": "1010587170"
+        }
+    },
+    "Stradivarius":
+    {
+        "Women":
+        {
+            "Shirts & Blouses_1": "1718502"
+        }
+    },
     "American Eagle":
     {
         "Men": 
@@ -33,23 +62,6 @@
                 "Dresses & Jumpsuits": {"requests":[{"indexName":"01live_aeoeg_product_list","params":"query=&hitsPerPage=3000&maxValuesPerFacet=NaN&page=0&highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&filters=(stock%20%3E%200)%20AND%20(field_category_name.en.lvl3%3A%20%22American%20Eagle%20%3E%20Women%20%3E%20Dresses%20%26%20Jumpsuits%20%3E%20Dresses%22)&ruleContexts=%5B%22american_eagle__women__dresses_jumpsuits__dresses%22%2C%22american_eagle__women__dresses_jumpsuits%22%2C%22american_eagle__women%22%2C%22american_eagle%22%5D&optionalFilters=super_category%3AAmerican%20Eagle%20&facets=%5B%22final_price.en%22%2C%22attr_size.en%22%2C%22attr_color_family.en.value%22%2C%22attr_bv_rating.en%22%2C%22attr_division_name.en%22%2C%22attr_product_collection.en%22%2C%22attr_activity.en%22%2C%22attr_benefit.en%22%2C%22attr_push_lining_level.en%22%2C%22attr_rise.en%22%2C%22attr_shape.en%22%2C%22attr_shape_material_type.en%22%2C%22attr_silhouette.en%22%2C%22attr_sleeve_length.en%22%2C%22attr_straps.en%22%2C%22attr_stretch.en%22%2C%22attr_stretch_level.en%22%2C%22attr_waistband.en%22%2C%22field_category.en%22%2C%22attr_waistband_detail.en%22%2C%22attr_product_brand.en%22%2C%22attr_wash.en%22%2C%22attr_fly_function.en%22%2C%22attr_fabric.en%22%2C%22attr_lining.en%22%2C%22attr_length.en%22%2C%22attr_inseam_length.en%22%2C%22attr_inseams_offered.en%22%2C%22attr_graphic_pattern.en%22%2C%22attr_pack_size.en%22%2C%22attr_fit_type.en%22%2C%22attr_fit.en%22%2C%22attr_fabric_content.en%22%2C%22attr_embellishment_trim.en%22%2C%22attr_neckline.en%22%2C%22attr_destruction.en%22%2C%22attr_coverage.en%22%2C%22attr_body.en%22%2C%22attr_padding.en%22%2C%22attr_mix_match_fit.en%22%2C%22field_acq_promotion_label.en.web%22%5D&tagFilters="}]},
                 "Socks": {"requests":[{"indexName":"01live_aeoeg_product_list","params":"query=&hitsPerPage=3000&maxValuesPerFacet=NaN&page=0&highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&filters=(stock%20%3E%200)%20AND%20(field_category_name.en.lvl3%3A%20%22American%20Eagle%20%3E%20Women%20%3E%20Accessories%20%26%20Footwear%20%3E%20Socks%22)&ruleContexts=%5B%22american_eagle__women__accessories_footwear__socks%22%2C%22american_eagle__women__accessories_footwear%22%2C%22american_eagle__women%22%2C%22american_eagle%22%5D&optionalFilters=super_category%3AAmerican%20Eagle%20&facets=%5B%22final_price.en%22%2C%22attr_size.en%22%2C%22attr_color_family.en.value%22%2C%22attr_bv_rating.en%22%2C%22attr_division_name.en%22%2C%22attr_product_collection.en%22%2C%22attr_activity.en%22%2C%22attr_benefit.en%22%2C%22attr_push_lining_level.en%22%2C%22attr_rise.en%22%2C%22attr_shape.en%22%2C%22attr_shape_material_type.en%22%2C%22attr_silhouette.en%22%2C%22attr_sleeve_length.en%22%2C%22attr_straps.en%22%2C%22attr_stretch.en%22%2C%22attr_stretch_level.en%22%2C%22attr_waistband.en%22%2C%22field_category.en%22%2C%22attr_waistband_detail.en%22%2C%22attr_product_brand.en%22%2C%22attr_wash.en%22%2C%22attr_fly_function.en%22%2C%22attr_fabric.en%22%2C%22attr_lining.en%22%2C%22attr_length.en%22%2C%22attr_inseam_length.en%22%2C%22attr_inseams_offered.en%22%2C%22attr_graphic_pattern.en%22%2C%22attr_pack_size.en%22%2C%22attr_fit_type.en%22%2C%22attr_fit.en%22%2C%22attr_fabric_content.en%22%2C%22attr_embellishment_trim.en%22%2C%22attr_neckline.en%22%2C%22attr_destruction.en%22%2C%22attr_coverage.en%22%2C%22attr_body.en%22%2C%22attr_padding.en%22%2C%22attr_mix_match_fit.en%22%2C%22field_acq_promotion_label.en.web%22%5D&tagFilters="}]}
             }
-    },
-    "Bershka":
-    {
-        "Men":
-        {
-            "T-Shirts_1": "1010587173",
-            "Shirts_1": "1010586678",
-            "Sweatshirts_1": "1010586679",
-            "Jackets_1": "1010586680",
-            "Trousers_1": "1010587174",
-            "Shoes_1": "1010586172",
-            "Accessories_1": "1010586173"
-        },
-        "Women":
-        {
-
-        }
     },
     "H&M":
     {
