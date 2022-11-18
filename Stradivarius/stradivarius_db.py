@@ -136,6 +136,8 @@ for item in stock:
         for image in option['images']:
             if "/{}/".format(option['color_code']) in image:
                 new_images.append(image) if image not in new_images else print("dup")
+                
+        option['color_image'] = new_images[0].replace("_6_1_2.jpg","_6_1_1.jpg")
         option['images'] = new_images
         
         # for color_image in option['color_image']:
@@ -159,9 +161,12 @@ for item in stock:
             
         option['sizes'] = size_options
     try:
-        item['default_color'] = item['item_options'][0]['color']
-        item['default_size'] = item['item_options'][0]['sizes'][0]
-        item['default_image'] = item['item_options'][0]['images'][0]
+        item['default_option'] = {
+            "default_color": item['item_options'][0]['color'],
+            "default_color_code": item['item_options'][0]['color_code'],
+            "default_size": item['item_options'][0]['sizes'][0],
+            "default_image": item['item_options'][0]['images'][0],           
+        }
     except:
         print(item['item_id'])
     

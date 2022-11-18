@@ -15,7 +15,6 @@ db_file_name = "bershka_stock.json"
 sample_file_name = 'bershka_sample.json'
 
 main_path = os.path.dirname(os.path.realpath(__file__))
-
 links_file_path = os.getcwd() + "/" + links_file_name
 db_file_path = main_path + "/" + db_file_name
 sample_file_path = main_path + "/" + sample_file_name
@@ -120,12 +119,6 @@ for section in sections:
                                                                             m_item['extraInfo']['hash'][0]['md5Hash'] + 
                                                                             '-' + 
                                                                             m_item['idMedia'] + '0.jpg')
-                                                if m_item["clazz"] == 2:
-                                                    choice['color_image'].append(images_url + media['path'] + 
-                                                                            '/' + 
-                                                                            m_item['extraInfo']['hash'][0]['md5Hash'] + 
-                                                                            '-' + 
-                                                                            m_item['idMedia'] + '0.jpg')
                                     else:
                                         pass                            
                                 
@@ -162,9 +155,13 @@ for item in stock:
                 new_images.append(image) if image not in new_images else print("dup")
         option['images'] = new_images
         
-        for color_image in option['color_image']:
-            if "/{}/".format(option['color_code']) in color_image:
-                option['color_image'] = color_image
+        for image in new_images:
+            if "_2_4_0.jpg" in image:
+                option['color_image'] = image
+                break
+            else:
+                print(item['item_id'])
+            
         sizes = {}
         for size in option['sizes']:
             sizes[size['name']] = False
@@ -183,12 +180,14 @@ for item in stock:
             
         option['sizes'] = size_options
     try:
-        item['default_color'] = item['item_options'][0]['color']
-        item['default_size'] = item['item_options'][0]['sizes'][0]
-        item['default_image'] = item['item_options'][0]['images'][0]
+        item['default_option'] = {
+            "default_color": item['item_options'][0]['color'],
+            "default_color_code": item['item_options'][0]['color_code'],
+            "default_size": item['item_options'][0]['sizes'][0],
+            "default_image": item['item_options'][0]['images'][0],           
+        }
     except:
         print(item['item_id'])
-    
                         
 with open(db_file_path, 'w') as f:
     f.write(json.dumps(stock))

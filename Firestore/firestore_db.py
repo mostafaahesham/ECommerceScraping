@@ -42,12 +42,16 @@ class MerchantDB:
                                 "discount":item["item_discount"],
                                 "link":item["item_link"],
                                 "options":item['item_options'],
-                                "default_color": item['default_color'],
-                                "default_size": item['default_size'],
-                                "default_image": item['default_image'],
+                                "default_option": item['default_option'],
                                 })
-                print("updating : {}".format(item['item_name']))
+                print("updating : {} - {} - {}".format(str(item['item_id']),item['item_brand'],item['item_name']))
             except Exception as e:print(e)
 
-merchant_db = MerchantDB("itemStock","Stradivarius","serviceAccountKey.json")
+brand_name = "Stradivarius"
+collection_name = "itemStock"
+
+merchant_db = MerchantDB(collection_name,brand_name,"serviceAccountKey.json")
+merchant_db.load_db_file("{}/{}_stock.json".format(merchant_db.brand_name,merchant_db.brand_name.lower()))
+
 print(merchant_db.items_count())
+merchant_db.items_update()
