@@ -1,388 +1,102 @@
-Get "Men T-Shirts_1" Items IDs Status Code 200
-Get 40 Items from "Men T-Shirts_1" Status Code 200
-{'406': 'Light blue', '800': 'Black'}
-{'800': 'Black', '406': 'Light blue'}
-Duplicate item
-{'250': 'White'}
-{'250': 'White', '710': 'Beige'}
-{'710': 'Beige', '250': 'White'}
-Duplicate item
-{'250': 'White', '400': 'Blue'}
-{'400': 'Blue', '250': 'White'}
-Duplicate item
-{'707': 'Camel', '802': 'Grey'}
-{'802': 'Grey', '707': 'Camel'}
-Duplicate item
-{'250': 'White', '611': 'Violet'}
-{'611': 'Violet', '250': 'White'}
-Duplicate item
-{'526': 'Green', '106': 'Light blue', '459': 'Grey', '250': 'White', '807': 'Grey'}
-{'459': 'Grey', '106': 'Light blue', '526': 'Green', '250': 'White', '807': 'Grey'}
-Duplicate item
-{'707': 'Camel', '305': 'Mustard'}
-{'305': 'Mustard', '707': 'Camel'}
-Duplicate item
-{'800': 'Black'}
-{'800': 'Black', '400': 'Blue', '611': 'Violet', '812': 'Grey', '122': 'Garnet', '300': 'Yellow', '250': 'White'}
-{'250': 'White', '800': 'Black', '710': 'Beige', '500': 'Green', '505': 'Khaki', '902': 'Pink'}
-{'710': 'Beige', '800': 'Black', '500': 'Green', '505': 'Khaki', '902': 'Pink', '250': 'White'}
-Duplicate item
-{'707': 'Camel', '800': 'Black', '250': 'White'}
-{'800': 'Black', '250': 'White', '707': 'Camel'}
-Duplicate item
-{'250': 'White'}
-{'045': 'Blue'}
-{'250': 'White', '800': 'Black', '537': 'Green', '605': 'garnet'}
-{'605': 'garnet', '250': 'White', '800': 'Black', '537': 'Green'}
-Duplicate item
-{'537': 'Green', '250': 'White', '800': 'Black', '605': 'garnet'}
-Duplicate item
-{'800': 'Black', '250': 'White', '537': 'Green', '605': 'garnet'}
-Duplicate item
-{'812': 'Grey', '600': 'Red', '800': 'Black', '250': 'White', '622': 'Pink'}
-{'800': 'Black', '600': 'Red', '812': 'Grey', '250': 'White', '622': 'Pink'}
-Duplicate item
-{'600': 'Red', '800': 'Black', '812': 'Grey', '250': 'White', '622': 'Pink'}
-Duplicate item
-{'250': 'White', '600': 'Red', '800': 'Black', '812': 'Grey', '622': 'Pink'}
-Duplicate item
-{'902': 'Pink', '800': 'Black', '710': 'Beige', '500': 'Green', '505': 'Khaki', '250': 'White'}
-Duplicate item
-{'800': 'Black', '710': 'Beige', '500': 'Green', '505': 'Khaki', '902': 'Pink', '250': 'White'}
-Duplicate item
-{'807': 'Grey', '106': 'Light blue', '459': 'Grey', '526': 'Green', '250': 'White'}
-Duplicate item
-{'250': 'White', '106': 'Light blue', '459': 'Grey', '526': 'Green', '807': 'Grey'}
-Duplicate item
-{'106': 'Light blue', '459': 'Grey', '526': 'Green', '250': 'White', '807': 'Grey'}
-Duplicate item
-{'800': 'Black', '133': 'Violet', '406': 'Light blue', '251': 'Off white'}
-{'251': 'Off white', '133': 'Violet', '800': 'Black', '406': 'Light blue'}
-Duplicate item
-{'133': 'Violet', '800': 'Black', '406': 'Light blue', '251': 'Off white'}
-Duplicate item
-{'250': 'White', '611': 'Violet', '800': 'Black', '812': 'Grey', '122': 'Garnet', '400': 'Blue', '300': 'Yellow'}
-Duplicate item
-Get "Men Shirts_1" Items IDs Status Code 200
-Get 2 Items from "Men Shirts_1" Status Code 200
-{'401': 'Navy', '982': 'Green', '060': 'White/Black'}
-{'800': 'Black', '819': 'Grey', '250': 'White'}
-Get "Men Sweatshirts_1" Items IDs Status Code 200
-Get 11 Items from "Men Sweatshirts_1" Status Code 200
-{'627': 'Pink', '459': 'Grey', '205': 'Grey'}
-{'459': 'Grey', '205': 'Grey', '627': 'Pink'}
-Duplicate item
-{'205': 'Grey', '459': 'Grey', '627': 'Pink'}
-Duplicate item
-{'800': 'Black', '806': 'Stone', '250': 'White'}
-{'800': 'Black', '537': 'Green'}
-{'537': 'Green', '800': 'Black'}
-Duplicate item
-{'711': 'Sand', '612': 'Violet'}
-{'712': 'Cream'}
-{'800': 'Black'}
-{'800': 'Black', '717': 'Brown'}
-{'717': 'Brown', '800': 'Black'}
-Duplicate item
-Get "Men Jackets_1" Items IDs Status Code 200
-Get 86 Items from "Men Jackets_1" Status Code 200
-{'742': 'Camel'}
-{'428': 'Light blue', '800': 'Black'}
-{'800': 'Black', '428': 'Light blue'}
-Duplicate item
-{'428': 'Light blue', '400': 'Blue', '800': 'Black'}
-{'800': 'Black', '400': 'Blue', '428': 'Light blue'}
-Duplicate item
-{'400': 'Blue', '428': 'Light blue', '800': 'Black'}
-Duplicate item
-{'902': 'Pink', '250': 'White', '812': 'Grey', '537': 'Green', '800': 'Black', '707': 'Camel'}
-{'800': 'Black', '250': 'White', '812': 'Grey', '902': 'Pink', '537': 'Green', '707': 'Camel'}
-Duplicate item
-{'250': 'White', '600': 'Red', '800': 'Black', '812': 'Grey', '622': 'Pink'}
-Duplicate item
-{'812': 'Grey', '600': 'Red', '800': 'Black', '250': 'White', '622': 'Pink'}
-Duplicate item
-{'800': 'Black', '600': 'Red', '812': 'Grey', '250': 'White', '622': 'Pink'}
-Duplicate item
-{'600': 'Red', '800': 'Black', '812': 'Grey', '250': 'White', '622': 'Pink'}
-Duplicate item
-{'800': 'Black', '742': 'Camel'}
-{'742': 'Camel', '800': 'Black'}
-Duplicate item
-{'401': 'Navy', '982': 'Green', '060': 'White/Black'}
-Duplicate item
-{'800': 'Black', '812': 'Grey', '612': 'Violet', '711': 'Sand'}
-{'711': 'Sand', '812': 'Grey', '612': 'Violet', '800': 'Black'}
-Duplicate item
-{'612': 'Violet', '812': 'Grey', '711': 'Sand', '800': 'Black'}
-Duplicate item
-{'428': 'Light blue', '400': 'Blue', '433': 'Light blue', '800': 'Black', '809': 'Grey'}
-{'800': 'Black', '400': 'Blue', '428': 'Light blue', '433': 'Light blue', '809': 'Grey'}
-Duplicate item
-{'400': 'Blue', '428': 'Light blue', '433': 'Light blue', '800': 'Black', '809': 'Grey'}
-Duplicate item
-{'433': 'Light blue', '400': 'Blue', '428': 'Light blue', '800': 'Black', '809': 'Grey'}
-Duplicate item
-{'809': 'Grey', '400': 'Blue', '428': 'Light blue', '433': 'Light blue', '800': 'Black'}
-Duplicate item
-{'710': 'Beige', '250': 'White', '811': 'Grey'}
-{'800': 'Black', '742': 'Camel'}
-{'742': 'Camel', '800': 'Black'}
-Duplicate item
-{'428': 'Light blue', '400': 'Blue', '800': 'Black', '433': 'Light blue'}
-{'800': 'Black', '400': 'Blue', '428': 'Light blue', '433': 'Light blue'}
-Duplicate item
-{'400': 'Blue', '428': 'Light blue', '800': 'Black', '433': 'Light blue'}
-Duplicate item
-{'433': 'Light blue', '400': 'Blue', '428': 'Light blue', '800': 'Black'}
-Duplicate item
-{'428': 'Light blue', '800': 'Black', '433': 'Light blue', '811': 'Grey'}
-{'811': 'Grey', '428': 'Light blue', '800': 'Black', '433': 'Light blue'}
-Duplicate item
-{'800': 'Black', '428': 'Light blue', '433': 'Light blue', '811': 'Grey'}
-Duplicate item
-{'433': 'Light blue', '428': 'Light blue', '800': 'Black', '811': 'Grey'}
-Duplicate item
-{'811': 'Grey', '250': 'White', '710': 'Beige'}
-Duplicate item
-{'428': 'Light blue', '712': 'Cream', '800': 'Black', '433': 'Light blue'}
-{'800': 'Black', '428': 'Light blue', '712': 'Cream', '433': 'Light blue'}
-Duplicate item
-{'433': 'Light blue', '428': 'Light blue', '712': 'Cream', '800': 'Black'}
-Duplicate item
-{'428': 'Light blue', '250': 'White', '400': 'Blue', '433': 'Light blue', '800': 'Black', '809': 'Grey'}
-{'400': 'Blue', '250': 'White', '428': 'Light blue', '433': 'Light blue', '800': 'Black', '809': 'Grey'}
-Duplicate item
-{'433': 'Light blue', '250': 'White', '400': 'Blue', '428': 'Light blue', '800': 'Black', '809': 'Grey'}
-Duplicate item
-{'809': 'Grey', '250': 'White', '400': 'Blue', '428': 'Light blue', '433': 'Light blue', '800': 'Black'}
-Duplicate item
-{'800': 'Black', '250': 'White', '428': 'Light blue', '433': 'Light blue'}
-{'433': 'Light blue', '250': 'White', '800': 'Black', '428': 'Light blue'}
-Duplicate item
-{'428': 'Light blue', '400': 'Blue', '800': 'Black'}
-{'800': 'Black', '400': 'Blue', '428': 'Light blue'}
-Duplicate item
-{'400': 'Blue', '428': 'Light blue', '800': 'Black'}
-Duplicate item
-{'428': 'Light blue', '800': 'Black', '809': 'Grey', '400': 'Blue', '433': 'Light blue'}
-{'800': 'Black', '809': 'Grey', '400': 'Blue', '433': 'Light blue', '428': 'Light blue'}
-Duplicate item
-{'400': 'Blue', '800': 'Black', '809': 'Grey', '433': 'Light blue', '428': 'Light blue'}
-Duplicate item
-{'433': 'Light blue', '800': 'Black', '809': 'Grey', '400': 'Blue', '428': 'Light blue'}
-Duplicate item
-{'809': 'Grey', '800': 'Black', '400': 'Blue', '433': 'Light blue', '428': 'Light blue'}
-Duplicate item
-{'428': 'Light blue', '800': 'Black'}
-{'800': 'Black', '428': 'Light blue'}
-Duplicate item
-{'406': 'Light blue', '800': 'Black'}
-Duplicate item
-{'800': 'Black', '406': 'Light blue'}
-Duplicate item
-{'428': 'Light blue', '800': 'Black', '433': 'Light blue'}
-{'800': 'Black', '428': 'Light blue', '433': 'Light blue'}
-Duplicate item
-{'459': 'Grey', '205': 'Grey', '627': 'Pink'}
-{'205': 'Grey', '459': 'Grey', '627': 'Pink'}
-Duplicate item
-{'707': 'Camel', '812': 'Grey', '800': 'Black'}
-{'812': 'Grey', '800': 'Black', '707': 'Camel'}
-Duplicate item
-{'800': 'Black', '812': 'Grey', '707': 'Camel'}
-Duplicate item
-{'485': 'Washed out blue', '251': 'Off white', '800': 'Black', '707': 'Camel', '717': 'Brown'}
-{'800': 'Black', '250': 'White', '806': 'Stone'}
-{'805': 'Stone', '500': 'Green', '400': 'Blue', '800': 'Black', '802': 'Grey'}
-{'800': 'Black', '500': 'Green', '802': 'Grey', '805': 'Stone', '400': 'Blue'}
-Duplicate item
-{'428': 'Light blue', '400': 'Blue', '800': 'Black'}
-{'800': 'Black', '400': 'Blue', '428': 'Light blue'}
-Duplicate item
-{'400': 'Blue', '428': 'Light blue', '800': 'Black'}
-Duplicate item
-{'605': 'garnet', '800': 'Black', '548': 'Khaki', '251': 'Off white'}
-{'548': 'Khaki', '800': 'Black', '605': 'garnet', '251': 'Off white'}
-Duplicate item
-{'800': 'Black', '548': 'Khaki', '605': 'garnet', '251': 'Off white'}
-Duplicate item
-{'800': 'Black', '611': 'Violet', '250': 'White'}
-{'800': 'Black', '711': 'Sand', '742': 'Camel', '400': 'Blue'}
-{'711': 'Sand', '800': 'Black', '742': 'Camel', '400': 'Blue'}
-Duplicate item
-{'742': 'Camel', '800': 'Black', '711': 'Sand', '400': 'Blue'}
-Duplicate item
-{'701': 'Dark Orange', '800': 'Black', '505': 'Khaki', '711': 'Sand'}
-{'802': 'Grey', '800': 'Black', '982': 'Green', '742': 'Camel'}
-{'982': 'Green', '800': 'Black', '802': 'Grey', '742': 'Camel'}
-Duplicate item
-{'707': 'Camel', '812': 'Grey', '800': 'Black'}
-{'812': 'Grey', '707': 'Camel', '800': 'Black'}
-Duplicate item
-{'800': 'Black', '812': 'Grey', '707': 'Camel'}
-Duplicate item
-{'805': 'Stone', '742': 'Camel'}
-{'742': 'Camel', '805': 'Stone'}
-Duplicate item
-{'800': 'Black', '428': 'Light blue'}
-Get "Men Trousers_1" Items IDs Status Code 200
-Get 71 Items from "Men Trousers_1" Status Code 200
-{'428': 'Light blue', '800': 'Black', '433': 'Light blue'}
-Duplicate item
-{'800': 'Black', '428': 'Light blue', '433': 'Light blue'}
-Duplicate item
-{'459': 'Grey', '205': 'Grey', '627': 'Pink'}
-Duplicate item
-{'205': 'Grey', '459': 'Grey', '627': 'Pink'}
-Duplicate item
-{'707': 'Camel', '812': 'Grey', '800': 'Black'}
-Duplicate item
-{'812': 'Grey', '800': 'Black', '707': 'Camel'}
-Duplicate item
-{'800': 'Black', '812': 'Grey', '707': 'Camel'}
-Duplicate item
-{'485': 'Washed out blue', '251': 'Off white', '800': 'Black', '707': 'Camel', '717': 'Brown'}
-Duplicate item
-{'800': 'Black', '250': 'White', '806': 'Stone'}
-Duplicate item
-{'428': 'Light blue', '400': 'Blue', '800': 'Black'}
-Duplicate item
-{'800': 'Black', '400': 'Blue', '428': 'Light blue'}
-Duplicate item
-{'400': 'Blue', '428': 'Light blue', '800': 'Black'}
-Duplicate item
-{'800': 'Black', '711': 'Sand', '742': 'Camel', '400': 'Blue'}
-Duplicate item
-{'711': 'Sand', '800': 'Black', '742': 'Camel', '400': 'Blue'}
-Duplicate item
-{'742': 'Camel', '800': 'Black', '711': 'Sand', '400': 'Blue'}
-Duplicate item
-{'701': 'Dark Orange', '800': 'Black', '505': 'Khaki', '711': 'Sand'}
-Duplicate item
-{'802': 'Grey', '800': 'Black', '982': 'Green', '742': 'Camel'}
-Duplicate item
-{'982': 'Green', '800': 'Black', '802': 'Grey', '742': 'Camel'}
-Duplicate item
-{'707': 'Camel', '812': 'Grey', '800': 'Black'}
-Duplicate item
-{'812': 'Grey', '707': 'Camel', '800': 'Black'}
-Duplicate item
-{'800': 'Black', '812': 'Grey', '707': 'Camel'}
-Duplicate item
-{'800': 'Black', '428': 'Light blue'}
-Duplicate item
-{'428': 'Light blue', '800': 'Black'}
-Duplicate item
-{'809': 'Grey', '250': 'White', '400': 'Blue', '428': 'Light blue', '433': 'Light blue', '800': 'Black', '811': 'Grey', '401': 'Navy'}
-{'902': 'Pink', '250': 'White', '812': 'Grey', '537': 'Green', '800': 'Black', '707': 'Camel'}
-Duplicate item
-{'800': 'Black', '250': 'White', '812': 'Grey', '902': 'Pink', '537': 'Green', '707': 'Camel'}
-Duplicate item
-{'800': 'Black', '812': 'Grey', '612': 'Violet', '711': 'Sand'}
-Duplicate item
-{'711': 'Sand', '812': 'Grey', '612': 'Violet', '800': 'Black'}
-Duplicate item
-{'612': 'Violet', '812': 'Grey', '711': 'Sand', '800': 'Black'}
-Duplicate item
-{'800': 'Black', '742': 'Camel'}
-Duplicate item
-{'742': 'Camel', '800': 'Black'}
-Duplicate item
-{'800': 'Black', '742': 'Camel'}
-Duplicate item
-{'742': 'Camel', '800': 'Black'}
-Duplicate item
-{'811': 'Grey', '428': 'Light blue', '800': 'Black', '433': 'Light blue'}
-Duplicate item
-{'800': 'Black', '428': 'Light blue', '433': 'Light blue', '811': 'Grey'}
-Duplicate item
-{'433': 'Light blue', '428': 'Light blue', '800': 'Black', '811': 'Grey'}
-Duplicate item
-{'428': 'Light blue', '800': 'Black', '433': 'Light blue', '811': 'Grey'}
-Duplicate item
-{'809': 'Grey', '800': 'Black', '400': 'Blue', '433': 'Light blue', '428': 'Light blue'}
-Duplicate item
-{'800': 'Black', '809': 'Grey', '400': 'Blue', '433': 'Light blue', '428': 'Light blue'}
-Duplicate item
-{'433': 'Light blue', '800': 'Black', '809': 'Grey', '400': 'Blue', '428': 'Light blue'}
-Duplicate item
-{'428': 'Light blue', '800': 'Black', '809': 'Grey', '400': 'Blue', '433': 'Light blue'}
-Duplicate item
-{'400': 'Blue', '800': 'Black', '809': 'Grey', '433': 'Light blue', '428': 'Light blue'}
-Duplicate item
-{'809': 'Grey', '250': 'White', '400': 'Blue', '428': 'Light blue', '433': 'Light blue', '800': 'Black'}
-Duplicate item
-{'433': 'Light blue', '250': 'White', '400': 'Blue', '428': 'Light blue', '800': 'Black', '809': 'Grey'}
-Duplicate item
-{'428': 'Light blue', '250': 'White', '400': 'Blue', '433': 'Light blue', '800': 'Black', '809': 'Grey'}
-Duplicate item
-{'400': 'Blue', '250': 'White', '428': 'Light blue', '433': 'Light blue', '800': 'Black', '809': 'Grey'}
-Duplicate item
-{'742': 'Camel'}
-Duplicate item
-{'800': 'Black', '400': 'Blue', '428': 'Light blue'}
-Duplicate item
-{'428': 'Light blue', '400': 'Blue', '800': 'Black'}
-Duplicate item
-{'400': 'Blue', '428': 'Light blue', '800': 'Black'}
-Duplicate item
-{'811': 'Grey', '250': 'White', '710': 'Beige'}
-Duplicate item
-{'710': 'Beige', '250': 'White', '811': 'Grey'}
-Duplicate item
-{'800': 'Black', '400': 'Blue', '428': 'Light blue', '433': 'Light blue'}
-Duplicate item
-{'433': 'Light blue', '400': 'Blue', '428': 'Light blue', '800': 'Black'}
-Duplicate item
-{'428': 'Light blue', '400': 'Blue', '800': 'Black', '433': 'Light blue'}
-Duplicate item
-{'400': 'Blue', '428': 'Light blue', '800': 'Black', '433': 'Light blue'}
-Duplicate item
-{'800': 'Black', '250': 'White', '428': 'Light blue', '433': 'Light blue'}
-Duplicate item
-{'433': 'Light blue', '250': 'White', '800': 'Black', '428': 'Light blue'}
-Duplicate item
-{'800': 'Black', '428': 'Light blue', '712': 'Cream', '433': 'Light blue'}
-Duplicate item
-{'433': 'Light blue', '428': 'Light blue', '712': 'Cream', '800': 'Black'}
-Duplicate item
-{'428': 'Light blue', '712': 'Cream', '800': 'Black', '433': 'Light blue'}
-Duplicate item
-{'800': 'Black', '428': 'Light blue'}
-Duplicate item
-{'428': 'Light blue', '800': 'Black'}
-Duplicate item
-{'800': 'Black', '400': 'Blue', '428': 'Light blue'}
-Duplicate item
-{'428': 'Light blue', '400': 'Blue', '800': 'Black'}
-Duplicate item
-{'400': 'Blue', '428': 'Light blue', '800': 'Black'}
-Duplicate item
-{'809': 'Grey', '400': 'Blue', '428': 'Light blue', '433': 'Light blue', '800': 'Black'}
-Duplicate item
-{'800': 'Black', '400': 'Blue', '428': 'Light blue', '433': 'Light blue', '809': 'Grey'}
-Duplicate item
-{'433': 'Light blue', '400': 'Blue', '428': 'Light blue', '800': 'Black', '809': 'Grey'}
-Duplicate item
-{'428': 'Light blue', '400': 'Blue', '433': 'Light blue', '800': 'Black', '809': 'Grey'}
-Duplicate item
-{'400': 'Blue', '428': 'Light blue', '433': 'Light blue', '800': 'Black', '809': 'Grey'}
-Duplicate item
-Get "Men Shoes_1" Items IDs Status Code 200
-Get 10 Items from "Men Shoes_1" Status Code 200
-{'040': 'BLACK'}
-{'202': 'Multicolored'}
-{'202': 'Multicolored'}
-Duplicate item
-{'009': 'Blue'}
-{'001': 'WHITE'}
-{'040': 'BLACK'}
-{'001': 'WHITE'}
-{'001': 'WHITE'}
-{'001': 'WHITE'}
-{'001': 'WHITE'}
-Duplicate item
-Get "Men Accessories_1" Items IDs Status Code 200
-Get 0 Items from "Men Accessories_1" Status Code 400
-No Items Could be fetched
+238
+020
+613
+613
+613
+410
+212
+006
+608
+006
+100
+104
+005
+483
+410
+410
+309
+442
+020
+100
+613
+024
+401
+410
+167
+410
+613
+001
+001
+613
+001
+321
+309
+410
+001
+008
+001
+608
+615
+639
+020
+410
+001
+451
+001
+100
+613
+410
+410
+001
+700
+001
+400
+613
+001
+020
+238
+006
+476
+106
+001
+006
+024
+212
+315
+238
+532
+284
+703
+238
+639
+100
+006
+615
+604
+001
+001
+001
+615
+300
+400
+100
+100
+615
+700
+020
+001
+489
+410
+410
+001
+030
+106
+020
+006
+006
+309
+100
+409
+100
+600
+306
