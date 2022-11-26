@@ -38,7 +38,7 @@ for section in sections:
     for category in sections[section]:
         response = requests.get(db_url.format(format(sections[section][category])),headers=headers)
         if response.status_code == 200:
-            print('Get {} Items from "{} - {}" Status Code'.format(len(response.json()['productIds']),section,category[:-2]), response.status_code)
+            print('Get {} Items from "{} - {}" Status Code'.format(len(response.json()['productIds']),section,category), response.status_code)
             if len(response.json()['productIds']) > 20:
                 with open(sample_file_path, "w") as outfile:
                     outfile.write(json.dumps(response.json(), indent=4))
@@ -57,7 +57,7 @@ for section in sections:
     for category in sections[section]:            
         response = requests.get(db_url.format(format(sections[section][category])),headers=headers)
         if response.status_code == 200:
-            print('Get {} Items from "{} - {}" Status Code'.format(len(response.json()['productIds']),section,category[:-2]), response.status_code)
+            print('Get {} Items from "{} - {}" Status Code'.format(len(response.json()['productIds']),section,category), response.status_code)
             category_items = response.json()
             try:
                 for item_id in category_items['productIds']:
@@ -136,13 +136,12 @@ for item in stock:
         for image in option['images']:
             if "/{}/".format(option['color_code']) in image:
                 new_images.append(image) if image not in new_images else print("dup")
-                
-        option['color_image'] = new_images[0].replace("_6_1_2.jpg","_6_1_1.jpg")
-        option['images'] = new_images
-        
-        # for color_image in option['color_image']:
-        #     if "/{}/".format(option['color_code']) in color_image:
-        #         option['color_image'] = color_image
+        try:        
+            option['color_image'] = new_images[0].replace("_6_1_2.jpg","_6_1_1.jpg")
+            option['images'] = new_images
+        except:
+            pass
+
         sizes = {}
         for size in option['sizes']:
             sizes[size['name']] = False

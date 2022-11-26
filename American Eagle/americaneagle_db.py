@@ -81,8 +81,8 @@ for section in sections:
         else:
             print("{} {} Bad Request".format(section,category))
  
-
-print(len(ids))
+with open('ae_color_codes.json', "w", encoding='utf-8') as outfile:
+    outfile.write(json.dumps(color_codes, indent=4,ensure_ascii = False))
  
 with open(db_file_path, "w", encoding='utf-8') as outfile:
     outfile.write(json.dumps(stock, indent=4,ensure_ascii = False))

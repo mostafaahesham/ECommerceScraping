@@ -3,13 +3,16 @@
     {
         "Men":
         {
-            "T-Shirts_1": "1010587173",
-            "Shirts_1": "1010586678",
-            "Sweatshirts_1": "1010586679",
-            "Jackets_1": "1010586680",
-            "Trousers_1": "1010587174",
-            "Shoes_1": "1010586172",
-            "Accessories_1": "1010586173"
+            "T-Shirts & Tops_1": "1010193239",
+            "Shirts & Flannels_1": "1010193240",
+            "Sweatshirts & Hoddies_1": "1010193244",
+            "Sweatshirts & Hoddies_2": "1010193243",
+            "Jackets & Coats_1": "1010193546",
+            "Trousers & Jeans_1": "1010193241",
+            "Trousers & Jeans_2": "1010193238",
+            "Shorts_1": "1010193242",
+            "Shoes_1": "1010193202",
+            "Accessories_1": "1010193172"
         },
         "Women":
         {
@@ -27,6 +30,8 @@
     {
         "Women":
         {
+            "T-Shirts & Tops_1": "1718528",
+            "T-Shirts & Tops_2": "1020297562",
             "Shirts & Blouses_1": "1718502",
             "Sweatshirts & Knitwear_1": "1718524",
             "Sweatshirts & Knitwear_2": "1718564",
@@ -39,7 +44,9 @@
             "Jackets & Coats_4": "1020395254",
             "Jackets & Coats_5": "1020437417",
             "Shorts & Skirts_1": "1020377546",
-            "Shorts & Skirts_2": "1718525"
+            "Shorts & Skirts_2": "1718525",
+            "Shoes_1": "1020178528",
+            "Accessories_1": "1020303541"
         }
     },
     "Pull & Bear":
@@ -53,11 +60,29 @@
             "Jackets & Coats_1": "1030009520",
             "Trousers & Jeans_1": "29509",
             "Trousers & Jeans_2": "29511",
-            "Shorts_1": "1338507"
+            "Shorts_1": "1338507",
+            "Shoes_1": "670010",
+            "Accessories_1": "1030004114"
         },
         "Women":
         {
-
+            "T-Shirts & Tops_1": "29020",
+            "T-Shirts & Tops_2": "1030061504",
+            "Shirts & Blouses_1": "29019",
+            "Sweatshirts & Knitwear_1": "29018",
+            "Sweatshirts & Knitwear_2": "29017",
+            "Trousers & Jeans_1": "29021",
+            "Trousers & Jeans_2": "29022",
+            "Dresses & Jumpsuits_1": "29016",
+            "Dresses & Jumpsuits_2": "1073503",
+            "Jackets & Coats_1": "1030009518",
+            "Jackets & Coats_2": "359505",
+            "Jackets & Coats_3": "1030440809",
+            "Shorts & Skirts_1": "29024",
+            "Shorts & Skirts_2": "29023",
+            "Shoes_1": "670007",
+            "Accessories_1": "1030004059",
+            "Accessories_2": "29027"
         }
     },
     "American Eagle":

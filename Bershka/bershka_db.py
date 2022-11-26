@@ -64,13 +64,13 @@ links = []
 for section in sections:
     for category in sections[section]:
         ids_response = requests.get(ids_url.format(sections[section][category]),headers=headers)
-        print('Get "{} - {}" Items IDs Status Code'.format(section,category[:-2]), ids_response.status_code)
+        print('Get "{} - {}" Items IDs Status Code'.format(section,category), ids_response.status_code)
         itemIDs = ''
         for id in ids_response.json()['productIds']:
             itemIDs = itemIDs + str(id) + ','
             
         response = requests.get(db_url.format(format(sections[section][category]),itemIDs),headers=headers)
-        print('Get {} Items from "{} - {}" Status Code'.format(len(ids_response.json()['productIds']),section,category[:-2]), response.status_code)
+        print('Get {} Items from "{} - {}" Status Code'.format(len(ids_response.json()['productIds']),section,category), response.status_code)
         if response.status_code == 200:
             category_items = response.json()
             try:
@@ -160,7 +160,7 @@ for item in stock:
                 option['color_image'] = image
                 break
             else:
-                print(item['item_id'])
+                pass
             
         sizes = {}
         for size in option['sizes']:

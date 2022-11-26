@@ -47,11 +47,11 @@ class MerchantDB:
                 print("updating : {} - {} - {}".format(str(item['item_id']),item['item_brand'],item['item_name']))
             except Exception as e:print(e)
 
-brand_name = "Stradivarius"
+brand_name = "Pull & Bear"
 collection_name = "itemStock"
 
 merchant_db = MerchantDB(collection_name,brand_name,"serviceAccountKey.json")
-merchant_db.load_db_file("{}/{}_stock.json".format(merchant_db.brand_name,merchant_db.brand_name.lower()))
+merchant_db.load_db_file("{}/{}_stock.json".format(merchant_db.brand_name,merchant_db.brand_name.lower().replace(' ','')))
 
 print(merchant_db.items_count())
 merchant_db.items_update()
