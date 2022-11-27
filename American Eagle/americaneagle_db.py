@@ -2,6 +2,7 @@ import requests
 import json
 import os
 import pandas as pd
+from googletrans import Translator
 
 brand_name = "American Eagle"
 
@@ -12,8 +13,8 @@ db_file_name = "americaneagle_stock.json"
 sample_file_name = "ae_sample.json"
 links_file_name = "links.json"
 
-links_file_path = os.getcwd() + "/" + links_file_name
 main_path = os.path.dirname(os.path.realpath(__file__))
+links_file_path = os.getcwd() + "/" + links_file_name
 db_file_path = main_path + "/" + db_file_name
 sample_file_path = main_path + "/" + sample_file_name
 
@@ -26,11 +27,11 @@ for section in sections:
         if response.status_code == 200:
             sample = response.json()['results'][0]
             item_count = sample['nbHits']
-            if item_count > 10:
+            print('Get {} Items from "{} {}" Section Status Code'.format(item_count,section,category), response.status_code)
+            if item_count > 30:
                 with open(sample_file_path, "w",encoding="utf-8") as outfile:
                     outfile.write(json.dumps(response.json(), indent=4,ensure_ascii = False))
                 print("{} {} Sample Saved".format(section,category))
-                print("-------------------------------------------")
                 break
             else:
                 continue
@@ -38,10 +39,23 @@ for section in sections:
             print("{} {} bad request".format(section,category))
     break
 
+print("-------------------------------------------")
+
 stock = []
-color_codes = {}
-sizes = []
 ids = []
+
+size_aliases = {
+    "XXS": "XXS",
+    "XS":"صغير جداً",
+    "S":"صغير",
+    "M":"وسط",
+    "L":"كبير",
+    "XL":"كبير جداً",
+    "XXL": "XXL",
+    "XXXL": "XXXL"
+}
+
+translator = Translator()
 
 for section in sections:
     for category in sections[section]:
@@ -51,15 +65,32 @@ for section in sections:
             item_count = category_items['nbHits']
             print('Get {} Items from "{} {}" Section Status Code'.format(item_count,section,category), response.status_code)
             for item in category_items['hits']:
+                sizes = []
                 try:
                     item_id = item['objectID'][-3:]
-                    color_codes[item_id] = item['attr_color']['ar'][0]
-                    sizes = item['attr_size']['ar']
-                    images = [image['url'] for image in item['media']]
+                    
                     if item['objectID'][:-3].replace('-','') not in ids:
                         ids.append(item['objectID'][:-3].replace('-',''))
                     else:
                         pass
+                    
+                    arabic_sizes = item['attr_size']['ar'][:-1] if "6 Short" in item['attr_size']['ar'] else item['attr_size']['ar'] # in stock sizes are in arabic
+                    english_sizes = item['attr_size']['en'][:-1] if "6 Short" in item['attr_size']['en'] else item['attr_size']['en'] # available sizes are in english
+                    
+                    for size in english_sizes:
+                        if size[0].isalpha():
+                            sz = {
+                                'name': size,
+                                'availability': True if size_aliases[size] in arabic_sizes else False,
+                            }
+                        else:
+                            sz = {
+                                'name': size,
+                                'availability': True if size in arabic_sizes else False
+                            }
+                            
+                        sizes.append(sz)
+                    
                     stock.append(
                                 {
                                     'item_brand': brand_name,
@@ -72,17 +103,16 @@ for section in sections:
                                     'item_new_price': item['final_price']['en'],
                                     'item_discount': item['discount']['en'],
                                     'item_link': main_url + item['url']['en'],
+                                    'color': translator.translate(item['attr_color']['ar'][0]).text.title(),
                                     'color_code':item['objectID'][-3:],
-                                    'images': images,
-                                    'sizes': sizes                            
+                                    'color_image': [image['url'] for image in item['media'] if '_f.' in image['url'] or '_of.' in image['url']][0],
+                                    'images': [image['url'] for image in item['media']],
+                                    'sizes': sizes                           
                                 }
                         )
                 except Exception as e:print(e)
         else:
             print("{} {} Bad Request".format(section,category))
- 
-with open('ae_color_codes.json', "w", encoding='utf-8') as outfile:
-    outfile.write(json.dumps(color_codes, indent=4,ensure_ascii = False))
  
 with open(db_file_path, "w", encoding='utf-8') as outfile:
     outfile.write(json.dumps(stock, indent=4,ensure_ascii = False))
