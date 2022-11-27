@@ -102,5 +102,57 @@
         {
         
         }
+    },
+    "Zara":
+    {
+        "Men":
+        {
+            "Jackets & Coats_1" : "2112993",
+            "Jackets & Coats_2": "2113031",
+            "Jackets & Coats_3" : "2112969",
+            "Jackets & Coats_4" : "2113053",
+            "Sweatshirts & Hoddies_1" : "2113125",
+            "Sweatshirts & Hoddies_2" : "2113165",
+            "Suits & Blazers_1" : "2113078",
+            "Suits & Blazers_2" : "2113099",
+            "Shirts & Flannels_1" : "2113199",
+            "T-Shirts & Tops_1" : "2113240",
+            "T-Shirts & Tops_2" : "2113259",
+            "Trousers & Jeans_1" : "2113288",
+            "Trousers & Jeans_2" : "2119348",
+            "Shirts & Flannels_2" : "2113048",
+            "Shoes_1" : "2119425",
+            "Accessories_1" : "2119495",
+            "Accessories_2" : "2119450",
+            "Accessories_3" : "2119507"
+
+        },
+
+        "Women":
+        {
+            "Jackets & Coats_1" : "2113372",
+            "Jackets & Coats_2": "2113434",
+            "Jackets & Coats_3" : "2113441",
+            "Dresses & Jumpsuits_1": "2113500",
+            "Sweatshirts & Knitwear_1" : "2113699",
+            "Sweatshirts & Knitwear_2" : "2113707",
+            "Suits & Blazers_1" : "2113388",
+            "Suits & Blazers_2" : "2113873",
+            "Shirts & Blouses_1" : "2113575",
+            "T-Shirts & Tops_1" : "2113611",
+            "T-Shirts & Tops_2" : "2113643",
+            "Trousers & Jeans_1" : "2113807",
+            "Trousers & Jeans_2" : "2113758",
+            "Shorts & Skirts_1" : "2113840",
+            "Shoes_1" : "2114095",
+            "Accessories_1" : "2114096",
+            "Accessories_2" : "2114175",
+            "Accessories_3" : "2114227",
+            "Accessories_4" : "2114271"
+
+
+        }
+
+
     }
 }
