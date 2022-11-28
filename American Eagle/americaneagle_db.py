@@ -3,6 +3,7 @@ import json
 import os
 import pandas as pd
 from googletrans import Translator
+import numpy as np
 
 brand_name = "American Eagle"
 
@@ -41,7 +42,7 @@ for section in sections:
 
 print("-------------------------------------------")
 
-stock = []
+unmerged_stock = []
 ids = []
 
 size_aliases = {
@@ -55,6 +56,16 @@ size_aliases = {
     "XXXL": "XXXL"
 }
 
+class NpEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        if isinstance(obj, np.floating):
+            return float(obj)
+        if isinstance(obj, np.ndarray):
+            return obj.tolist()
+        return json.JSONEncoder.default(self, obj)
+
 translator = Translator()
 
 for section in sections:
@@ -67,10 +78,10 @@ for section in sections:
             for item in category_items['hits']:
                 sizes = []
                 try:
-                    item_id = item['objectID'][-3:]
+                    item_id = item['objectID'][:-3].replace('-','')
                     
-                    if item['objectID'][:-3].replace('-','') not in ids:
-                        ids.append(item['objectID'][:-3].replace('-',''))
+                    if int(item_id) not in ids:
+                        ids.append(int(item_id))
                     else:
                         pass
                     
@@ -91,12 +102,12 @@ for section in sections:
                             
                         sizes.append(sz)
                     
-                    stock.append(
+                    unmerged_stock.append(
                                 {
                                     'item_brand': brand_name,
                                     'item_section': section,
                                     'item_category': category[:-2],
-                                    'item_id': int(item['objectID'][:-3].replace('-','')),
+                                    'item_id': int(item_id),
                                     'item_name': item['title']['en'],
                                     'item_on_sale': True if (item['discount']['en'] != 0) else False,
                                     'item_old_price': item['original_price']['en'],
@@ -113,6 +124,44 @@ for section in sections:
                 except Exception as e:print(e)
         else:
             print("{} {} Bad Request".format(section,category))
- 
+            
+print('--------------------Merging Data---------------------')
+            
+df = pd.DataFrame(unmerged_stock)
+stock = []
+
+for id in ids:
+    item = df.loc[df['item_id'] == id]
+    options = item[['color','color_code','color_image','images','sizes']]
+
+    item_options = []
+
+    for i in range(len(options)):
+        option = {
+                "color": options.iloc[i]['color'],
+                "color_code": options.iloc[i]['color_code'],
+                "color_image": options.iloc[i]['color_image'],
+                "images": options.iloc[i]['images'],
+                "sizes": options.iloc[i]['sizes']
+            }
+        item_options.append(option)
+    try:        
+        stock.append(
+            {
+                'item_brand': item.iloc[0]['item_brand'],
+                'item_section': item.iloc[0]['item_section'],
+                'item_category': item.iloc[0]['item_category'],
+                'item_id': item.iloc[0]['item_id'],
+                'item_name': item.iloc[0]['item_name'],
+                'item_on_sale': bool(item.iloc[0]['item_on_sale']),
+                'item_old_price': item.iloc[0]['item_old_price'],
+                'item_new_price': item.iloc[0]['item_new_price'],
+                'item_discount': item.iloc[0]['item_discount'],
+                'item_link': item.iloc[0]['item_link'],
+                'item_options': item_options
+            }
+        )
+    except Exception as e:print(e)
+
 with open(db_file_path, "w", encoding='utf-8') as outfile:
-    outfile.write(json.dumps(stock, indent=4,ensure_ascii = False))
+    outfile.write(json.dumps(stock, indent=4,ensure_ascii = False,cls=NpEncoder))
