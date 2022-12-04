@@ -54,4 +54,4 @@ merchant_db = MerchantDB(collection_name,brand_name,"serviceAccountKey.json")
 merchant_db.load_db_file("{}/{}_stock.json".format(merchant_db.brand_name,merchant_db.brand_name.lower().replace(' ','')))
 
 print(merchant_db.items_count())
-merchant_db.items_update()
+# merchant_db.items_update()
