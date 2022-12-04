@@ -291,6 +291,22 @@
                         "en": "5165-2061",
                         "ar": "5165-2061"
                     },
+                    "attr_bv_total_review_count": 1,
+                    "attr_bv_rating_distribution": [
+                        "rating_4_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 4,
+                        "ar": 4
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_4"
+                        ],
+                        "ar": [
+                            "rating_4"
+                        ]
+                    },
                     "objectID": "5165-2061-703"
                 },
                 {
@@ -663,6 +679,23 @@
                         "en": "1177-1541",
                         "ar": "1177-1541"
                     },
+                    "attr_bv_total_review_count": 6,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_4",
+                        "rating_4_2"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 4.7,
+                        "ar": 4.7
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_5"
+                        ],
+                        "ar": [
+                            "rating_5"
+                        ]
+                    },
                     "objectID": "1177-1541-410"
                 },
                 {
@@ -1016,6 +1049,23 @@
                     "attr_style_code": {
                         "en": "1165-9151",
                         "ar": "1165-9151"
+                    },
+                    "attr_bv_total_review_count": 3,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_2",
+                        "rating_1_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 3.7,
+                        "ar": 3.7
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_4"
+                        ],
+                        "ar": [
+                            "rating_4"
+                        ]
                     },
                     "objectID": "1165-9151-006"
                 },
@@ -1381,6 +1431,22 @@
                         "en": "1165-9148",
                         "ar": "1165-9148"
                     },
+                    "attr_bv_total_review_count": 2,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_2"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 5,
+                        "ar": 5
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_5"
+                        ],
+                        "ar": [
+                            "rating_5"
+                        ]
+                    },
                     "objectID": "1165-9148-100"
                 },
                 {
@@ -1730,6 +1796,24 @@
                     "attr_style_code": {
                         "en": "1165-9146",
                         "ar": "1165-9146"
+                    },
+                    "attr_bv_total_review_count": 4,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_1",
+                        "rating_4_1",
+                        "rating_1_2"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 2.8,
+                        "ar": 2.8
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_3"
+                        ],
+                        "ar": [
+                            "rating_3"
+                        ]
                     },
                     "objectID": "1165-9146-613"
                 },
@@ -2809,6 +2893,22 @@
                         "en": "0181-2289",
                         "ar": "0181-2289"
                     },
+                    "attr_bv_total_review_count": 1,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 5,
+                        "ar": 5
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_5"
+                        ],
+                        "ar": [
+                            "rating_5"
+                        ]
+                    },
                     "objectID": "0181-2289-006"
                 },
                 {
@@ -3015,15 +3115,15 @@
                         "en": [],
                         "ar": []
                     },
-                    "stock_quantity": "37",
+                    "stock_quantity": "36",
                     "stock": 2,
                     "in_stock": {
                         "en": 1,
                         "ar": 1
                     },
                     "changed": {
-                        "en": 1669629482,
-                        "ar": 1669629482
+                        "en": 1669644362,
+                        "ar": 1669644362
                     },
                     "field_category_name": {
                         "en": {
@@ -3519,6 +3619,22 @@
                         "en": "4165-1740",
                         "ar": "4165-1740"
                     },
+                    "attr_bv_total_review_count": 1,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 5,
+                        "ar": 5
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_5"
+                        ],
+                        "ar": [
+                            "rating_5"
+                        ]
+                    },
                     "objectID": "4165-1740-001"
                 },
                 {
@@ -3862,6 +3978,24 @@
                     "attr_style_code": {
                         "en": "1165-9152",
                         "ar": "1165-9152"
+                    },
+                    "attr_bv_total_review_count": 5,
+                    "attr_bv_rating_distribution": [
+                        "rating_4_1",
+                        "rating_2_1",
+                        "rating_1_3"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 1.8,
+                        "ar": 1.8
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_2"
+                        ],
+                        "ar": [
+                            "rating_2"
+                        ]
                     },
                     "objectID": "1165-9152-001"
                 },
@@ -4217,6 +4351,22 @@
                         "en": "1165-9148",
                         "ar": "1165-9148"
                     },
+                    "attr_bv_total_review_count": 3,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_3"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 5,
+                        "ar": 5
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_5"
+                        ],
+                        "ar": [
+                            "rating_5"
+                        ]
+                    },
                     "objectID": "1165-9148-001"
                 },
                 {
@@ -4568,6 +4718,23 @@
                     "attr_style_code": {
                         "en": "1165-9152",
                         "ar": "1165-9152"
+                    },
+                    "attr_bv_total_review_count": 2,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_1",
+                        "rating_4_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 4.5,
+                        "ar": 4.5
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_5"
+                        ],
+                        "ar": [
+                            "rating_5"
+                        ]
                     },
                     "objectID": "1165-9152-410"
                 },
@@ -4923,6 +5090,24 @@
                         "en": "1165-9146",
                         "ar": "1165-9146"
                     },
+                    "attr_bv_total_review_count": 5,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_2",
+                        "rating_3_1",
+                        "rating_1_2"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 3,
+                        "ar": 3
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_3"
+                        ],
+                        "ar": [
+                            "rating_3"
+                        ]
+                    },
                     "objectID": "1165-9146-100"
                 },
                 {
@@ -5137,15 +5322,15 @@
                         "en": [],
                         "ar": []
                     },
-                    "stock_quantity": "257",
+                    "stock_quantity": "256",
                     "stock": 2,
                     "in_stock": {
                         "en": 1,
                         "ar": 1
                     },
                     "changed": {
-                        "en": 1669633202,
-                        "ar": 1669633202
+                        "en": 1669644362,
+                        "ar": 1669644362
                     },
                     "field_category_name": {
                         "en": {
@@ -5636,6 +5821,23 @@
                     "attr_style_code": {
                         "en": "1165-9150",
                         "ar": "1165-9150"
+                    },
+                    "attr_bv_total_review_count": 4,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_2",
+                        "rating_1_2"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 3,
+                        "ar": 3
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_3"
+                        ],
+                        "ar": [
+                            "rating_3"
+                        ]
                     },
                     "objectID": "1165-9150-001"
                 },
@@ -6379,6 +6581,22 @@
                         "en": "5165-2061",
                         "ar": "5165-2061"
                     },
+                    "attr_bv_total_review_count": 1,
+                    "attr_bv_rating_distribution": [
+                        "rating_1_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 1,
+                        "ar": 1
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_1"
+                        ],
+                        "ar": [
+                            "rating_1"
+                        ]
+                    },
                     "objectID": "5165-2061-421"
                 },
                 {
@@ -6731,366 +6949,23 @@
                         "en": "1165-9152",
                         "ar": "1165-9152"
                     },
+                    "attr_bv_total_review_count": 2,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_2"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 5,
+                        "ar": 5
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_5"
+                        ],
+                        "ar": [
+                            "rating_5"
+                        ]
+                    },
                     "objectID": "1165-9152-613"
-                },
-                {
-                    "created": {
-                        "en": 1669602327,
-                        "ar": 1669602327
-                    },
-                    "nid": 320871,
-                    "sku": "0181-2169-400",
-                    "title": {
-                        "en": "AE Super Soft Graphic T-Shirt",
-                        "ar": "تي-شيرت سوبر سوفت مزين بطبعة"
-                    },
-                    "search_api_id": "entity:node/320871:ar",
-                    "search_api_datasource": "entity:node",
-                    "search_api_language": "ar",
-                    "atb_product_data": {
-                        "en": {
-                            "sku_type": "configurable"
-                        },
-                        "ar": {
-                            "sku_type": "configurable"
-                        }
-                    },
-                    "gtm": {
-                        "gtm-type": "gtm-product-link",
-                        "gtm-category": "American Eagle/Clearance/Men's Clearance/Men's Tops",
-                        "gtm-container": "search result page",
-                        "gtm-view-mode": "search_result",
-                        "gtm-department-name": "American Eagle|Clearance|Men's Clearance|Men's Tops",
-                        "gtm-department-id": 57741,
-                        "gtm-main-sku": "0181-2169-400",
-                        "gtm-name": "AE Super Soft Graphic T-Shirt",
-                        "gtm-product-sku": "0181-2169-400",
-                        "gtm-product-sku-class-identifier": "_181-2169-400",
-                        "gtm-sku-type": "configurable",
-                        "gtm-brand": "American Eagle",
-                        "gtm-dimension4": 6,
-                        "gtm-price": "390.00",
-                        "gtm-old-price": "650.00",
-                        "gtm-dimension3": "Discounted Product",
-                        "gtm-stock": "in stock",
-                        "gtm-magento-product-id": "486554"
-                    },
-                    "body": {
-                        "en": "",
-                        "ar": ""
-                    },
-                    "rendered_price": {
-                        "en": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">650.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">390.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (Save 40%)\n      </div>\n      </div>\n",
-                        "ar": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">650.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">390.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (%40 وفّر )\n      </div>\n      </div>\n"
-                    },
-                    "original_price": {
-                        "en": 650,
-                        "ar": 650
-                    },
-                    "price": {
-                        "en": 390,
-                        "ar": 390
-                    },
-                    "final_price": {
-                        "en": 390,
-                        "ar": 390
-                    },
-                    "discount": {
-                        "en": 40,
-                        "ar": 40
-                    },
-                    "attr_selling_price": {
-                        "en": [
-                            390
-                        ],
-                        "ar": [
-                            390
-                        ]
-                    },
-                    "field_configured_skus": [
-                        "129376652",
-                        "129371682",
-                        "129371684",
-                        "129376651",
-                        "129371686",
-                        "129371683",
-                        "129371685"
-                    ],
-                    "attr_delivery_ways": {
-                        "en": [
-                            "same_day_delivery_available",
-                            "express_day_delivery_available"
-                        ],
-                        "ar": [
-                            "same_day_delivery_available",
-                            "express_day_delivery_available"
-                        ]
-                    },
-                    "attr_product_brand": {
-                        "en": "",
-                        "ar": ""
-                    },
-                    "attr_color": {
-                        "en": [
-                            "Blue"
-                        ],
-                        "ar": [
-                            "أزرق"
-                        ]
-                    },
-                    "attr_size": {
-                        "en": [
-                            "XS",
-                            "M",
-                            "6 Short"
-                        ],
-                        "ar": [
-                            "صغير جداً",
-                            "وسط",
-                            "6 Short"
-                        ]
-                    },
-                    "attr_color_family": {
-                        "en": [
-                            {
-                                "value": "blue",
-                                "label": "blue, swatch_color:#1690c8",
-                                "swatch_color": "#1690c8"
-                            }
-                        ],
-                        "ar": [
-                            {
-                                "value": "أزرق",
-                                "label": "أزرق, swatch_color:#1690c8",
-                                "swatch_color": "#1690c8"
-                            }
-                        ]
-                    },
-                    "attr_destruction": {
-                        "en": [
-                            "Not Ripped"
-                        ],
-                        "ar": [
-                            "غير ممزق"
-                        ]
-                    },
-                    "attr_fabric": {
-                        "en": [
-                            "Jersey"
-                        ],
-                        "ar": [
-                            "جيرسيه"
-                        ]
-                    },
-                    "attr_body": {
-                        "en": [
-                            "Graphic T-Shirt"
-                        ],
-                        "ar": [
-                            "تي-شيرت مزين بطبعة"
-                        ]
-                    },
-                    "attr_length": {
-                        "en": [
-                            "Standard length"
-                        ],
-                        "ar": [
-                            "طول عادي"
-                        ]
-                    },
-                    "attr_neckline": {
-                        "en": [
-                            "Crew neck"
-                        ],
-                        "ar": [
-                            "قبة واسعة"
-                        ]
-                    },
-                    "attr_express_delivery": {
-                        "en": [
-                            "1"
-                        ],
-                        "ar": [
-                            "1"
-                        ]
-                    },
-                    "promotions": {
-                        "en": [],
-                        "ar": []
-                    },
-                    "media": [
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_l1.4620381.jpg?itok=82bLao9B",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_of.4620387.jpg?itok=nUhA3K85",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_ob.4620390.jpg?itok=8TWIZNKc",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_os.4620393.jpg?itok=7hZbGCyU",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_f.4620396.jpg?itok=BmLTaXPE",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_b.4620399.jpg?itok=vMBZJxxR",
-                            "image_type": "image"
-                        }
-                    ],
-                    "attr_aims_barcode": "AME_400368659139",
-                    "url": {
-                        "en": "/en/american-eagle/buy-ae-super-soft-graphic-t-shirt-blue.html",
-                        "ar": "/ar/american-eagle/buy-ae-super-soft-graphic-t-shirt-blue.html"
-                    },
-                    "product_labels": {
-                        "en": [],
-                        "ar": []
-                    },
-                    "stock_quantity": "21",
-                    "stock": 2,
-                    "in_stock": {
-                        "en": 1,
-                        "ar": 1
-                    },
-                    "changed": {
-                        "en": 1669624322,
-                        "ar": 1669624322
-                    },
-                    "field_category_name": {
-                        "en": {
-                            "lvl0": [
-                                "American Eagle"
-                            ],
-                            "lvl1": [
-                                "American Eagle > Clearance",
-                                "American Eagle > Men"
-                            ],
-                            "lvl2": [
-                                "American Eagle > Clearance > Men's Clearance",
-                                "American Eagle > Men > Tops",
-                                "American Eagle > Men > Shop All Men"
-                            ],
-                            "lvl3": [
-                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
-                                "American Eagle > Clearance > Men's Clearance > View All",
-                                "American Eagle > Men > Tops > Graphic Tees",
-                                "American Eagle > Men > Tops > All Tees",
-                                "American Eagle > Men > Tops > View All"
-                            ]
-                        },
-                        "ar": {
-                            "lvl0": [
-                                "أمريكان إيجل"
-                            ],
-                            "lvl1": [
-                                "أمريكان إيجل > الرجال"
-                            ],
-                            "lvl2": [
-                                "أمريكان إيجل > الرجال > الملابس العلوية",
-                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال"
-                            ],
-                            "lvl3": [
-                                "أمريكان إيجل > الرجال > الملابس العلوية > تي-شيرتات مزينة بطبعة",
-                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات",
-                                "أمريكان إيجل > الرجال > الملابس العلوية > اعرض الكل"
-                            ]
-                        }
-                    },
-                    "lhn_category": {
-                        "en": {
-                            "lvl0": [
-                                "American Eagle"
-                            ],
-                            "lvl1": [
-                                "American Eagle > Clearance",
-                                "American Eagle > Men"
-                            ],
-                            "lvl2": [
-                                "American Eagle > Clearance > Men's Clearance",
-                                "American Eagle > Men > Tops",
-                                "American Eagle > Men > Shop All Men"
-                            ],
-                            "lvl3": [
-                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
-                                "American Eagle > Men > Tops > Graphic Tees",
-                                "American Eagle > Men > Tops > All Tees"
-                            ]
-                        },
-                        "ar": {
-                            "lvl0": [
-                                "أمريكان إيجل"
-                            ],
-                            "lvl1": [
-                                "أمريكان إيجل > الرجال"
-                            ],
-                            "lvl2": [
-                                "أمريكان إيجل > الرجال > الملابس العلوية",
-                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال"
-                            ],
-                            "lvl3": [
-                                "أمريكان إيجل > الرجال > الملابس العلوية > تي-شيرتات مزينة بطبعة",
-                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات"
-                            ]
-                        }
-                    },
-                    "field_category": {
-                        "en": [
-                            {
-                                "lvl0": "All"
-                            },
-                            {
-                                "lvl0": "Clearance"
-                            },
-                            {
-                                "lvl0": "Men"
-                            }
-                        ],
-                        "ar": [
-                            {
-                                "lvl0": "جميع"
-                            },
-                            {
-                                "lvl0": "تنزيلات"
-                            },
-                            {
-                                "lvl0": "الرجال"
-                            }
-                        ]
-                    },
-                    "super_category": {
-                        "en": [
-                            "All",
-                            "American Eagle"
-                        ],
-                        "ar": [
-                            "جميع",
-                            "أمريكان إيجل"
-                        ]
-                    },
-                    "is_new": {
-                        "en": "",
-                        "ar": ""
-                    },
-                    "is_buyable": {
-                        "en": true,
-                        "ar": true
-                    },
-                    "new_arrivals": {
-                        "en": "1669020053",
-                        "ar": "1669020044"
-                    },
-                    "attr_style_code": {
-                        "en": "0181-2169",
-                        "ar": "0181-2169"
-                    },
-                    "objectID": "0181-2169-400"
                 },
                 {
                     "created": {
@@ -7817,6 +7692,25 @@
                         "en": "1177-1541",
                         "ar": "1177-1541"
                     },
+                    "attr_bv_total_review_count": 12,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_6",
+                        "rating_4_4",
+                        "rating_2_1",
+                        "rating_1_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 4.1,
+                        "ar": 4.1
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_4"
+                        ],
+                        "ar": [
+                            "rating_4"
+                        ]
+                    },
                     "objectID": "1177-1541-100"
                 },
                 {
@@ -8170,6 +8064,23 @@
                     "attr_style_code": {
                         "en": "1165-9148",
                         "ar": "1165-9148"
+                    },
+                    "attr_bv_total_review_count": 4,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_3",
+                        "rating_1_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 4,
+                        "ar": 4
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_4"
+                        ],
+                        "ar": [
+                            "rating_4"
+                        ]
                     },
                     "objectID": "1165-9148-410"
                 },
@@ -8525,6 +8436,23 @@
                         "en": "1165-9146",
                         "ar": "1165-9146"
                     },
+                    "attr_bv_total_review_count": 3,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_1",
+                        "rating_1_2"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 2.3,
+                        "ar": 2.3
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_2"
+                        ],
+                        "ar": [
+                            "rating_2"
+                        ]
+                    },
                     "objectID": "1165-9146-001"
                 },
                 {
@@ -8878,6 +8806,24 @@
                     "attr_style_code": {
                         "en": "1165-9146",
                         "ar": "1165-9146"
+                    },
+                    "attr_bv_total_review_count": 7,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_3",
+                        "rating_4_2",
+                        "rating_1_2"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 3.6,
+                        "ar": 3.6
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_4"
+                        ],
+                        "ar": [
+                            "rating_4"
+                        ]
                     },
                     "objectID": "1165-9146-410"
                 },
@@ -9530,6 +9476,22 @@
                         "en": "5165-2061",
                         "ar": "5165-2061"
                     },
+                    "attr_bv_total_review_count": 1,
+                    "attr_bv_rating_distribution": [
+                        "rating_1_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 1,
+                        "ar": 1
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_1"
+                        ],
+                        "ar": [
+                            "rating_1"
+                        ]
+                    },
                     "objectID": "5165-2061-410"
                 },
                 {
@@ -9885,6 +9847,23 @@
                     "attr_style_code": {
                         "en": "1177-1758",
                         "ar": "1177-1758"
+                    },
+                    "attr_bv_total_review_count": 2,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_1",
+                        "rating_4_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 4.5,
+                        "ar": 4.5
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_5"
+                        ],
+                        "ar": [
+                            "rating_5"
+                        ]
                     },
                     "objectID": "1177-1758-006"
                 },
@@ -10258,6 +10237,23 @@
                         "en": "1177-1541",
                         "ar": "1177-1541"
                     },
+                    "attr_bv_total_review_count": 5,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_3",
+                        "rating_4_2"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 4.6,
+                        "ar": 4.6
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_5"
+                        ],
+                        "ar": [
+                            "rating_5"
+                        ]
+                    },
                     "objectID": "1177-1541-001"
                 },
                 {
@@ -10612,7 +10608,383 @@
                         "en": "1177-1541",
                         "ar": "1177-1541"
                     },
+                    "attr_bv_total_review_count": 4,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_2",
+                        "rating_4_2"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 4.5,
+                        "ar": 4.5
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_5"
+                        ],
+                        "ar": [
+                            "rating_5"
+                        ]
+                    },
                     "objectID": "1177-1541-604"
+                },
+                {
+                    "created": {
+                        "en": 1669602327,
+                        "ar": 1669602327
+                    },
+                    "nid": 320871,
+                    "sku": "0181-2169-400",
+                    "title": {
+                        "en": "AE Super Soft Graphic T-Shirt",
+                        "ar": "تي-شيرت سوبر سوفت مزين بطبعة"
+                    },
+                    "search_api_id": "entity:node/320871:ar",
+                    "search_api_datasource": "entity:node",
+                    "search_api_language": "ar",
+                    "atb_product_data": {
+                        "en": {
+                            "sku_type": "configurable"
+                        },
+                        "ar": {
+                            "sku_type": "configurable"
+                        }
+                    },
+                    "gtm": {
+                        "gtm-type": "gtm-product-link",
+                        "gtm-category": "American Eagle/Clearance/Men's Clearance/Men's Tops",
+                        "gtm-container": "search result page",
+                        "gtm-view-mode": "search_result",
+                        "gtm-department-name": "American Eagle|Clearance|Men's Clearance|Men's Tops",
+                        "gtm-department-id": 57741,
+                        "gtm-main-sku": "0181-2169-400",
+                        "gtm-name": "AE Super Soft Graphic T-Shirt",
+                        "gtm-product-sku": "0181-2169-400",
+                        "gtm-product-sku-class-identifier": "_181-2169-400",
+                        "gtm-sku-type": "configurable",
+                        "gtm-brand": "American Eagle",
+                        "gtm-dimension4": 6,
+                        "gtm-price": "390.00",
+                        "gtm-old-price": "650.00",
+                        "gtm-dimension3": "Discounted Product",
+                        "gtm-stock": "in stock",
+                        "gtm-magento-product-id": "486554"
+                    },
+                    "body": {
+                        "en": "",
+                        "ar": ""
+                    },
+                    "rendered_price": {
+                        "en": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">650.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">390.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (Save 40%)\n      </div>\n      </div>\n",
+                        "ar": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">650.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">390.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (%40 وفّر )\n      </div>\n      </div>\n"
+                    },
+                    "original_price": {
+                        "en": 650,
+                        "ar": 650
+                    },
+                    "price": {
+                        "en": 390,
+                        "ar": 390
+                    },
+                    "final_price": {
+                        "en": 390,
+                        "ar": 390
+                    },
+                    "discount": {
+                        "en": 40,
+                        "ar": 40
+                    },
+                    "attr_selling_price": {
+                        "en": [
+                            390
+                        ],
+                        "ar": [
+                            390
+                        ]
+                    },
+                    "field_configured_skus": [
+                        "129376652",
+                        "129371682",
+                        "129371684",
+                        "129376651",
+                        "129371686",
+                        "129371683",
+                        "129371685"
+                    ],
+                    "attr_delivery_ways": {
+                        "en": [
+                            "same_day_delivery_available",
+                            "express_day_delivery_available"
+                        ],
+                        "ar": [
+                            "same_day_delivery_available",
+                            "express_day_delivery_available"
+                        ]
+                    },
+                    "attr_product_brand": {
+                        "en": "",
+                        "ar": ""
+                    },
+                    "attr_color": {
+                        "en": [
+                            "Blue"
+                        ],
+                        "ar": [
+                            "أزرق"
+                        ]
+                    },
+                    "attr_size": {
+                        "en": [
+                            "XS",
+                            "M",
+                            "6 Short"
+                        ],
+                        "ar": [
+                            "صغير جداً",
+                            "وسط",
+                            "6 Short"
+                        ]
+                    },
+                    "attr_color_family": {
+                        "en": [
+                            {
+                                "value": "blue",
+                                "label": "blue, swatch_color:#1690c8",
+                                "swatch_color": "#1690c8"
+                            }
+                        ],
+                        "ar": [
+                            {
+                                "value": "أزرق",
+                                "label": "أزرق, swatch_color:#1690c8",
+                                "swatch_color": "#1690c8"
+                            }
+                        ]
+                    },
+                    "attr_destruction": {
+                        "en": [
+                            "Not Ripped"
+                        ],
+                        "ar": [
+                            "غير ممزق"
+                        ]
+                    },
+                    "attr_fabric": {
+                        "en": [
+                            "Jersey"
+                        ],
+                        "ar": [
+                            "جيرسيه"
+                        ]
+                    },
+                    "attr_body": {
+                        "en": [
+                            "Graphic T-Shirt"
+                        ],
+                        "ar": [
+                            "تي-شيرت مزين بطبعة"
+                        ]
+                    },
+                    "attr_length": {
+                        "en": [
+                            "Standard length"
+                        ],
+                        "ar": [
+                            "طول عادي"
+                        ]
+                    },
+                    "attr_neckline": {
+                        "en": [
+                            "Crew neck"
+                        ],
+                        "ar": [
+                            "قبة واسعة"
+                        ]
+                    },
+                    "attr_express_delivery": {
+                        "en": [
+                            "1"
+                        ],
+                        "ar": [
+                            "1"
+                        ]
+                    },
+                    "promotions": {
+                        "en": [],
+                        "ar": []
+                    },
+                    "media": [
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_l1.4620381.jpg?itok=82bLao9B",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_of.4620387.jpg?itok=nUhA3K85",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_ob.4620390.jpg?itok=8TWIZNKc",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_os.4620393.jpg?itok=7hZbGCyU",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_f.4620396.jpg?itok=BmLTaXPE",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/0181_2169_400/0181_2169_400_b.4620399.jpg?itok=vMBZJxxR",
+                            "image_type": "image"
+                        }
+                    ],
+                    "attr_aims_barcode": "AME_400368659139",
+                    "url": {
+                        "en": "/en/american-eagle/buy-ae-super-soft-graphic-t-shirt-blue.html",
+                        "ar": "/ar/american-eagle/buy-ae-super-soft-graphic-t-shirt-blue.html"
+                    },
+                    "product_labels": {
+                        "en": [],
+                        "ar": []
+                    },
+                    "stock_quantity": "12",
+                    "stock": 2,
+                    "in_stock": {
+                        "en": 1,
+                        "ar": 1
+                    },
+                    "changed": {
+                        "en": 1669644362,
+                        "ar": 1669644362
+                    },
+                    "field_category_name": {
+                        "en": {
+                            "lvl0": [
+                                "American Eagle"
+                            ],
+                            "lvl1": [
+                                "American Eagle > Clearance",
+                                "American Eagle > Men"
+                            ],
+                            "lvl2": [
+                                "American Eagle > Clearance > Men's Clearance",
+                                "American Eagle > Men > Tops",
+                                "American Eagle > Men > Shop All Men"
+                            ],
+                            "lvl3": [
+                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
+                                "American Eagle > Clearance > Men's Clearance > View All",
+                                "American Eagle > Men > Tops > Graphic Tees",
+                                "American Eagle > Men > Tops > All Tees",
+                                "American Eagle > Men > Tops > View All"
+                            ]
+                        },
+                        "ar": {
+                            "lvl0": [
+                                "أمريكان إيجل"
+                            ],
+                            "lvl1": [
+                                "أمريكان إيجل > الرجال"
+                            ],
+                            "lvl2": [
+                                "أمريكان إيجل > الرجال > الملابس العلوية",
+                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال"
+                            ],
+                            "lvl3": [
+                                "أمريكان إيجل > الرجال > الملابس العلوية > تي-شيرتات مزينة بطبعة",
+                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات",
+                                "أمريكان إيجل > الرجال > الملابس العلوية > اعرض الكل"
+                            ]
+                        }
+                    },
+                    "lhn_category": {
+                        "en": {
+                            "lvl0": [
+                                "American Eagle"
+                            ],
+                            "lvl1": [
+                                "American Eagle > Clearance",
+                                "American Eagle > Men"
+                            ],
+                            "lvl2": [
+                                "American Eagle > Clearance > Men's Clearance",
+                                "American Eagle > Men > Tops",
+                                "American Eagle > Men > Shop All Men"
+                            ],
+                            "lvl3": [
+                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
+                                "American Eagle > Men > Tops > Graphic Tees",
+                                "American Eagle > Men > Tops > All Tees"
+                            ]
+                        },
+                        "ar": {
+                            "lvl0": [
+                                "أمريكان إيجل"
+                            ],
+                            "lvl1": [
+                                "أمريكان إيجل > الرجال"
+                            ],
+                            "lvl2": [
+                                "أمريكان إيجل > الرجال > الملابس العلوية",
+                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال"
+                            ],
+                            "lvl3": [
+                                "أمريكان إيجل > الرجال > الملابس العلوية > تي-شيرتات مزينة بطبعة",
+                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات"
+                            ]
+                        }
+                    },
+                    "field_category": {
+                        "en": [
+                            {
+                                "lvl0": "All"
+                            },
+                            {
+                                "lvl0": "Clearance"
+                            },
+                            {
+                                "lvl0": "Men"
+                            }
+                        ],
+                        "ar": [
+                            {
+                                "lvl0": "جميع"
+                            },
+                            {
+                                "lvl0": "تنزيلات"
+                            },
+                            {
+                                "lvl0": "الرجال"
+                            }
+                        ]
+                    },
+                    "super_category": {
+                        "en": [
+                            "All",
+                            "American Eagle"
+                        ],
+                        "ar": [
+                            "جميع",
+                            "أمريكان إيجل"
+                        ]
+                    },
+                    "is_new": {
+                        "en": "",
+                        "ar": ""
+                    },
+                    "is_buyable": {
+                        "en": true,
+                        "ar": true
+                    },
+                    "new_arrivals": {
+                        "en": "1669020053",
+                        "ar": "1669020044"
+                    },
+                    "attr_style_code": {
+                        "en": "0181-2169",
+                        "ar": "0181-2169"
+                    },
+                    "objectID": "0181-2169-400"
                 },
                 {
                     "created": {
@@ -11297,6 +11669,22 @@
                         "en": "5165-2061",
                         "ar": "5165-2061"
                     },
+                    "attr_bv_total_review_count": 2,
+                    "attr_bv_rating_distribution": [
+                        "rating_1_2"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 1,
+                        "ar": 1
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_1"
+                        ],
+                        "ar": [
+                            "rating_1"
+                        ]
+                    },
                     "objectID": "5165-2061-356"
                 },
                 {
@@ -11651,6 +12039,22 @@
                     "attr_style_code": {
                         "en": "0181-2296",
                         "ar": "0181-2296"
+                    },
+                    "attr_bv_total_review_count": 1,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 5,
+                        "ar": 5
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_5"
+                        ],
+                        "ar": [
+                            "rating_5"
+                        ]
                     },
                     "objectID": "0181-2296-800"
                 },
@@ -13407,369 +13811,6 @@
                 },
                 {
                     "created": {
-                        "en": 1661932026,
-                        "ar": 1661932026
-                    },
-                    "nid": 282126,
-                    "sku": "4165-2059-008",
-                    "title": {
-                        "en": "AE Super Soft Slub Icon Henley T-Shirt",
-                        "ar": "تي-شيرت هينلي من نسيج السلوب فائق النعومة"
-                    },
-                    "search_api_id": "entity:node/282126:ar",
-                    "search_api_datasource": "entity:node",
-                    "search_api_language": "ar",
-                    "atb_product_data": {
-                        "en": {
-                            "sku_type": "configurable"
-                        },
-                        "ar": {
-                            "sku_type": "configurable"
-                        }
-                    },
-                    "gtm": {
-                        "gtm-type": "gtm-product-link",
-                        "gtm-category": "American Eagle/Clearance/Men's Clearance/Men's Tops",
-                        "gtm-container": "search result page",
-                        "gtm-view-mode": "search_result",
-                        "gtm-department-name": "American Eagle|Clearance|Men's Clearance|Men's Tops",
-                        "gtm-department-id": 57741,
-                        "gtm-main-sku": "4165-2059-008",
-                        "gtm-name": "AE Super Soft Slub Icon Henley T-Shirt",
-                        "gtm-product-sku": "4165-2059-008",
-                        "gtm-product-sku-class-identifier": "_165-2059-008",
-                        "gtm-sku-type": "configurable",
-                        "gtm-brand": "American Eagle",
-                        "gtm-dimension4": 5,
-                        "gtm-price": "165.00",
-                        "gtm-old-price": "550.00",
-                        "gtm-dimension3": "Discounted Product",
-                        "gtm-stock": "in stock",
-                        "gtm-magento-product-id": "487616"
-                    },
-                    "body": {
-                        "en": "",
-                        "ar": ""
-                    },
-                    "rendered_price": {
-                        "en": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">550.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">165.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (Save 70%)\n      </div>\n      </div>\n",
-                        "ar": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">550.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">165.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (%70 وفّر )\n      </div>\n      </div>\n"
-                    },
-                    "original_price": {
-                        "en": 550,
-                        "ar": 550
-                    },
-                    "price": {
-                        "en": 165,
-                        "ar": 165
-                    },
-                    "final_price": {
-                        "en": 165,
-                        "ar": 165
-                    },
-                    "discount": {
-                        "en": 70,
-                        "ar": 70
-                    },
-                    "attr_selling_price": {
-                        "en": [
-                            165
-                        ],
-                        "ar": [
-                            165
-                        ]
-                    },
-                    "field_configured_skus": [
-                        "129376958",
-                        "129376950",
-                        "129376962",
-                        "129376955",
-                        "129376956",
-                        "129376946",
-                        "129376953"
-                    ],
-                    "attr_delivery_ways": {
-                        "en": [
-                            "same_day_delivery_available",
-                            "express_day_delivery_available"
-                        ],
-                        "ar": [
-                            "same_day_delivery_available",
-                            "express_day_delivery_available"
-                        ]
-                    },
-                    "attr_product_brand": {
-                        "en": "",
-                        "ar": ""
-                    },
-                    "attr_color": {
-                        "en": [
-                            "Charcoal"
-                        ],
-                        "ar": [
-                            "أسود فحمي"
-                        ]
-                    },
-                    "attr_size": {
-                        "en": [
-                            "S",
-                            "XL",
-                            "6 Short"
-                        ],
-                        "ar": [
-                            "صغير",
-                            "كبير جداً",
-                            "6 Short"
-                        ]
-                    },
-                    "attr_color_family": {
-                        "en": [
-                            {
-                                "value": "grey",
-                                "label": "grey, swatch_color:#777878",
-                                "swatch_color": "#777878"
-                            }
-                        ],
-                        "ar": [
-                            {
-                                "value": " رمادي",
-                                "label": " رمادي, swatch_color:#777878",
-                                "swatch_color": "#777878"
-                            }
-                        ]
-                    },
-                    "attr_destruction": {
-                        "en": [
-                            "Not Ripped"
-                        ],
-                        "ar": [
-                            "غير ممزق"
-                        ]
-                    },
-                    "attr_fabric": {
-                        "en": [
-                            "Slub Jersey"
-                        ],
-                        "ar": [
-                            "سلوب الجيرسيه"
-                        ]
-                    },
-                    "attr_wash": {
-                        "en": [
-                            "Garment wash"
-                        ],
-                        "ar": [
-                            "نسيج مكحوت"
-                        ]
-                    },
-                    "attr_body": {
-                        "en": [
-                            "T-Shirt"
-                        ],
-                        "ar": [
-                            "تي-شيرت"
-                        ]
-                    },
-                    "attr_length": {
-                        "en": [
-                            "Standard length"
-                        ],
-                        "ar": [
-                            "طول عادي"
-                        ]
-                    },
-                    "attr_neckline": {
-                        "en": [
-                            "Henley"
-                        ],
-                        "ar": [
-                            "هينلي"
-                        ]
-                    },
-                    "attr_express_delivery": {
-                        "en": [
-                            "1"
-                        ],
-                        "ar": [
-                            "1"
-                        ]
-                    },
-                    "promotions": {
-                        "en": [],
-                        "ar": []
-                    },
-                    "media": [
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_008/4165_2059_008_of.4646280.jpg?itok=HX7_bdDk",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_008/4165_2059_008_f.4646286.jpg?itok=hhRCrKIW",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_008/4165_2059_008_b.4646289.jpg?itok=6DmlEs6c",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_008/4165_2059_008_ob.4646292.jpg?itok=14DWxcdf",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_008/4165_2059_008_os.4646295.jpg?itok=2Alh-txm",
-                            "image_type": "image"
-                        }
-                    ],
-                    "attr_aims_barcode": "AME_400369727509",
-                    "url": {
-                        "en": "/en/american-eagle/buy-ae-super-soft-slub-icon-henley-t-shirt-charcoal.html",
-                        "ar": "/ar/american-eagle/buy-ae-super-soft-slub-icon-henley-t-shirt-charcoal.html"
-                    },
-                    "product_labels": {
-                        "en": [],
-                        "ar": []
-                    },
-                    "stock_quantity": "4",
-                    "stock": 2,
-                    "in_stock": {
-                        "en": 1,
-                        "ar": 1
-                    },
-                    "changed": {
-                        "en": 1669639322,
-                        "ar": 1669639322
-                    },
-                    "field_category_name": {
-                        "en": {
-                            "lvl0": [
-                                "American Eagle"
-                            ],
-                            "lvl1": [
-                                "American Eagle > Clearance",
-                                "American Eagle > Men"
-                            ],
-                            "lvl2": [
-                                "American Eagle > Clearance > Men's Clearance",
-                                "American Eagle > Men > Shop All Men",
-                                "American Eagle > Men > Tops"
-                            ],
-                            "lvl3": [
-                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
-                                "American Eagle > Clearance > Men's Clearance > View All",
-                                "American Eagle > Men > Tops > T-Shirts",
-                                "American Eagle > Men > Tops > View All",
-                                "American Eagle > Men > Tops > All Tees"
-                            ]
-                        },
-                        "ar": {
-                            "lvl0": [
-                                "أمريكان إيجل"
-                            ],
-                            "lvl1": [
-                                "أمريكان إيجل > الرجال"
-                            ],
-                            "lvl2": [
-                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال",
-                                "أمريكان إيجل > الرجال > الملابس العلوية"
-                            ],
-                            "lvl3": [
-                                "أمريكان إيجل > الرجال > الملابس العلوية > التي-شيرتات",
-                                "أمريكان إيجل > الرجال > الملابس العلوية > اعرض الكل",
-                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات"
-                            ]
-                        }
-                    },
-                    "lhn_category": {
-                        "en": {
-                            "lvl0": [
-                                "American Eagle"
-                            ],
-                            "lvl1": [
-                                "American Eagle > Clearance",
-                                "American Eagle > Men"
-                            ],
-                            "lvl2": [
-                                "American Eagle > Clearance > Men's Clearance",
-                                "American Eagle > Men > Shop All Men",
-                                "American Eagle > Men > Tops"
-                            ],
-                            "lvl3": [
-                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
-                                "American Eagle > Men > Tops > T-Shirts",
-                                "American Eagle > Men > Tops > All Tees"
-                            ]
-                        },
-                        "ar": {
-                            "lvl0": [
-                                "أمريكان إيجل"
-                            ],
-                            "lvl1": [
-                                "أمريكان إيجل > الرجال"
-                            ],
-                            "lvl2": [
-                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال",
-                                "أمريكان إيجل > الرجال > الملابس العلوية"
-                            ],
-                            "lvl3": [
-                                "أمريكان إيجل > الرجال > الملابس العلوية > التي-شيرتات",
-                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات"
-                            ]
-                        }
-                    },
-                    "field_category": {
-                        "en": [
-                            {
-                                "lvl0": "All"
-                            },
-                            {
-                                "lvl0": "Clearance"
-                            },
-                            {
-                                "lvl0": "Men"
-                            }
-                        ],
-                        "ar": [
-                            {
-                                "lvl0": "جميع"
-                            },
-                            {
-                                "lvl0": "تنزيلات"
-                            },
-                            {
-                                "lvl0": "الرجال"
-                            }
-                        ]
-                    },
-                    "super_category": {
-                        "en": [
-                            "All",
-                            "American Eagle"
-                        ],
-                        "ar": [
-                            "جميع",
-                            "أمريكان إيجل"
-                        ]
-                    },
-                    "is_new": {
-                        "en": "",
-                        "ar": ""
-                    },
-                    "is_buyable": {
-                        "en": true,
-                        "ar": true
-                    },
-                    "new_arrivals": {
-                        "en": "1661932036",
-                        "ar": "1661932026"
-                    },
-                    "attr_style_code": {
-                        "en": "4165-2059",
-                        "ar": "4165-2059"
-                    },
-                    "objectID": "4165-2059-008"
-                },
-                {
-                    "created": {
                         "en": 1650876975,
                         "ar": 1650876975
                     },
@@ -13961,30 +14002,6 @@
                             "image_type": "image"
                         }
                     ],
-                    "swatches": {
-                        "en": [
-                            {
-                                "image_url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/media/assets/Swatch/0181_2085_020_s.4512537.jpg",
-                                "display_label": "Gray",
-                                "swatch_type": "image",
-                                "value": 16687,
-                                "child_sku_code": 129321953,
-                                "child_id": "1098241",
-                                "product_image_url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/media/assets/AmericanEagle/0181_2085_020/0181_2085_020_of.4512534.jpg"
-                            }
-                        ],
-                        "ar": [
-                            {
-                                "image_url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/media/assets/Swatch/0181_2085_020_s.4512537.jpg",
-                                "display_label": "Gray",
-                                "swatch_type": "image",
-                                "value": 16687,
-                                "child_sku_code": 129321953,
-                                "child_id": "1098241",
-                                "product_image_url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/media/assets/AmericanEagle/0181_2085_020/0181_2085_020_of.4512534.jpg"
-                            }
-                        ]
-                    },
                     "attr_aims_barcode": "AME_400366307216",
                     "url": {
                         "en": "/en/american-eagle/buy-ae-flocked-graphic-t-shirt-gray.html",
@@ -13994,15 +14011,15 @@
                         "en": [],
                         "ar": []
                     },
-                    "stock_quantity": "24",
+                    "stock_quantity": "21",
                     "stock": 2,
                     "in_stock": {
                         "en": 1,
                         "ar": 1
                     },
                     "changed": {
-                        "en": 1669636021,
-                        "ar": 1669636021
+                        "en": 1669644362,
+                        "ar": 1669644362
                     },
                     "field_category_name": {
                         "en": {
@@ -14150,363 +14167,6 @@
                         "ar": "0181-2085"
                     },
                     "objectID": "0181-2085-020"
-                },
-                {
-                    "created": {
-                        "en": 1661932026,
-                        "ar": 1661932026
-                    },
-                    "nid": 282121,
-                    "sku": "4165-2059-410",
-                    "title": {
-                        "en": "AE Super Soft Slub Icon Henley T-Shirt",
-                        "ar": "تي-شيرت هينلي من نسيج السلوب فائق النعومة"
-                    },
-                    "search_api_id": "entity:node/282121:ar",
-                    "search_api_datasource": "entity:node",
-                    "search_api_language": "ar",
-                    "atb_product_data": {
-                        "en": {
-                            "sku_type": "configurable"
-                        },
-                        "ar": {
-                            "sku_type": "configurable"
-                        }
-                    },
-                    "gtm": {
-                        "gtm-type": "gtm-product-link",
-                        "gtm-category": "American Eagle/Clearance/Men's Clearance/Men's Tops",
-                        "gtm-container": "search result page",
-                        "gtm-view-mode": "search_result",
-                        "gtm-department-name": "American Eagle|Clearance|Men's Clearance|Men's Tops",
-                        "gtm-department-id": 57741,
-                        "gtm-main-sku": "4165-2059-410",
-                        "gtm-name": "AE Super Soft Slub Icon Henley T-Shirt",
-                        "gtm-product-sku": "4165-2059-410",
-                        "gtm-product-sku-class-identifier": "_165-2059-410",
-                        "gtm-sku-type": "configurable",
-                        "gtm-brand": "American Eagle",
-                        "gtm-dimension4": 4,
-                        "gtm-price": "165.00",
-                        "gtm-old-price": "550.00",
-                        "gtm-dimension3": "Discounted Product",
-                        "gtm-stock": "in stock",
-                        "gtm-magento-product-id": "487604"
-                    },
-                    "body": {
-                        "en": "",
-                        "ar": ""
-                    },
-                    "rendered_price": {
-                        "en": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">550.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">165.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (Save 70%)\n      </div>\n      </div>\n",
-                        "ar": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">550.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">165.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (%70 وفّر )\n      </div>\n      </div>\n"
-                    },
-                    "original_price": {
-                        "en": 550,
-                        "ar": 550
-                    },
-                    "price": {
-                        "en": 165,
-                        "ar": 165
-                    },
-                    "final_price": {
-                        "en": 165,
-                        "ar": 165
-                    },
-                    "discount": {
-                        "en": 70,
-                        "ar": 70
-                    },
-                    "attr_selling_price": {
-                        "en": [
-                            165
-                        ],
-                        "ar": [
-                            165
-                        ]
-                    },
-                    "field_configured_skus": [
-                        "129376977",
-                        "129376979",
-                        "129371994",
-                        "129371992",
-                        "129371990",
-                        "129376981",
-                        "129376983"
-                    ],
-                    "attr_delivery_ways": {
-                        "en": [
-                            "same_day_delivery_available"
-                        ],
-                        "ar": [
-                            "same_day_delivery_available"
-                        ]
-                    },
-                    "attr_product_brand": {
-                        "en": "",
-                        "ar": ""
-                    },
-                    "attr_color": {
-                        "en": [
-                            "Navy"
-                        ],
-                        "ar": [
-                            "أزرق داكن"
-                        ]
-                    },
-                    "attr_size": {
-                        "en": [
-                            "XS",
-                            "S",
-                            "6 Short"
-                        ],
-                        "ar": [
-                            "صغير جداً",
-                            "صغير",
-                            "6 Short"
-                        ]
-                    },
-                    "attr_color_family": {
-                        "en": [
-                            {
-                                "value": "blue",
-                                "label": "blue, swatch_color:#1690c8",
-                                "swatch_color": "#1690c8"
-                            }
-                        ],
-                        "ar": [
-                            {
-                                "value": "أزرق",
-                                "label": "أزرق, swatch_color:#1690c8",
-                                "swatch_color": "#1690c8"
-                            }
-                        ]
-                    },
-                    "attr_destruction": {
-                        "en": [
-                            "Not Ripped"
-                        ],
-                        "ar": [
-                            "غير ممزق"
-                        ]
-                    },
-                    "attr_fabric": {
-                        "en": [
-                            "Slub Jersey"
-                        ],
-                        "ar": [
-                            "سلوب الجيرسيه"
-                        ]
-                    },
-                    "attr_wash": {
-                        "en": [
-                            "Garment wash"
-                        ],
-                        "ar": [
-                            "نسيج مكحوت"
-                        ]
-                    },
-                    "attr_body": {
-                        "en": [
-                            "T-Shirt"
-                        ],
-                        "ar": [
-                            "تي-شيرت"
-                        ]
-                    },
-                    "attr_length": {
-                        "en": [
-                            "Standard length"
-                        ],
-                        "ar": [
-                            "طول عادي"
-                        ]
-                    },
-                    "attr_neckline": {
-                        "en": [
-                            "Henley"
-                        ],
-                        "ar": [
-                            "هينلي"
-                        ]
-                    },
-                    "attr_express_delivery": {
-                        "en": [
-                            "0"
-                        ],
-                        "ar": [
-                            "0"
-                        ]
-                    },
-                    "promotions": {
-                        "en": [],
-                        "ar": []
-                    },
-                    "media": [
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_410/4165_2059_410_of.4624548.jpg?itok=W4o16-vJ",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_410/4165_2059_410_f.4624554.jpg?itok=_7SectHN",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_410/4165_2059_410_b.4624557.jpg?itok=N-wVnhvR",
-                            "image_type": "image"
-                        },
-                        {
-                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_410/4165_2059_410_ob.4624560.jpg?itok=szfsA9YZ",
-                            "image_type": "image"
-                        }
-                    ],
-                    "attr_aims_barcode": "AME_400369727509",
-                    "url": {
-                        "en": "/en/american-eagle/buy-ae-super-soft-slub-icon-henley-t-shirt-navy.html",
-                        "ar": "/ar/american-eagle/buy-ae-super-soft-slub-icon-henley-t-shirt-navy.html"
-                    },
-                    "product_labels": {
-                        "en": [],
-                        "ar": []
-                    },
-                    "stock_quantity": "18",
-                    "stock": 2,
-                    "in_stock": {
-                        "en": 1,
-                        "ar": 1
-                    },
-                    "changed": {
-                        "en": 1669634402,
-                        "ar": 1669634402
-                    },
-                    "field_category_name": {
-                        "en": {
-                            "lvl0": [
-                                "American Eagle"
-                            ],
-                            "lvl1": [
-                                "American Eagle > Clearance",
-                                "American Eagle > Men"
-                            ],
-                            "lvl2": [
-                                "American Eagle > Clearance > Men's Clearance",
-                                "American Eagle > Men > Shop All Men",
-                                "American Eagle > Men > Tops"
-                            ],
-                            "lvl3": [
-                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
-                                "American Eagle > Clearance > Men's Clearance > View All",
-                                "American Eagle > Men > Tops > T-Shirts",
-                                "American Eagle > Men > Tops > View All",
-                                "American Eagle > Men > Tops > All Tees"
-                            ]
-                        },
-                        "ar": {
-                            "lvl0": [
-                                "أمريكان إيجل"
-                            ],
-                            "lvl1": [
-                                "أمريكان إيجل > الرجال"
-                            ],
-                            "lvl2": [
-                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال",
-                                "أمريكان إيجل > الرجال > الملابس العلوية"
-                            ],
-                            "lvl3": [
-                                "أمريكان إيجل > الرجال > الملابس العلوية > التي-شيرتات",
-                                "أمريكان إيجل > الرجال > الملابس العلوية > اعرض الكل",
-                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات"
-                            ]
-                        }
-                    },
-                    "lhn_category": {
-                        "en": {
-                            "lvl0": [
-                                "American Eagle"
-                            ],
-                            "lvl1": [
-                                "American Eagle > Clearance",
-                                "American Eagle > Men"
-                            ],
-                            "lvl2": [
-                                "American Eagle > Clearance > Men's Clearance",
-                                "American Eagle > Men > Shop All Men",
-                                "American Eagle > Men > Tops"
-                            ],
-                            "lvl3": [
-                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
-                                "American Eagle > Men > Tops > T-Shirts",
-                                "American Eagle > Men > Tops > All Tees"
-                            ]
-                        },
-                        "ar": {
-                            "lvl0": [
-                                "أمريكان إيجل"
-                            ],
-                            "lvl1": [
-                                "أمريكان إيجل > الرجال"
-                            ],
-                            "lvl2": [
-                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال",
-                                "أمريكان إيجل > الرجال > الملابس العلوية"
-                            ],
-                            "lvl3": [
-                                "أمريكان إيجل > الرجال > الملابس العلوية > التي-شيرتات",
-                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات"
-                            ]
-                        }
-                    },
-                    "field_category": {
-                        "en": [
-                            {
-                                "lvl0": "All"
-                            },
-                            {
-                                "lvl0": "Clearance"
-                            },
-                            {
-                                "lvl0": "Men"
-                            }
-                        ],
-                        "ar": [
-                            {
-                                "lvl0": "جميع"
-                            },
-                            {
-                                "lvl0": "تنزيلات"
-                            },
-                            {
-                                "lvl0": "الرجال"
-                            }
-                        ]
-                    },
-                    "super_category": {
-                        "en": [
-                            "All",
-                            "American Eagle"
-                        ],
-                        "ar": [
-                            "جميع",
-                            "أمريكان إيجل"
-                        ]
-                    },
-                    "is_new": {
-                        "en": "",
-                        "ar": ""
-                    },
-                    "is_buyable": {
-                        "en": true,
-                        "ar": true
-                    },
-                    "new_arrivals": {
-                        "en": "1661932036",
-                        "ar": "1661932026"
-                    },
-                    "attr_style_code": {
-                        "en": "4165-2059",
-                        "ar": "4165-2059"
-                    },
-                    "objectID": "4165-2059-410"
                 },
                 {
                     "created": {
@@ -14829,7 +14489,742 @@
                         "en": "0181-2502",
                         "ar": "0181-2502"
                     },
+                    "attr_bv_total_review_count": 3,
+                    "attr_bv_rating_distribution": [
+                        "rating_5_2",
+                        "rating_1_1"
+                    ],
+                    "attr_bv_average_overall_rating": {
+                        "en": 3.7,
+                        "ar": 3.7
+                    },
+                    "attr_bv_rating": {
+                        "en": [
+                            "rating_4"
+                        ],
+                        "ar": [
+                            "rating_4"
+                        ]
+                    },
                     "objectID": "0181-2502-006"
+                },
+                {
+                    "created": {
+                        "en": 1661932026,
+                        "ar": 1661932026
+                    },
+                    "nid": 282121,
+                    "sku": "4165-2059-410",
+                    "title": {
+                        "en": "AE Super Soft Slub Icon Henley T-Shirt",
+                        "ar": "تي-شيرت هينلي من نسيج السلوب فائق النعومة"
+                    },
+                    "search_api_id": "entity:node/282121:ar",
+                    "search_api_datasource": "entity:node",
+                    "search_api_language": "ar",
+                    "atb_product_data": {
+                        "en": {
+                            "sku_type": "configurable"
+                        },
+                        "ar": {
+                            "sku_type": "configurable"
+                        }
+                    },
+                    "gtm": {
+                        "gtm-type": "gtm-product-link",
+                        "gtm-category": "American Eagle/Clearance/Men's Clearance/Men's Tops",
+                        "gtm-container": "search result page",
+                        "gtm-view-mode": "search_result",
+                        "gtm-department-name": "American Eagle|Clearance|Men's Clearance|Men's Tops",
+                        "gtm-department-id": 57741,
+                        "gtm-main-sku": "4165-2059-410",
+                        "gtm-name": "AE Super Soft Slub Icon Henley T-Shirt",
+                        "gtm-product-sku": "4165-2059-410",
+                        "gtm-product-sku-class-identifier": "_165-2059-410",
+                        "gtm-sku-type": "configurable",
+                        "gtm-brand": "American Eagle",
+                        "gtm-dimension4": 4,
+                        "gtm-price": "165.00",
+                        "gtm-old-price": "550.00",
+                        "gtm-dimension3": "Discounted Product",
+                        "gtm-stock": "in stock",
+                        "gtm-magento-product-id": "487604"
+                    },
+                    "body": {
+                        "en": "",
+                        "ar": ""
+                    },
+                    "rendered_price": {
+                        "en": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">550.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">165.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (Save 70%)\n      </div>\n      </div>\n",
+                        "ar": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">550.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">165.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (%70 وفّر )\n      </div>\n      </div>\n"
+                    },
+                    "original_price": {
+                        "en": 550,
+                        "ar": 550
+                    },
+                    "price": {
+                        "en": 165,
+                        "ar": 165
+                    },
+                    "final_price": {
+                        "en": 165,
+                        "ar": 165
+                    },
+                    "discount": {
+                        "en": 70,
+                        "ar": 70
+                    },
+                    "attr_selling_price": {
+                        "en": [
+                            165
+                        ],
+                        "ar": [
+                            165
+                        ]
+                    },
+                    "field_configured_skus": [
+                        "129376977",
+                        "129376979",
+                        "129371994",
+                        "129371992",
+                        "129371990",
+                        "129376981",
+                        "129376983"
+                    ],
+                    "attr_delivery_ways": {
+                        "en": [
+                            "same_day_delivery_available"
+                        ],
+                        "ar": [
+                            "same_day_delivery_available"
+                        ]
+                    },
+                    "attr_product_brand": {
+                        "en": "",
+                        "ar": ""
+                    },
+                    "attr_color": {
+                        "en": [
+                            "Navy"
+                        ],
+                        "ar": [
+                            "أزرق داكن"
+                        ]
+                    },
+                    "attr_size": {
+                        "en": [
+                            "XS",
+                            "S",
+                            "6 Short"
+                        ],
+                        "ar": [
+                            "صغير جداً",
+                            "صغير",
+                            "6 Short"
+                        ]
+                    },
+                    "attr_color_family": {
+                        "en": [
+                            {
+                                "value": "blue",
+                                "label": "blue, swatch_color:#1690c8",
+                                "swatch_color": "#1690c8"
+                            }
+                        ],
+                        "ar": [
+                            {
+                                "value": "أزرق",
+                                "label": "أزرق, swatch_color:#1690c8",
+                                "swatch_color": "#1690c8"
+                            }
+                        ]
+                    },
+                    "attr_destruction": {
+                        "en": [
+                            "Not Ripped"
+                        ],
+                        "ar": [
+                            "غير ممزق"
+                        ]
+                    },
+                    "attr_fabric": {
+                        "en": [
+                            "Slub Jersey"
+                        ],
+                        "ar": [
+                            "سلوب الجيرسيه"
+                        ]
+                    },
+                    "attr_wash": {
+                        "en": [
+                            "Garment wash"
+                        ],
+                        "ar": [
+                            "نسيج مكحوت"
+                        ]
+                    },
+                    "attr_body": {
+                        "en": [
+                            "T-Shirt"
+                        ],
+                        "ar": [
+                            "تي-شيرت"
+                        ]
+                    },
+                    "attr_length": {
+                        "en": [
+                            "Standard length"
+                        ],
+                        "ar": [
+                            "طول عادي"
+                        ]
+                    },
+                    "attr_neckline": {
+                        "en": [
+                            "Henley"
+                        ],
+                        "ar": [
+                            "هينلي"
+                        ]
+                    },
+                    "attr_express_delivery": {
+                        "en": [
+                            "0"
+                        ],
+                        "ar": [
+                            "0"
+                        ]
+                    },
+                    "promotions": {
+                        "en": [],
+                        "ar": []
+                    },
+                    "media": [
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_410/4165_2059_410_of.4624548.jpg?itok=W4o16-vJ",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_410/4165_2059_410_f.4624554.jpg?itok=_7SectHN",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_410/4165_2059_410_b.4624557.jpg?itok=N-wVnhvR",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_410/4165_2059_410_ob.4624560.jpg?itok=szfsA9YZ",
+                            "image_type": "image"
+                        }
+                    ],
+                    "attr_aims_barcode": "AME_400369727509",
+                    "url": {
+                        "en": "/en/american-eagle/buy-ae-super-soft-slub-icon-henley-t-shirt-navy.html",
+                        "ar": "/ar/american-eagle/buy-ae-super-soft-slub-icon-henley-t-shirt-navy.html"
+                    },
+                    "product_labels": {
+                        "en": [],
+                        "ar": []
+                    },
+                    "stock_quantity": "15",
+                    "stock": 2,
+                    "in_stock": {
+                        "en": 1,
+                        "ar": 1
+                    },
+                    "changed": {
+                        "en": 1669644362,
+                        "ar": 1669644362
+                    },
+                    "field_category_name": {
+                        "en": {
+                            "lvl0": [
+                                "American Eagle"
+                            ],
+                            "lvl1": [
+                                "American Eagle > Clearance",
+                                "American Eagle > Men"
+                            ],
+                            "lvl2": [
+                                "American Eagle > Clearance > Men's Clearance",
+                                "American Eagle > Men > Shop All Men",
+                                "American Eagle > Men > Tops"
+                            ],
+                            "lvl3": [
+                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
+                                "American Eagle > Clearance > Men's Clearance > View All",
+                                "American Eagle > Men > Tops > T-Shirts",
+                                "American Eagle > Men > Tops > View All",
+                                "American Eagle > Men > Tops > All Tees"
+                            ]
+                        },
+                        "ar": {
+                            "lvl0": [
+                                "أمريكان إيجل"
+                            ],
+                            "lvl1": [
+                                "أمريكان إيجل > الرجال"
+                            ],
+                            "lvl2": [
+                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال",
+                                "أمريكان إيجل > الرجال > الملابس العلوية"
+                            ],
+                            "lvl3": [
+                                "أمريكان إيجل > الرجال > الملابس العلوية > التي-شيرتات",
+                                "أمريكان إيجل > الرجال > الملابس العلوية > اعرض الكل",
+                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات"
+                            ]
+                        }
+                    },
+                    "lhn_category": {
+                        "en": {
+                            "lvl0": [
+                                "American Eagle"
+                            ],
+                            "lvl1": [
+                                "American Eagle > Clearance",
+                                "American Eagle > Men"
+                            ],
+                            "lvl2": [
+                                "American Eagle > Clearance > Men's Clearance",
+                                "American Eagle > Men > Shop All Men",
+                                "American Eagle > Men > Tops"
+                            ],
+                            "lvl3": [
+                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
+                                "American Eagle > Men > Tops > T-Shirts",
+                                "American Eagle > Men > Tops > All Tees"
+                            ]
+                        },
+                        "ar": {
+                            "lvl0": [
+                                "أمريكان إيجل"
+                            ],
+                            "lvl1": [
+                                "أمريكان إيجل > الرجال"
+                            ],
+                            "lvl2": [
+                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال",
+                                "أمريكان إيجل > الرجال > الملابس العلوية"
+                            ],
+                            "lvl3": [
+                                "أمريكان إيجل > الرجال > الملابس العلوية > التي-شيرتات",
+                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات"
+                            ]
+                        }
+                    },
+                    "field_category": {
+                        "en": [
+                            {
+                                "lvl0": "All"
+                            },
+                            {
+                                "lvl0": "Clearance"
+                            },
+                            {
+                                "lvl0": "Men"
+                            }
+                        ],
+                        "ar": [
+                            {
+                                "lvl0": "جميع"
+                            },
+                            {
+                                "lvl0": "تنزيلات"
+                            },
+                            {
+                                "lvl0": "الرجال"
+                            }
+                        ]
+                    },
+                    "super_category": {
+                        "en": [
+                            "All",
+                            "American Eagle"
+                        ],
+                        "ar": [
+                            "جميع",
+                            "أمريكان إيجل"
+                        ]
+                    },
+                    "is_new": {
+                        "en": "",
+                        "ar": ""
+                    },
+                    "is_buyable": {
+                        "en": true,
+                        "ar": true
+                    },
+                    "new_arrivals": {
+                        "en": "1661932036",
+                        "ar": "1661932026"
+                    },
+                    "attr_style_code": {
+                        "en": "4165-2059",
+                        "ar": "4165-2059"
+                    },
+                    "objectID": "4165-2059-410"
+                },
+                {
+                    "created": {
+                        "en": 1661932026,
+                        "ar": 1661932026
+                    },
+                    "nid": 282126,
+                    "sku": "4165-2059-008",
+                    "title": {
+                        "en": "AE Super Soft Slub Icon Henley T-Shirt",
+                        "ar": "تي-شيرت هينلي من نسيج السلوب فائق النعومة"
+                    },
+                    "search_api_id": "entity:node/282126:ar",
+                    "search_api_datasource": "entity:node",
+                    "search_api_language": "ar",
+                    "atb_product_data": {
+                        "en": {
+                            "sku_type": "configurable"
+                        },
+                        "ar": {
+                            "sku_type": "configurable"
+                        }
+                    },
+                    "gtm": {
+                        "gtm-type": "gtm-product-link",
+                        "gtm-category": "American Eagle/Clearance/Men's Clearance/Men's Tops",
+                        "gtm-container": "search result page",
+                        "gtm-view-mode": "search_result",
+                        "gtm-department-name": "American Eagle|Clearance|Men's Clearance|Men's Tops",
+                        "gtm-department-id": 57741,
+                        "gtm-main-sku": "4165-2059-008",
+                        "gtm-name": "AE Super Soft Slub Icon Henley T-Shirt",
+                        "gtm-product-sku": "4165-2059-008",
+                        "gtm-product-sku-class-identifier": "_165-2059-008",
+                        "gtm-sku-type": "configurable",
+                        "gtm-brand": "American Eagle",
+                        "gtm-dimension4": 5,
+                        "gtm-price": "165.00",
+                        "gtm-old-price": "550.00",
+                        "gtm-dimension3": "Discounted Product",
+                        "gtm-stock": "in stock",
+                        "gtm-magento-product-id": "487616"
+                    },
+                    "body": {
+                        "en": "",
+                        "ar": ""
+                    },
+                    "rendered_price": {
+                        "en": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">550.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n              <span class=\"price-currency suffix\">EGP</span>\n            <span class=\"price-amount\">165.00</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (Save 70%)\n      </div>\n      </div>\n",
+                        "ar": "<div class=\"special-price-block\">\n      <div class=\"has--special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">550.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n  </div>\n\n      <div class=\"special--price\">\n      <div class=\"price-type__wrapper\">\n  <div class=\"price\">\n  <span class=\"price-wrapper\">\n    <div class=\"price\">\n            <span class=\"price-amount\">165.00</span>\n              <span class=\"price-currency suffix\">ج.م</span>\n                </div>\n  </span>\n</div>\n\n\n\n</div>\n\n    </div>\n\n          <div class=\"price--discount\">\n        (%70 وفّر )\n      </div>\n      </div>\n"
+                    },
+                    "original_price": {
+                        "en": 550,
+                        "ar": 550
+                    },
+                    "price": {
+                        "en": 165,
+                        "ar": 165
+                    },
+                    "final_price": {
+                        "en": 165,
+                        "ar": 165
+                    },
+                    "discount": {
+                        "en": 70,
+                        "ar": 70
+                    },
+                    "attr_selling_price": {
+                        "en": [
+                            165
+                        ],
+                        "ar": [
+                            165
+                        ]
+                    },
+                    "field_configured_skus": [
+                        "129376958",
+                        "129376950",
+                        "129376962",
+                        "129376955",
+                        "129376956",
+                        "129376946",
+                        "129376953"
+                    ],
+                    "attr_delivery_ways": {
+                        "en": [
+                            "same_day_delivery_available",
+                            "express_day_delivery_available"
+                        ],
+                        "ar": [
+                            "same_day_delivery_available",
+                            "express_day_delivery_available"
+                        ]
+                    },
+                    "attr_product_brand": {
+                        "en": "",
+                        "ar": ""
+                    },
+                    "attr_color": {
+                        "en": [
+                            "Charcoal"
+                        ],
+                        "ar": [
+                            "أسود فحمي"
+                        ]
+                    },
+                    "attr_size": {
+                        "en": [
+                            "S",
+                            "6 Short"
+                        ],
+                        "ar": [
+                            "صغير",
+                            "6 Short"
+                        ]
+                    },
+                    "attr_color_family": {
+                        "en": [
+                            {
+                                "value": "grey",
+                                "label": "grey, swatch_color:#777878",
+                                "swatch_color": "#777878"
+                            }
+                        ],
+                        "ar": [
+                            {
+                                "value": " رمادي",
+                                "label": " رمادي, swatch_color:#777878",
+                                "swatch_color": "#777878"
+                            }
+                        ]
+                    },
+                    "attr_destruction": {
+                        "en": [
+                            "Not Ripped"
+                        ],
+                        "ar": [
+                            "غير ممزق"
+                        ]
+                    },
+                    "attr_fabric": {
+                        "en": [
+                            "Slub Jersey"
+                        ],
+                        "ar": [
+                            "سلوب الجيرسيه"
+                        ]
+                    },
+                    "attr_wash": {
+                        "en": [
+                            "Garment wash"
+                        ],
+                        "ar": [
+                            "نسيج مكحوت"
+                        ]
+                    },
+                    "attr_body": {
+                        "en": [
+                            "T-Shirt"
+                        ],
+                        "ar": [
+                            "تي-شيرت"
+                        ]
+                    },
+                    "attr_length": {
+                        "en": [
+                            "Standard length"
+                        ],
+                        "ar": [
+                            "طول عادي"
+                        ]
+                    },
+                    "attr_neckline": {
+                        "en": [
+                            "Henley"
+                        ],
+                        "ar": [
+                            "هينلي"
+                        ]
+                    },
+                    "attr_express_delivery": {
+                        "en": [
+                            "1"
+                        ],
+                        "ar": [
+                            "1"
+                        ]
+                    },
+                    "promotions": {
+                        "en": [],
+                        "ar": []
+                    },
+                    "media": [
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_008/4165_2059_008_of.4646280.jpg?itok=HX7_bdDk",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_008/4165_2059_008_f.4646286.jpg?itok=hhRCrKIW",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_008/4165_2059_008_b.4646289.jpg?itok=6DmlEs6c",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_008/4165_2059_008_ob.4646292.jpg?itok=14DWxcdf",
+                            "image_type": "image"
+                        },
+                        {
+                            "url": "https://www.americaneagle.com.eg/sites/g/files/bndsjb1146/files/styles/product_listing/public/media/assets/AmericanEagle/4165_2059_008/4165_2059_008_os.4646295.jpg?itok=2Alh-txm",
+                            "image_type": "image"
+                        }
+                    ],
+                    "attr_aims_barcode": "AME_400369727509",
+                    "url": {
+                        "en": "/en/american-eagle/buy-ae-super-soft-slub-icon-henley-t-shirt-charcoal.html",
+                        "ar": "/ar/american-eagle/buy-ae-super-soft-slub-icon-henley-t-shirt-charcoal.html"
+                    },
+                    "product_labels": {
+                        "en": [],
+                        "ar": []
+                    },
+                    "stock_quantity": "1",
+                    "stock": 2,
+                    "in_stock": {
+                        "en": 1,
+                        "ar": 1
+                    },
+                    "changed": {
+                        "en": 1669644362,
+                        "ar": 1669644362
+                    },
+                    "field_category_name": {
+                        "en": {
+                            "lvl0": [
+                                "American Eagle"
+                            ],
+                            "lvl1": [
+                                "American Eagle > Clearance",
+                                "American Eagle > Men"
+                            ],
+                            "lvl2": [
+                                "American Eagle > Clearance > Men's Clearance",
+                                "American Eagle > Men > Shop All Men",
+                                "American Eagle > Men > Tops"
+                            ],
+                            "lvl3": [
+                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
+                                "American Eagle > Clearance > Men's Clearance > View All",
+                                "American Eagle > Men > Tops > T-Shirts",
+                                "American Eagle > Men > Tops > View All",
+                                "American Eagle > Men > Tops > All Tees"
+                            ]
+                        },
+                        "ar": {
+                            "lvl0": [
+                                "أمريكان إيجل"
+                            ],
+                            "lvl1": [
+                                "أمريكان إيجل > الرجال"
+                            ],
+                            "lvl2": [
+                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال",
+                                "أمريكان إيجل > الرجال > الملابس العلوية"
+                            ],
+                            "lvl3": [
+                                "أمريكان إيجل > الرجال > الملابس العلوية > التي-شيرتات",
+                                "أمريكان إيجل > الرجال > الملابس العلوية > اعرض الكل",
+                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات"
+                            ]
+                        }
+                    },
+                    "lhn_category": {
+                        "en": {
+                            "lvl0": [
+                                "American Eagle"
+                            ],
+                            "lvl1": [
+                                "American Eagle > Clearance",
+                                "American Eagle > Men"
+                            ],
+                            "lvl2": [
+                                "American Eagle > Clearance > Men's Clearance",
+                                "American Eagle > Men > Shop All Men",
+                                "American Eagle > Men > Tops"
+                            ],
+                            "lvl3": [
+                                "American Eagle > Clearance > Men's Clearance > Men's Tops",
+                                "American Eagle > Men > Tops > T-Shirts",
+                                "American Eagle > Men > Tops > All Tees"
+                            ]
+                        },
+                        "ar": {
+                            "lvl0": [
+                                "أمريكان إيجل"
+                            ],
+                            "lvl1": [
+                                "أمريكان إيجل > الرجال"
+                            ],
+                            "lvl2": [
+                                "أمريكان إيجل > الرجال > تسوق جميع منتجات الرجال",
+                                "أمريكان إيجل > الرجال > الملابس العلوية"
+                            ],
+                            "lvl3": [
+                                "أمريكان إيجل > الرجال > الملابس العلوية > التي-شيرتات",
+                                "أمريكان إيجل > الرجال > الملابس العلوية > كل التي-شيرتات"
+                            ]
+                        }
+                    },
+                    "field_category": {
+                        "en": [
+                            {
+                                "lvl0": "All"
+                            },
+                            {
+                                "lvl0": "Clearance"
+                            },
+                            {
+                                "lvl0": "Men"
+                            }
+                        ],
+                        "ar": [
+                            {
+                                "lvl0": "جميع"
+                            },
+                            {
+                                "lvl0": "تنزيلات"
+                            },
+                            {
+                                "lvl0": "الرجال"
+                            }
+                        ]
+                    },
+                    "super_category": {
+                        "en": [
+                            "All",
+                            "American Eagle"
+                        ],
+                        "ar": [
+                            "جميع",
+                            "أمريكان إيجل"
+                        ]
+                    },
+                    "is_new": {
+                        "en": "",
+                        "ar": ""
+                    },
+                    "is_buyable": {
+                        "en": true,
+                        "ar": true
+                    },
+                    "new_arrivals": {
+                        "en": "1661932036",
+                        "ar": "1661932026"
+                    },
+                    "attr_style_code": {
+                        "en": "4165-2059",
+                        "ar": "4165-2059"
+                    },
+                    "objectID": "4165-2059-008"
                 },
                 {
                     "created": {
@@ -16554,8 +16949,8 @@
                     "S": 24,
                     "6 Short": 15,
                     "M": 15,
-                    "XL": 11,
                     "XXL": 11,
+                    "XL": 10,
                     "L": 9,
                     "XXXL": 6
                 },
@@ -16592,7 +16987,11 @@
                     "Collar": 1
                 },
                 "attr_bv_rating.en": {
-                    "rating_5": 1
+                    "rating_5": 12,
+                    "rating_4": 6,
+                    "rating_1": 3,
+                    "rating_3": 3,
+                    "rating_2": 2
                 },
                 "attr_destruction.en": {
                     "Not Ripped": 9
@@ -16634,7 +17033,7 @@
             "queryAfterRemoval": "",
             "params": "query=&hitsPerPage=3000&maxValuesPerFacet=NaN&page=0&highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&filters=(stock%20%3E%200)%20AND%20(field_category_name.en.lvl3%3A%20%22American%20Eagle%20%3E%20Men%20%3E%20Tops%20%3E%20All%20Tees%22)&ruleContexts=%5B%22american_eagle__men__tops__all_tees%22%2C%22american_eagle__men__tops%22%2C%22american_eagle__men%22%2C%22american_eagle%22%5D&optionalFilters=super_category%3AAmerican%20Eagle%20&facets=%5B%22final_price.en%22%2C%22attr_size.en%22%2C%22attr_color_family.en.value%22%2C%22attr_bv_rating.en%22%2C%22attr_division_name.en%22%2C%22attr_product_collection.en%22%2C%22attr_activity.en%22%2C%22attr_benefit.en%22%2C%22attr_push_lining_level.en%22%2C%22attr_rise.en%22%2C%22attr_shape.en%22%2C%22attr_shape_material_type.en%22%2C%22attr_silhouette.en%22%2C%22attr_sleeve_length.en%22%2C%22attr_straps.en%22%2C%22attr_stretch.en%22%2C%22attr_stretch_level.en%22%2C%22attr_waistband.en%22%2C%22field_category.en%22%2C%22attr_waistband_detail.en%22%2C%22attr_product_brand.en%22%2C%22attr_wash.en%22%2C%22attr_fly_function.en%22%2C%22attr_fabric.en%22%2C%22attr_lining.en%22%2C%22attr_length.en%22%2C%22attr_inseam_length.en%22%2C%22attr_inseams_offered.en%22%2C%22attr_graphic_pattern.en%22%2C%22attr_pack_size.en%22%2C%22attr_fit_type.en%22%2C%22attr_fit.en%22%2C%22attr_fabric_content.en%22%2C%22attr_embellishment_trim.en%22%2C%22attr_neckline.en%22%2C%22attr_destruction.en%22%2C%22attr_coverage.en%22%2C%22attr_body.en%22%2C%22attr_padding.en%22%2C%22attr_mix_match_fit.en%22%2C%22field_acq_promotion_label.en.web%22%5D&tagFilters=&optionalFilters=%5B%22discount.en%3A30%22%2C%22discount.en%3A40%22%5D",
             "index": "01live_aeoeg_product_list",
-            "queryID": "120f26c189b6a2e9a0cbcbd78e7d1744",
+            "queryID": "3ff4c0272115e9457f8544f05fce0721",
             "renderingContent": {},
             "processingTimeMS": 6,
             "processingTimingsMS": {

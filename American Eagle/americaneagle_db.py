@@ -15,6 +15,7 @@ sample_file_name = "ae_sample.json"
 links_file_name = "links.json"
 
 main_path = os.path.dirname(os.path.realpath(__file__))
+
 links_file_path = os.getcwd() + "/" + links_file_name
 db_file_path = main_path + "/" + db_file_name
 sample_file_path = main_path + "/" + sample_file_name
@@ -91,12 +92,12 @@ for section in sections:
                     for size in english_sizes:
                         if size[0].isalpha():
                             sz = {
-                                'name': size,
+                                'name': size.replace(' ',''),
                                 'availability': True if size_aliases[size] in arabic_sizes else False,
                             }
                         else:
                             sz = {
-                                'name': size,
+                                'name': size.replace(' ',''),
                                 'availability': True if size in arabic_sizes else False
                             }
                             
@@ -116,7 +117,7 @@ for section in sections:
                                     'item_link': main_url + item['url']['en'],
                                     'color': translator.translate(item['attr_color']['ar'][0]).text.title(),
                                     'color_code':item['objectID'][-3:],
-                                    'color_image': [image['url'] for image in item['media'] if '_f.' in image['url'] or '_of.' in image['url']][0],
+                                    'color_image': [image['url'] for image in item['media'] if '_f.' in image['url']][0],
                                     'images': [image['url'] for image in item['media']],
                                     'sizes': sizes                           
                                 }
@@ -162,6 +163,16 @@ for id in ids:
             }
         )
     except Exception as e:print(e)
+    
+for item in stock:
+    try:
+        item['default_option'] = {
+            "default_color": item['item_options'][0]['color'],
+            "default_color_code": item['item_options'][0]['color_code'],
+            "default_size": item['item_options'][0]['sizes'][0],
+            "default_image": item['item_options'][0]['images'][0],           
+        }
+    except Exception as e:print(e,item['item_id'])
 
 with open(db_file_path, "w", encoding='utf-8') as outfile:
     outfile.write(json.dumps(stock, indent=4,ensure_ascii = False,cls=NpEncoder))
