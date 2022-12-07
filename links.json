@@ -195,11 +195,11 @@
     {
         "Men":
         {
-            "T-Shirts & Tops_1": "https://www.defacto.com/en-eg/Catalog/PartialIndexScrollResult?page={}&SortOrder=0&pageSize=60&q=&fx_c1=1610&fx_c2=1616&fx_c3=1630"    
+            "men": "https://www.defacto.com/en-eg/Catalog/PartialIndexScrollResult?page={}&SortOrder=0&pageSize=60&q=&fx_c1=1610"
         },
         "Women":
         {
-
+            "women": "https://www.defacto.com/en-eg/Catalog/PartialIndexScrollResult?page={}&SortOrder=0&pageSize=60&q=&fx_c1=1608"
         }
     }
 }

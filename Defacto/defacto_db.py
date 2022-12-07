@@ -15,16 +15,21 @@ images_url = "https://dfcdn.defacto.com.tr/7/"
 db_file_name = "defacto_stock.json"
 sample_file_name = "defacto_sample.json"
 links_file_name = "links.json"
+categories_file_name = "categories.json"
 
 main_path = os.path.dirname(os.path.realpath(__file__))
 
 links_file_path = os.getcwd() + "/" + links_file_name
 db_file_path = main_path + "/" + db_file_name
 sample_file_path = main_path + "/" + sample_file_name
+categories_file_path = main_path + "/" + categories_file_name
 
 with open(links_file_path,encoding='UTF-8') as sections_file:    
     sections = json.load(sections_file)[brand_name] 
 
+with open(categories_file_path,encoding='UTF-8') as categories_file:    
+    categories = json.load(categories_file)
+    
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
 }
@@ -57,6 +62,7 @@ print("-------------------------------------------")
 
 unmerged_stock = []
 ids = []
+# categories = {}
 
 class NpEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -88,6 +94,7 @@ for section in sections:
                     for item in items:
                         try:
                             item_id = item['ProductMainCode']
+                            # categories[item['CategoriesLvl3'][0]['CategoryName']] = item['CategoriesLvl3'][0]['CategoryName']
                             
                             if int(item_id[1:5]) not in ids:
                                 ids.append(int(item_id[1:5]))
@@ -98,7 +105,7 @@ for section in sections:
                                 {
                                     'item_brand': "Defacto",
                                     'item_section': section,
-                                    'item_category': category,
+                                    'item_category': categories[section][item['CategoriesLvl3'][0]['CategoryName']],
                                     'item_id': int(item_id[1:5]),
                                     'item_name': item['ProductName'],
                                     'item_on_sale': True if item['ProductPriceInclTax'] != item['ProductVariantDiscountedPriceInclTax'] else False,
@@ -116,6 +123,9 @@ for section in sections:
                         except Exception as e:print(e)
                 else:
                     print("{} Bad Request".format(section))
+                    
+# with open('women_categories.json', "w", encoding='utf-8') as outfile:
+#     outfile.write(json.dumps(categories, indent=4,ensure_ascii = False))
             
 print('--------------------Merging Data---------------------')
             
