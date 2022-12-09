@@ -16,6 +16,13 @@ db = firestore.client()
 db_file  = open('Dalydress/dalydress_stock.json')
 item_stock = json.load(db_file)
 
+def delete_items():
+    docs = db.collection('itemStock').where('brand', '==', 'Dalydress').stream()
+    # print(len(list(docs)))
+
+    for doc in docs:
+        db.collection('itemStock').document(doc.id).delete()
+        
 def random_data():
     for i in range(50):
         y = random.randrange(len(item_stock))
@@ -38,3 +45,4 @@ def random_data():
         except Exception as e:print(e)
         
 random_data()
+# delete_items()

@@ -88,15 +88,15 @@ for section in sections:
                                         'item_id': item_id,
                                         'item_name': item['title'],
                                         'item_on_sale': False if item['discount'] == 0 else True,
-                                        'item_old_price': math.floor(item['compare_at_price']) if item['compare_at_price'] != 0 else item['price'],
-                                        'item_new_price': math.floor(item['price']),
-                                        'item_discount': math.floor(item['discount']),
+                                        'item_old_price': int(math.floor(item['compare_at_price'])) if item['compare_at_price'] != 0 else int(math.floor(item['price'])),
+                                        'item_new_price': int(math.floor(item['price'])),
+                                        'item_discount': int(math.floor(item['discount'])),
                                         'item_link': main_url + item['handle'],
                                         'color': item['option_auto_color'][0].title(),
                                         'color_code': color_code,
                                         'color_image': item['image']['src'],
                                         'images': [img['src'] for img in item['images']],
-                                        'sizes': [size.upper() for size in item['option_auto_size']]                           
+                                        'sizes': [{'name': size.upper(), 'availability': True} for size in item['option_auto_size']]                           
                                     }
                             )
                 except Exception as e:print(e)
