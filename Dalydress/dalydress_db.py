@@ -64,7 +64,7 @@ for section in sections:
     for category in sections[section]:
         response = requests.post(db_url,headers=headers,json = sections[section][category])
         if response.status_code == 200:
-            print('Get "{} {}" Initial Request Status Code'.format(section,category), response.status_code)
+            print('Get "{} {}" Status Code'.format(section,category), response.status_code)
             item_count = response.json()['totalHits']
             print('{} Items Found in "{} {}" Section'.format(item_count,section,category))
             category_items = response.json()['results']
@@ -88,7 +88,7 @@ for section in sections:
                                         'item_id': item_id,
                                         'item_name': item['title'],
                                         'item_on_sale': False if item['discount'] == 0 else True,
-                                        'item_old_price': math.floor(item['compare_at_price']),
+                                        'item_old_price': math.floor(item['compare_at_price']) if item['compare_at_price'] != 0 else item['price'],
                                         'item_new_price': math.floor(item['price']),
                                         'item_discount': math.floor(item['discount']),
                                         'item_link': main_url + item['handle'],
@@ -113,6 +113,7 @@ for id in ids:
     options = item[['color','color_code','color_image','images','sizes']]
 
     item_options = []
+    dup_options = []
 
     for i in range(len(options)):
         option = {
@@ -122,7 +123,11 @@ for id in ids:
                 "images": options.iloc[i]['images'],
                 "sizes": options.iloc[i]['sizes']
             }
-        item_options.append(option)
+        if option not in dup_options:
+            item_options.append(option)
+            dup_options.append(option)
+        else:
+            print('dup_option')
     try:        
         stock.append(
             {

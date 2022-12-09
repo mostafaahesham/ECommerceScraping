@@ -13,7 +13,7 @@ cred = credentials.Certificate(main_path + "/" + sak)
 app = firebase_admin.initialize_app(cred)
 db = firestore.client()
 
-db_file  = open('Defacto/defacto_stock.json')
+db_file  = open('Dalydress/dalydress_stock.json')
 item_stock = json.load(db_file)
 
 def random_data():
