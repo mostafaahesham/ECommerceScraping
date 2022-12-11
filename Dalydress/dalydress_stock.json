@@ -1609,10 +1609,6 @@
                         "availability": true
                     },
                     {
-                        "name": "M",
-                        "availability": true
-                    },
-                    {
                         "name": "L",
                         "availability": true
                     },
@@ -7833,10 +7829,6 @@
                 ],
                 "sizes": [
                     {
-                        "name": "30",
-                        "availability": true
-                    },
-                    {
                         "name": "32",
                         "availability": true
                     },
@@ -7891,7 +7883,7 @@
             "default_color": "Dr.Grey",
             "default_color_code": "095",
             "default_size": {
-                "name": "30",
+                "name": "32",
                 "availability": true
             },
             "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14107979-1.jpg?v=1670396700"
@@ -8018,10 +8010,6 @@
                 ],
                 "sizes": [
                     {
-                        "name": "S",
-                        "availability": true
-                    },
-                    {
                         "name": "XL",
                         "availability": true
                     }
@@ -8036,46 +8024,6 @@
                 "availability": true
             },
             "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14002397-1_eb2b8d28-97f7-4378-aad3-8b4d50c7f98b.jpg?v=1670399148"
-        }
-    },
-    {
-        "item_brand": "Dalydress",
-        "item_section": "Men",
-        "item_category": "Trousers & Jeans",
-        "item_id": 22046050277,
-        "item_name": "Denim",
-        "item_on_sale": true,
-        "item_old_price": 649,
-        "item_new_price": 299,
-        "item_discount": 53,
-        "item_link": "https://dalydress.com/products/220-460-502-77-3189",
-        "item_options": [
-            {
-                "color": "Light Wash",
-                "color_code": "3189",
-                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14002878-1.jpg?v=1670399110",
-                "images": [
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14002878-1.jpg?v=1670399110",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14002878-2.jpg?v=1670399110",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14002878-3.jpg?v=1670399110",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14002878-4.jpg?v=1670399110"
-                ],
-                "sizes": [
-                    {
-                        "name": "40",
-                        "availability": true
-                    }
-                ]
-            }
-        ],
-        "default_option": {
-            "default_color": "Light Wash",
-            "default_color_code": "3189",
-            "default_size": {
-                "name": "40",
-                "availability": true
-            },
-            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14002878-1.jpg?v=1670399110"
         }
     },
     {
@@ -8345,10 +8293,6 @@
                 ],
                 "sizes": [
                     {
-                        "name": "S",
-                        "availability": true
-                    },
-                    {
                         "name": "M",
                         "availability": true
                     },
@@ -8415,7 +8359,7 @@
             "default_color": "Black",
             "default_color_code": "032",
             "default_size": {
-                "name": "S",
+                "name": "M",
                 "availability": true
             },
             "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13949723-1.jpg?v=1670140340"
@@ -12908,10 +12852,6 @@
                     {
                         "name": "M",
                         "availability": true
-                    },
-                    {
-                        "name": "XXL",
-                        "availability": true
                     }
                 ]
             }
@@ -15444,47 +15384,6 @@
         "item_brand": "Dalydress",
         "item_section": "Men",
         "item_category": "Suits & Blazers",
-        "item_id": 2505230084,
-        "item_name": "Blazer",
-        "item_on_sale": true,
-        "item_old_price": 2399,
-        "item_new_price": 999,
-        "item_discount": 58,
-        "item_link": "https://dalydress.com/products/250-52-3008-4-3116",
-        "item_options": [
-            {
-                "color": "Indigo Wash",
-                "color_code": "3116",
-                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13904555-1.jpg?v=1670144261",
-                "images": [
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13904555-1.jpg?v=1670144261",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13904555-2.jpg?v=1670144261",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13904555-3.jpg?v=1670144261",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13904555-4.jpg?v=1670144261",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13904555-5.jpg?v=1670144261"
-                ],
-                "sizes": [
-                    {
-                        "name": "52",
-                        "availability": true
-                    }
-                ]
-            }
-        ],
-        "default_option": {
-            "default_color": "Indigo Wash",
-            "default_color_code": "3116",
-            "default_size": {
-                "name": "52",
-                "availability": true
-            },
-            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13904555-1.jpg?v=1670144261"
-        }
-    },
-    {
-        "item_brand": "Dalydress",
-        "item_section": "Men",
-        "item_category": "Suits & Blazers",
         "item_id": 2205230278,
         "item_name": "Blazer",
         "item_on_sale": true,
@@ -17442,10 +17341,6 @@
                 ],
                 "sizes": [
                     {
-                        "name": "100",
-                        "availability": true
-                    },
-                    {
                         "name": "130",
                         "availability": true
                     }
@@ -17456,54 +17351,10 @@
             "default_color": "Black/ Brown",
             "default_color_code": "408",
             "default_size": {
-                "name": "100",
+                "name": "130",
                 "availability": true
             },
             "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13922542-1.jpg?v=1670399986"
-        }
-    },
-    {
-        "item_brand": "Dalydress",
-        "item_section": "Men",
-        "item_category": "Accessories",
-        "item_id": 22048308290,
-        "item_name": "Belt",
-        "item_on_sale": true,
-        "item_old_price": 499,
-        "item_new_price": 199,
-        "item_discount": 60,
-        "item_link": "https://dalydress.com/products/220-48-308-290-408",
-        "item_options": [
-            {
-                "color": "Black/ Brown",
-                "color_code": "408",
-                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13922412-1.jpg?v=1670141933",
-                "images": [
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13922412-1.jpg?v=1670141933",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13922412-2.jpg?v=1670141933",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13922412-3.jpg?v=1670141933",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13922412-4.jpg?v=1670141933",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13922412-5.jpg?v=1670141933",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13922412-6.jpg?v=1670141933",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13922412-7.jpg?v=1670141933",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13922412-8.jpg?v=1670141933"
-                ],
-                "sizes": [
-                    {
-                        "name": "110",
-                        "availability": true
-                    }
-                ]
-            }
-        ],
-        "default_option": {
-            "default_color": "Black/ Brown",
-            "default_color_code": "408",
-            "default_size": {
-                "name": "110",
-                "availability": true
-            },
-            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13922412-1.jpg?v=1670141933"
         }
     },
     {
@@ -19202,47 +19053,6 @@
                 "availability": true
             },
             "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13898984-1_a5601fb1-fcb1-4d6d-a7a0-0cf46de13c1f.jpg?v=1670398655"
-        }
-    },
-    {
-        "item_brand": "Dalydress",
-        "item_section": "Women",
-        "item_category": "Suits & Blazers",
-        "item_id": 24062091045,
-        "item_name": "Vest",
-        "item_on_sale": true,
-        "item_old_price": 1599,
-        "item_new_price": 899,
-        "item_discount": 43,
-        "item_link": "https://dalydress.com/products/240-620-910-45-032",
-        "item_options": [
-            {
-                "color": "Black",
-                "color_code": "032",
-                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13597917-1_106e5a5d-faca-4c5d-8cf3-143eb0315448.jpg?v=1670403564",
-                "images": [
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13597917-1_106e5a5d-faca-4c5d-8cf3-143eb0315448.jpg?v=1670403564",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13597917-2_9ad57772-91bd-4164-b580-2f73534f39bf.jpg?v=1670403564",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13597917-3_331507f9-8151-4961-8e6b-20caccb63ea3.jpg?v=1670403564",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13597917-4_33eb32b3-79dc-46a3-8caf-7517f97e420e.jpg?v=1670403564",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13597917-5_e478e00a-db3e-4479-9578-f2dcc518e9e0.jpg?v=1670403564"
-                ],
-                "sizes": [
-                    {
-                        "name": "S",
-                        "availability": true
-                    }
-                ]
-            }
-        ],
-        "default_option": {
-            "default_color": "Black",
-            "default_color_code": "032",
-            "default_size": {
-                "name": "S",
-                "availability": true
-            },
-            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13597917-1_106e5a5d-faca-4c5d-8cf3-143eb0315448.jpg?v=1670403564"
         }
     },
     {
@@ -26502,47 +26312,6 @@
         "item_brand": "Dalydress",
         "item_section": "Women",
         "item_category": "Jackets & Coats",
-        "item_id": 240250300818,
-        "item_name": "Jacket",
-        "item_on_sale": true,
-        "item_old_price": 1899,
-        "item_new_price": 799,
-        "item_discount": 57,
-        "item_link": "https://dalydress.com/products/240-250-3008-18-4162",
-        "item_options": [
-            {
-                "color": "Light Blue",
-                "color_code": "4162",
-                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13902780-1.jpg?v=1670401916",
-                "images": [
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13902780-1.jpg?v=1670401916",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13902780-2.jpg?v=1670401916",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13902780-3.jpg?v=1670401916",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13902780-4.jpg?v=1670401916",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13902780-5.jpg?v=1670401916"
-                ],
-                "sizes": [
-                    {
-                        "name": "46",
-                        "availability": true
-                    }
-                ]
-            }
-        ],
-        "default_option": {
-            "default_color": "Light Blue",
-            "default_color_code": "4162",
-            "default_size": {
-                "name": "46",
-                "availability": true
-            },
-            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13902780-1.jpg?v=1670401916"
-        }
-    },
-    {
-        "item_brand": "Dalydress",
-        "item_section": "Women",
-        "item_category": "Jackets & Coats",
         "item_id": 24025091052,
         "item_name": "Jacket",
         "item_on_sale": true,
@@ -27573,10 +27342,6 @@
                 ],
                 "sizes": [
                     {
-                        "name": "38",
-                        "availability": true
-                    },
-                    {
                         "name": "40",
                         "availability": true
                     },
@@ -27591,7 +27356,7 @@
             "default_color": "Black",
             "default_color_code": "032",
             "default_size": {
-                "name": "38",
+                "name": "40",
                 "availability": true
             },
             "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13924690-1_d7c47564-1c5c-415c-8f20-05486b8060e3.jpg?v=1670402796"
@@ -27622,10 +27387,6 @@
                 ],
                 "sizes": [
                     {
-                        "name": "38",
-                        "availability": true
-                    },
-                    {
                         "name": "40",
                         "availability": true
                     },
@@ -27652,7 +27413,7 @@
             "default_color": "Twillight Blue",
             "default_color_code": "3480",
             "default_size": {
-                "name": "38",
+                "name": "40",
                 "availability": true
             },
             "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13901172-1.jpg?v=1670402924"
@@ -27714,6 +27475,51 @@
                 "availability": true
             },
             "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13946975-1.jpg?v=1669635843"
+        }
+    },
+    {
+        "item_brand": "Dalydress",
+        "item_section": "Women",
+        "item_category": "Jackets & Coats",
+        "item_id": 24025091055,
+        "item_name": "Jacket",
+        "item_on_sale": true,
+        "item_old_price": 1299,
+        "item_new_price": 699,
+        "item_discount": 46,
+        "item_link": "https://dalydress.com/products/240-250-910-55-3151",
+        "item_options": [
+            {
+                "color": "Medium Wash",
+                "color_code": "3151",
+                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13612085-1_163a6517-c85a-4502-885c-0cb0c8208ff2.jpg?v=1670148465",
+                "images": [
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13612085-1_163a6517-c85a-4502-885c-0cb0c8208ff2.jpg?v=1670148465",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13612085-2_5d321f2d-159d-45d8-9e56-b75c416ab688.jpg?v=1670148465",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13612085-3_99618ff4-e3d7-433e-b978-0464eab4af57.jpg?v=1670148465",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13612085-4_65e76037-8f74-42f1-8110-339d20d2c643.jpg?v=1670148465",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13612085-5_042086dc-2ac0-45db-a27c-5e1f14da5747.jpg?v=1670148465"
+                ],
+                "sizes": [
+                    {
+                        "name": "36",
+                        "availability": true
+                    },
+                    {
+                        "name": "42",
+                        "availability": true
+                    }
+                ]
+            }
+        ],
+        "default_option": {
+            "default_color": "Medium Wash",
+            "default_color_code": "3151",
+            "default_size": {
+                "name": "36",
+                "availability": true
+            },
+            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13612085-1_163a6517-c85a-4502-885c-0cb0c8208ff2.jpg?v=1670148465"
         }
     },
     {
@@ -29910,10 +29716,6 @@
                     {
                         "name": "40",
                         "availability": true
-                    },
-                    {
-                        "name": "42",
-                        "availability": true
                     }
                 ]
             }
@@ -29993,10 +29795,6 @@
                 "sizes": [
                     {
                         "name": "42",
-                        "availability": true
-                    },
-                    {
-                        "name": "44",
                         "availability": true
                     }
                 ]
@@ -30482,10 +30280,6 @@
                     },
                     {
                         "name": "L",
-                        "availability": true
-                    },
-                    {
-                        "name": "XL",
                         "availability": true
                     }
                 ]
@@ -31620,47 +31414,6 @@
         "item_brand": "Dalydress",
         "item_section": "Women",
         "item_category": "Dresses & Jumpsuits",
-        "item_id": 24010291029,
-        "item_name": "Dress",
-        "item_on_sale": true,
-        "item_old_price": 2299,
-        "item_new_price": 999,
-        "item_discount": 56,
-        "item_link": "https://dalydress.com/products/240-102-910-29-035",
-        "item_options": [
-            {
-                "color": "Off White",
-                "color_code": "035",
-                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13899493-1.jpg?v=1669111265",
-                "images": [
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13899493-1.jpg?v=1669111265",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13899493-2.jpg?v=1669111265",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13899493-3.jpg?v=1669111265",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13899493-4.jpg?v=1669111265",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13899493-5.jpg?v=1669111265"
-                ],
-                "sizes": [
-                    {
-                        "name": "L",
-                        "availability": true
-                    }
-                ]
-            }
-        ],
-        "default_option": {
-            "default_color": "Off White",
-            "default_color_code": "035",
-            "default_size": {
-                "name": "L",
-                "availability": true
-            },
-            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13899493-1.jpg?v=1669111265"
-        }
-    },
-    {
-        "item_brand": "Dalydress",
-        "item_section": "Women",
-        "item_category": "Dresses & Jumpsuits",
         "item_id": 240314301019,
         "item_name": "Kaftan",
         "item_on_sale": true,
@@ -31986,10 +31739,6 @@
                     {
                         "name": "M",
                         "availability": true
-                    },
-                    {
-                        "name": "L",
-                        "availability": true
                     }
                 ]
             }
@@ -32132,10 +31881,6 @@
                     },
                     {
                         "name": "L",
-                        "availability": true
-                    },
-                    {
-                        "name": "XL",
                         "availability": true
                     }
                 ]
@@ -32728,6 +32473,58 @@
                 "availability": true
             },
             "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13961251-1_b1f85b9c-2831-4c4f-87c8-84575b0c76d3.jpg?v=1667919089"
+        }
+    },
+    {
+        "item_brand": "Dalydress",
+        "item_section": "Women",
+        "item_category": "Dresses & Jumpsuits",
+        "item_id": 2602569109,
+        "item_name": "Jumpsuit",
+        "item_on_sale": true,
+        "item_old_price": 1849,
+        "item_new_price": 899,
+        "item_discount": 51,
+        "item_link": "https://dalydress.com/products/260-256-910-9-001",
+        "item_options": [
+            {
+                "color": "White",
+                "color_code": "001",
+                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13944940-1.jpg?v=1670401405",
+                "images": [
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13944940-1.jpg?v=1670401405",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13944940-2.jpg?v=1670401405",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13944940-3.jpg?v=1670401405",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13944940-4.jpg?v=1670401405"
+                ],
+                "sizes": [
+                    {
+                        "name": "S",
+                        "availability": true
+                    },
+                    {
+                        "name": "M",
+                        "availability": true
+                    },
+                    {
+                        "name": "L",
+                        "availability": true
+                    },
+                    {
+                        "name": "XL",
+                        "availability": true
+                    }
+                ]
+            }
+        ],
+        "default_option": {
+            "default_color": "White",
+            "default_color_code": "001",
+            "default_size": {
+                "name": "S",
+                "availability": true
+            },
+            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13944940-1.jpg?v=1670401405"
         }
     },
     {
@@ -34024,10 +33821,6 @@
                     },
                     {
                         "name": "42",
-                        "availability": true
-                    },
-                    {
-                        "name": "46",
                         "availability": true
                     },
                     {
@@ -36101,46 +35894,6 @@
         "item_brand": "Dalydress",
         "item_section": "Women",
         "item_category": "Accessories",
-        "item_id": 240402418112,
-        "item_name": "Bag",
-        "item_on_sale": false,
-        "item_old_price": 999,
-        "item_new_price": 999,
-        "item_discount": 0,
-        "item_link": "https://dalydress.com/products/240-40-2418-112-029",
-        "item_options": [
-            {
-                "color": "Grey",
-                "color_code": "029",
-                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14107252-1_dbe16179-00eb-4832-83b2-ce68ce7d672d.jpg?v=1670397817",
-                "images": [
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14107252-1_dbe16179-00eb-4832-83b2-ce68ce7d672d.jpg?v=1670397817",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14107252-2_6855580f-1d69-476f-8b22-d10f80e43475.jpg?v=1670397817",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14107252-3_326fd3c7-7ef9-4227-9984-74b3dadb5c43.jpg?v=1670397817",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14107252-4_21268a7c-8e90-4d2f-823b-85bc13f45f74.jpg?v=1670397817"
-                ],
-                "sizes": [
-                    {
-                        "name": "G",
-                        "availability": true
-                    }
-                ]
-            }
-        ],
-        "default_option": {
-            "default_color": "Grey",
-            "default_color_code": "029",
-            "default_size": {
-                "name": "G",
-                "availability": true
-            },
-            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/14107252-1_dbe16179-00eb-4832-83b2-ce68ce7d672d.jpg?v=1670397817"
-        }
-    },
-    {
-        "item_brand": "Dalydress",
-        "item_section": "Women",
-        "item_category": "Accessories",
         "item_id": 26063230240,
         "item_name": "Wallet",
         "item_on_sale": false,
@@ -38080,46 +37833,6 @@
         "item_brand": "Dalydress",
         "item_section": "Women",
         "item_category": "Accessories",
-        "item_id": 240402418100,
-        "item_name": "Bag",
-        "item_on_sale": true,
-        "item_old_price": 799,
-        "item_new_price": 399,
-        "item_discount": 50,
-        "item_link": "https://dalydress.com/products/240-40-2418-100-015",
-        "item_options": [
-            {
-                "color": "Yellow",
-                "color_code": "015",
-                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13915285-1.jpg?v=1670402230",
-                "images": [
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13915285-1.jpg?v=1670402230",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13915285-2.jpg?v=1670402230",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13915285-3.jpg?v=1670402230",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13915285-4.jpg?v=1670402230"
-                ],
-                "sizes": [
-                    {
-                        "name": "G",
-                        "availability": true
-                    }
-                ]
-            }
-        ],
-        "default_option": {
-            "default_color": "Yellow",
-            "default_color_code": "015",
-            "default_size": {
-                "name": "G",
-                "availability": true
-            },
-            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13915285-1.jpg?v=1670402230"
-        }
-    },
-    {
-        "item_brand": "Dalydress",
-        "item_section": "Women",
-        "item_category": "Accessories",
         "item_id": 26048217454,
         "item_name": "Belt",
         "item_on_sale": true,
@@ -38251,46 +37964,6 @@
                 "availability": true
             },
             "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973193-1.jpg?v=1670400843"
-        }
-    },
-    {
-        "item_brand": "Dalydress",
-        "item_section": "Women",
-        "item_category": "Accessories",
-        "item_id": 2405543021389,
-        "item_name": "Scarf",
-        "item_on_sale": true,
-        "item_old_price": 449,
-        "item_new_price": 199,
-        "item_discount": 55,
-        "item_link": "https://dalydress.com/products/240-554-302-1389-100",
-        "item_options": [
-            {
-                "color": "Multi",
-                "color_code": "100",
-                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13935320-1_f3593a68-a1f4-49b8-bc67-e3ffe4271df7.jpg?v=1670400786",
-                "images": [
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13935320-1_f3593a68-a1f4-49b8-bc67-e3ffe4271df7.jpg?v=1670400786",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13935320-2_7ec55b7b-1a4c-431e-a623-4375ddc2ed95.jpg?v=1670400786",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13935320-1_d7148f54-1495-4e8d-8c71-18d2ddcc6783.jpg?v=1670400786",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13935320-2_031f2e9c-35be-458e-9c47-0a563f13014e.jpg?v=1670400786"
-                ],
-                "sizes": [
-                    {
-                        "name": "G",
-                        "availability": true
-                    }
-                ]
-            }
-        ],
-        "default_option": {
-            "default_color": "Multi",
-            "default_color_code": "100",
-            "default_size": {
-                "name": "G",
-                "availability": true
-            },
-            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13935320-1_f3593a68-a1f4-49b8-bc67-e3ffe4271df7.jpg?v=1670400786"
         }
     },
     {
@@ -38766,41 +38439,120 @@
         "item_brand": "Dalydress",
         "item_section": "Women",
         "item_category": "Accessories",
-        "item_id": 26040302150,
-        "item_name": "Bag",
+        "item_id": 24048217642,
+        "item_name": "Belt",
         "item_on_sale": true,
-        "item_old_price": 579,
-        "item_new_price": 249,
-        "item_discount": 56,
-        "item_link": "https://dalydress.com/products/260-40-302-150-016",
+        "item_old_price": 399,
+        "item_new_price": 199,
+        "item_discount": 50,
+        "item_link": "https://dalydress.com/products/240-48-2176-42-004",
         "item_options": [
             {
-                "color": "Orange",
-                "color_code": "016",
-                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13937843-1.jpg?v=1670398836",
+                "color": "Beige",
+                "color_code": "004",
+                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13886080-1.jpg?v=1670398736",
                 "images": [
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13937843-1.jpg?v=1670398836",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13937843-2.jpg?v=1670398836",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13937843-3.jpg?v=1670398836",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13937843-4.jpg?v=1670398836",
-                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13937843-5.jpg?v=1670398836"
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13886080-1.jpg?v=1670398736",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13886080-2.jpg?v=1670398736",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13886080-3.jpg?v=1670398736",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13886080-4.jpg?v=1670398736",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13886080-5.jpg?v=1670398736"
                 ],
                 "sizes": [
                     {
-                        "name": "G",
+                        "name": "S/M",
                         "availability": true
                     }
                 ]
             }
         ],
         "default_option": {
-            "default_color": "Orange",
-            "default_color_code": "016",
+            "default_color": "Beige",
+            "default_color_code": "004",
             "default_size": {
-                "name": "G",
+                "name": "S/M",
                 "availability": true
             },
-            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13937843-1.jpg?v=1670398836"
+            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13886080-1.jpg?v=1670398736"
+        }
+    },
+    {
+        "item_brand": "Dalydress",
+        "item_section": "Women",
+        "item_category": "Accessories",
+        "item_id": 26048217616,
+        "item_name": "Belt",
+        "item_on_sale": true,
+        "item_old_price": 399,
+        "item_new_price": 199,
+        "item_discount": 50,
+        "item_link": "https://dalydress.com/products/260-48-2176-16-4728",
+        "item_options": [
+            {
+                "color": "Oxide",
+                "color_code": "4728",
+                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973599-1.jpg?v=1670398670",
+                "images": [
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973599-1.jpg?v=1670398670",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973599-2.jpg?v=1670398670",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973599-3.jpg?v=1670398670",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973599-4.jpg?v=1670398670"
+                ],
+                "sizes": [
+                    {
+                        "name": "S/M",
+                        "availability": true
+                    }
+                ]
+            }
+        ],
+        "default_option": {
+            "default_color": "Oxide",
+            "default_color_code": "4728",
+            "default_size": {
+                "name": "S/M",
+                "availability": true
+            },
+            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973599-1.jpg?v=1670398670"
+        }
+    },
+    {
+        "item_brand": "Dalydress",
+        "item_section": "Women",
+        "item_category": "Accessories",
+        "item_id": 240482174170,
+        "item_name": "Belt",
+        "item_on_sale": true,
+        "item_old_price": 349,
+        "item_new_price": 129,
+        "item_discount": 62,
+        "item_link": "https://dalydress.com/products/240-48-2174-170-032",
+        "item_options": [
+            {
+                "color": "Black",
+                "color_code": "032",
+                "color_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973612-1_082379dd-db9a-4848-85f7-14fbb6548372.jpg?v=1670398623",
+                "images": [
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973612-1_082379dd-db9a-4848-85f7-14fbb6548372.jpg?v=1670398623",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973612-2_40f2b45d-e32b-4f38-bd42-fd02b21e444a.jpg?v=1670398623",
+                    "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973612-3_654289e4-4a53-476f-b3a9-fc28298d0b0a.jpg?v=1670398623"
+                ],
+                "sizes": [
+                    {
+                        "name": "M/L",
+                        "availability": true
+                    }
+                ]
+            }
+        ],
+        "default_option": {
+            "default_color": "Black",
+            "default_color_code": "032",
+            "default_size": {
+                "name": "M/L",
+                "availability": true
+            },
+            "default_image": "https://cdn.shopify.com/s/files/1/0373/1190/5851/products/13973612-1_082379dd-db9a-4848-85f7-14fbb6548372.jpg?v=1670398623"
         }
     },
     {
@@ -40500,10 +40252,6 @@
                         "availability": true
                     },
                     {
-                        "name": "40",
-                        "availability": true
-                    },
-                    {
                         "name": "41",
                         "availability": true
                     }
@@ -40709,10 +40457,6 @@
                     },
                     {
                         "name": "38",
-                        "availability": true
-                    },
-                    {
-                        "name": "39",
                         "availability": true
                     },
                     {

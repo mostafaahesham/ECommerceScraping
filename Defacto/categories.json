@@ -39,10 +39,13 @@
         "Athlete": "Trousers & Jeans",
         "Sport Shoes": "Shoes",
         "Outerwear": "Jackets & Coats",
-        "Homewear Top": "T-Shirts & Tops"
+        "Homewear Top": "T-Shirts & Tops",
+        "Sneakers": "Shoes"
     },
     "Women":
     {
+        "Gloves": "Accessories",
+        "Sneakers": "Shoes",
         "Coat": "Jackets & Coats",
         "Trenchcoat": "Jackets & Coats",
         "Shirt": "Shirts & Blouses",

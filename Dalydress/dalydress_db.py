@@ -1,7 +1,6 @@
 import requests
 import json
 import os
-import time
 import math
 import numpy as np
 import pandas as pd
@@ -158,4 +157,3 @@ for item in stock:
 
 with open(db_file_path, "w", encoding='utf-8') as outfile:
     outfile.write(json.dumps(stock, indent=4,ensure_ascii = False,cls=NpEncoder))
-
